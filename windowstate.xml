@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<windowstate version="4" dataversion="20201016">
+	<window data="currencies" class="currencylist" pos="784,338,1134,688" />
+	<window data="languages" class="languagelist" pos="784,338,1134,688" />
+	<window data="" class="library" pos="894,64,1553,1006" />
+	<window data="" class="portraitselection" pos="443,284,1391,879" />
+	<window data="" class="select_dialog" pos="1467,69,1817,469" />
+	<window data="" class="tokenbag" pos="1991,86,3329,869" />
+	<window data="" class="moduleselection" pos="138,80,1741,1017" />
+	<window data="" class="pointerselection" pos="846,366,1096,621" />
+	<window data="" class="bettermoduleselection" pos="305,51,1903,882" />
+	<window data="tables.tab_patronattitudes@DD Xanathar's Guide to Everything" class="table" pos="459,531,859,931" />
+	<window data="charsheet.id-00001" class="charsheet_classes" pos="1447,206,1917,506" />
+	<window data="charsheet.id-00001" class="charsheet_healthcalc" pos="963,723,1363,843" />
+	<window data="charsheet.id-00001" class="charsheet" pos="934,-2,1384,935" />
+	<window data="charsheet.id-00001" class="charsheet_combatcalc" pos="2801,401,3301,621" />
+	<window data="charsheet.id-00001" class="coin_manager_add_window" pos="1718,358,2118,658" />
+	<window data="charsheet.id-00001" class="coin_manager_remove_window" pos="1718,358,2118,658" />
+	<window data="tables.tab_specialterms@DD Xanathar's Guide to Everything" class="table" pos="187,158,587,558" />
+	<window data="tables.tab_bindingmarks@DD Xanathar's Guide to Everything" class="table" pos="277,292,677,692" />
+	<window data="reference.classdata.warlock.abilities.thegreatoldone@DD PHB Deluxe" class="reference_classability" pos="3160,45,3510,345" />
+	<window data="reference.classdata.warlock@DD PHB Deluxe" class="reference_class" pos="1388,91,1913,886" />
+	<window data="reference.classdata.warlock.abilities.thecelestial@DD Xanathar's Guide to Everything" class="reference_classability" pos="1923,52,2273,352" />
+	<window data="reference.classdata.warlock.features.expandedspelllist_celestial_1@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="2048,156,2398,456" />
+	<window data="reference.classdata.warlock.abilities.thearchfey@DD PHB Deluxe" class="reference_classability" pos="1926,550,2276,850" />
+	<window data="reference.classdata.warlock.features.expandedspelllist_archfey_1@DD PHB Deluxe" class="reference_classfeature" pos="2056,668,2406,968" />
+	<window data="reference.classdata.warlock.abilities.hexblade@DD Xanathar's Guide to Everything" class="reference_classability" pos="2493,518,2843,818" />
+	<window data="reference.classdata.warlock.features.expandedspelllist_hexblade_1@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="2688,653,3038,953" />
+	<window data="reference.classdata.warlock.abilities.thefiend@DD PHB Deluxe" class="reference_classability" pos="2495,40,2845,340" />
+	<window data="reference.classdata.warlock.features.expandedspelllist_fiend_1@DD PHB Deluxe" class="reference_classfeature" pos="2727,193,3077,493" />
+	<window data="reference.classdata.warlock.features.expandedspelllist_greatoldone_1@DD PHB Deluxe" class="reference_classfeature" pos="3315,195,3665,495" />
+	<window data="charsheet.id-00001.featurelist.id-00001" class="ref_ability" pos="2815,364,3165,714" />
+	<window data="charsheet.id-00001.featurelist.id-00002" class="ref_ability" pos="1517,480,1867,830" />
+	<window data="reference.racedata.elf.traits.subrace@DD PHB Deluxe" class="reference_racialtrait" pos="1428,286,1778,636" />
+	<window data="reference.racedata.elf@DD PHB Deluxe" class="reference_race" pos="886,4,1216,971" />
+	<window data="reference.racedata.elf.subraces.darkelf_drow_@DD PHB Deluxe" class="reference_subrace" pos="1217,5,1526,970" />
+	<window data="image.img_acolyte_jpg@DD PHB Deluxe" class="imagewindow" pos="2250,69,2804,961" />
+	<window data="charsheet.id-00001.skilllist.id-00005" class="ref_ability" pos="1383,195,1733,545" />
+	<window data="reference.equipmentdata.crossbow_hand@DD PHB Deluxe" class="reference_weapon" pos="1456,324,1806,674" />
+	<window data="reference.equipmentlists.weapontable@DD Dungeon Masters Guide" class="reference_weapontable" pos="1046,85,1796,735" />
+	<window data="reference.equipmentdata.bandore@DD Dungeon Masters Guide" class="reference_equipment" pos="2029,339,2379,689" />
+	<window data="reference.equipmentlists.toolstable@DD Dungeon Masters Guide" class="reference_adventuringgeartable" pos="2004,277,2454,927" />
+	<window data="reference.equipmentdata.drowpoison@DD Dungeon Masters Guide" class="reference_equipment" pos="749,34,1099,384" />
+	<window data="reference.equipmentdata.artifact@DD Dungeon Masters Guide" class="reference_equipment" pos="1743,333,2093,683" />
+	<window data="reference.equipmentlists.adventuringgeartable@DD Dungeon Masters Guide" class="reference_adventuringgeartable" pos="1335,155,1785,805" />
+	<window data="reference.magicitemdata.cast_offleatherarmor@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2001,372,2351,722" />
+	<window data="reference.backgrounddata.acolyte@DD PHB Deluxe" class="reference_background" pos="1969,69,2319,419" />
+	<window data="reference.equipmentdata.scholar_spack@DD PHB Deluxe" class="reference_equipment" pos="2496,437,2846,787" />
+	<window data="reference.equipmentdata.leather@DD PHB Deluxe" class="reference_armor" pos="2875,130,3225,480" />
+	<window data="reference.classdata.warlock.features.bonuscantrips1@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1288,350,1638,650" />
+	<window data="reference.classdata.warlock.features.healinglight1@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1453,411,1803,711" />
+	<window data="reference.classdata.warlock@DD Xanathar's Guide to Everything" class="reference_class" pos="2770,31,3352,991" />
+	<window data="charsheet.id-00001.featurelist.id-00004" class="ref_ability" pos="2011,254,2361,604" />
+	<window data="charsheet.id-00002" class="charsheet" pos="450,-10,900,928" />
+	<window data="charsheet.id-00002" class="charsheet_classes" pos="1413,244,1883,544" />
+	<window data="charsheet.id-00002" class="charsheet_healthcalc" pos="884,545,1284,665" />
+	<window data="charsheet.id-00002" class="charsheet_combatcalc" pos="1366,690,1866,910" />
+	<window data="reference.racedata.elf.subraces.darkelf_drow_.traits.abilityscoreincrease@DD PHB Deluxe" class="reference_subracialtrait" pos="1524,319,1874,669" />
+	<window data="reference.racedata.elf.traits.abilityscoreincrease@DD PHB Deluxe" class="reference_racialtrait" pos="1168,320,1518,670" />
+	<window data="reference.racedata.elf.traits.age@DD PHB Deluxe" class="reference_racialtrait" pos="2261,612,2611,962" />
+	<window data="reference.racedata.elf.traits.alignment@DD PHB Deluxe" class="reference_racialtrait" pos="2271,619,2621,969" />
+	<window data="reference.racedata.elf.subraces.darkelf_drow_.traits.superiordarkvision@DD PHB Deluxe" class="reference_subracialtrait" pos="2170,431,2520,781" />
+	<window data="charsheet.id-00001.traitlist.id-00004" class="ref_ability" pos="952,325,1302,675" />
+	<window data="reference.racedata.elf.subraces.darkelf_drow_.traits.sunlightsensitivity@DD PHB Deluxe" class="reference_subracialtrait" pos="2263,613,2613,963" />
+	<window data="reference.racedata.elf.traits.size@DD PHB Deluxe" class="reference_racialtrait" pos="1485,348,1835,698" />
+	<window data="reference.racedata.elf.traits.speed@DD PHB Deluxe" class="reference_racialtrait" pos="1561,357,1911,707" />
+	<window data="reference.racedata.elf.traits.keensenses@DD PHB Deluxe" class="reference_racialtrait" pos="1492,363,1842,713" />
+	<window data="reference.racedata.elf.traits.feyancestry@DD PHB Deluxe" class="reference_racialtrait" pos="1463,332,1813,682" />
+	<window data="reference.racedata.elf.traits.trance@DD PHB Deluxe" class="reference_racialtrait" pos="1482,364,1832,714" />
+	<window data="reference.racedata.elf.subraces.darkelf_drow_.traits.drowweapontraining@DD PHB Deluxe" class="reference_subracialtrait" pos="1428,400,1778,750" />
+	<window data="reference.spelldata.sparethedying@DD PHB Deluxe" class="power" pos="2015,304,2365,654" />
+	<window data="reference.spelldata.boomingblade@D&amp;D Sword Coast Adventurer's Guide - Campaign Guide" class="power" pos="2892,239,3242,589" />
+	<window data="reference.spelldata.eldritchblast@DD PHB Deluxe" class="power" pos="2863,59,3213,409" />
+	<window data="reference.spelldata.eldritchblast@DD PHB Deluxe" class="reference_spell" pos="2861,413,3211,763" />
+	<window data="reference.spelldata.friends@DD PHB Deluxe" class="power" pos="2800,324,3150,674" />
+	<window data="reference.spelldata.infestation@DD Xanathar's Guide to Everything" class="power" pos="2267,408,2617,758" />
+	<window data="reference.spelldata.lightninglure@D&amp;D Sword Coast Adventurer's Guide - Campaign Guide" class="power" pos="1971,389,2321,739" />
+	<window data="reference.spelldata.magicstone@DD Xanathar's Guide to Everything" class="power" pos="2406,423,2756,773" />
+	<window data="reference.spelldata.bladeward@DD PHB Deluxe" class="power" pos="2832,117,3182,467" />
+	<window data="reference.spelldata.tollthedead@DD Xanathar's Guide to Everything" class="power" pos="2033,376,2383,726" />
+	<window data="reference.spelldata.chilltouch@DD PHB Deluxe" class="power" pos="2859,222,3209,572" />
+	<window data="charsheet.id-00001.featurelist.id-00003" class="ref_ability" pos="1351,315,1701,665" />
+	<window data="charsheet.id-00001.featurelist.id-00005" class="ref_ability" pos="2102,358,2452,708" />
+	<window data="charsheet.id-00001.traitlist.id-00006" class="ref_ability" pos="1939,335,2289,685" />
+	<window data="reference.spelldata.hex@DD PHB Deluxe" class="power" pos="2891,341,3241,691" />
+	<window data="reference.spelldata.witchbolt@DD PHB Deluxe" class="power" pos="3136,385,3486,735" />
+	<window data="reference.spelldata.causefear@DD Xanathar's Guide to Everything" class="power" pos="2975,372,3325,722" />
+	<window data="charsheet.id-00003.powers.id-00020" class="power" pos="1479,194,1829,544" />
+	<window data="reference.spelldata.armsofhadar@DD PHB Deluxe" class="power" pos="2047,289,2397,639" />
+	<window data="charsheet.id-00001.featurelist.id-00008" class="ref_ability" pos="2390,569,2740,919" />
+	<window data="reference.spelldata.hellishrebuke@DD PHB Deluxe" class="power" pos="2978,22,3328,372" />
+	<window data="reference.npcdata.bodyguard@Monster Manual Expanded" class="npc" pos="1452,415,1912,965" />
+	<window data="reference.npcdata.guard@DD MM Monster Manual" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.equipmentdata.clothes_fine@DD PHB Deluxe" class="reference_equipment" pos="1743,333,2093,683" />
+	<window data="reference.spelllists.spells@DD PHB Deluxe" class="referenceindex" pos="1493,287,1843,737" />
+	<window data="reference.refmanualindex@DD PHB Deluxe" class="reference_manual" pos="827,161,1777,811" />
+	<window data="reference.equipmentdata.rope_silk_50feet_@DD PHB Deluxe" class="reference_equipment" pos="2343,353,2693,703" />
+	<window data="reference.equipmentdata.candle@DD Xanathar's Guide to Everything" class="reference_equipment" pos="1596,310,1946,660" />
+	<window data="reference.equipmentdata.case_crossbowbolt@DD PHB Deluxe" class="reference_equipment" pos="2055,324,2405,674" />
+	<window data="charsheet.id-00001.weaponlist.id-00002" class="char_weapon_editor" pos="1047,321,1427,671" />
+	<window data="spell.id-00008@5E Effects Coding - Spells" class="power" pos="1432,234,1782,584" />
+	<window data="charsheet.id-00001.powers.id-00011.actions.id-00002" class="power_damage_editor" pos="1240,390,1620,740" />
+	<window data="charsheet.id-00001.powergroup.id-00007" class="power_groupdetail" pos="1064,370,1494,660" />
+	<window data="charsheet.id-00001.powers.id-00003" class="power" pos="1283,392,1633,742" />
+	<window data="charsheet.id-00003.powers.id-00012" class="power" pos="1743,333,2093,683" />
+	<window data="reference.racedata.elf.subraces.darkelf_drow_.traits.drowmagic@DD PHB Deluxe" class="reference_subracialtrait" pos="2354,608,2704,958" />
+	<window data="charsheet.id-00001.featurelist.id-00006" class="ref_ability" pos="1349,486,1699,836" />
+	<window data="reference.spelldata.rayofsickness@DD PHB Deluxe" class="reference_spell" pos="1403,432,1753,782" />
+	<window data="reference.spelldata.falselife@DD PHB Deluxe" class="reference_spell" pos="1941,558,2291,908" />
+	<window data="reference.spelldata.falselife@DD PHB Deluxe" class="power" pos="2095,442,2445,792" />
+	<window data="effects" class="effectlist" pos="1228,432,1768,832" />
+	<window data="charsheet.id-00003.powers.id-00011" class="power" pos="1377,333,1727,683" />
+	<window data="reference.racedata.gnome@DD PHB Deluxe" class="reference_race" pos="827,7,1177,982" />
+	<window data="reference.racedata.gnome@DD Mordenkainen's Tome of Foes" class="reference_race" pos="2282,11,2632,966" />
+	<window data="spell.id-00012@5E Effects Coding - Spells" class="power" pos="2315,103,2730,868" />
+	<window data="reference.racedata.gnome.subraces.rockgnome@DD PHB Deluxe" class="reference_subrace" pos="2718,470,3068,820" />
+	<window data="reference.racedata.gnome.traits.subrace@DD PHB Deluxe" class="reference_racialtrait" pos="2625,84,2975,434" />
+	<window data="reference.racedata.gnome.subraces.forestgnome@DD PHB Deluxe" class="reference_subrace" pos="3109,436,3459,786" />
+	<window data="reference.classdata.wizard@DD Xanathar's Guide to Everything" class="reference_class" pos="2734,13,3134,967" />
+	<window data="reference.classdata.wizard.abilities.schoolofillusion@DD PHB Deluxe" class="reference_classability" pos="2385,41,2735,341" />
+	<window data="charsheet.id-00003.featurelist.id-00003" class="ref_ability" pos="1004,65,1354,415" />
+	<window data="reference.classdata.wizard.features.improvedminorillusion2@DD PHB Deluxe" class="reference_classfeature" pos="2283,11,2633,313" />
+	<window data="reference.classdata.wizard.features.illusionsavant2@DD PHB Deluxe" class="reference_classfeature" pos="2285,13,2635,313" />
+	<window data="charsheet.id-00003" class="charsheet_classes" pos="853,42,1323,342" />
+	<window data="charsheet.id-00003" class="charsheet" pos="756,251,1206,1187" />
+	<window data="charsheet.id-00003" class="charsheet_combatcalc" pos="2230,533,2730,753" />
+	<window data="charsheet.id-00003" class="charsheet_healthcalc" pos="1452,243,1852,363" />
+	<window data="charsheet.id-00003" class="coin_manager_add_window" pos="1516,349,1916,649" />
+	<window data="charsheet.id-00003" class="coin_manager_remove_window" pos="1488,329,1888,629" />
+	<window data="reference.classdata.wizard.features.arcanetradition2@DD PHB Deluxe" class="reference_classfeature" pos="1322,406,1672,706" />
+	<window data="reference.classdata.wizard.features.arcaneward2@DD PHB Deluxe" class="reference_classfeature" pos="1483,420,1833,720" />
+	<window data="reference.classdata.wizard.abilities.schoolofabjuration@DD PHB Deluxe" class="reference_classability" pos="1742,408,2092,708" />
+	<window data="reference.classdata.wizard.features.abilityscoreimprovement4@DD PHB Deluxe" class="reference_classfeature" pos="1456,402,1806,702" />
+	<window data="reference.classdata.wizard.features.signaturespells20@DD PHB Deluxe" class="reference_classfeature" pos="1742,408,2092,708" />
+	<window data="reference.classdata.wizard.features.malleableillusions6@DD PHB Deluxe" class="reference_classfeature" pos="1742,408,2092,708" />
+	<window data="reference.racedata.gnome.traits.languages@DD PHB Deluxe" class="reference_racialtrait" pos="1183,652,1533,1002" />
+	<window data="reference.racedata.gnome.traits.size@DD PHB Deluxe" class="reference_racialtrait" pos="1297,314,1647,664" />
+	<window data="reference.racedata.gnome.traits.darkvision@DD PHB Deluxe" class="reference_racialtrait" pos="1192,451,1492,751" />
+	<window data="reference.racedata.gnome.traits.alignment@DD PHB Deluxe" class="reference_racialtrait" pos="1192,250,1492,550" />
+	<window data="reference.racedata.gnome.traits.age@DD PHB Deluxe" class="reference_racialtrait" pos="1192,119,1492,419" />
+	<window data="reference.racedata.gnome.subraces.rockgnome.traits.tinker@DD PHB Deluxe" class="reference_subracialtrait" pos="1191,371,1491,671" />
+	<window data="reference.racedata.gnome.subraces.rockgnome.traits.artificer_slore@DD PHB Deluxe" class="reference_subracialtrait" pos="1193,222,1493,522" />
+	<window data="image.img_guild_artisan_jpg@DD PHB Deluxe" class="imagewindow" pos="1593,62,2241,954" />
+	<window data="reference.backgrounddata.guildartisan.features.guildmembership@DD PHB Deluxe" class="reference_backgroundfeature" pos="2275,483,2625,833" />
+	<window data="reference.racedata.gnome.traits.gnomecunning@DD PHB Deluxe" class="reference_racialtrait" pos="1192,584,1492,884" />
+	<window data="reference.classdata.wizard.features.arcanerecovery1@DD PHB Deluxe" class="reference_classfeature" pos="1927,326,2277,626" />
+	<window data="charsheet.id-00003.featurelist.id-00005" class="ref_ability" pos="1494,7,1844,406" />
+	<window data="reference.spelldata.moldearth@DD Xanathar's Guide to Everything" class="power" pos="1978,342,2328,692" />
+	<window data="charsheet.id-00003.powergroup.id-00004" class="power_groupdetail" pos="1459,461,1889,751" />
+	<window data="reference.spelldata.prestidigitation@DD PHB Deluxe" class="power" pos="2326,412,2676,762" />
+	<window data="reference.spelldata.poisonspray@DD PHB Deluxe" class="power" pos="1742,333,2092,683" />
+	<window data="reference.spelldata.message@DD PHB Deluxe" class="power" pos="2024,405,2374,755" />
+	<window data="reference.spelldata.light@DD PHB Deluxe" class="power" pos="2261,434,2611,784" />
+	<window data="reference.spelldata.shapewater@DD Xanathar's Guide to Everything" class="power" pos="2099,351,2449,701" />
+	<window data="reference.spelldata.swordburst@D&amp;D Sword Coast Adventurer's Guide - Campaign Guide" class="power" pos="1986,355,2336,705" />
+	<window data="reference.spelldata.magehand@DD PHB Deluxe" class="power" pos="2032,336,2382,686" />
+	<window data="reference.spelldata.frostbite@DD Xanathar's Guide to Everything" class="power" pos="2162,335,2512,685" />
+	<window data="reference.spelldata.createbonfire@DD Xanathar's Guide to Everything" class="power" pos="2204,350,2554,700" />
+	<window data="reference.spelldata.gust@DD Xanathar's Guide to Everything" class="power" pos="1951,330,2301,680" />
+	<window data="reference.spelldata.thunderclap@DD Xanathar's Guide to Everything" class="power" pos="2286,505,2636,855" />
+	<window data="reference.spelldata.firebolt@DD PHB Deluxe" class="power" pos="1986,314,2336,664" />
+	<window data="reference.spelldata.mending@DD PHB Deluxe" class="power" pos="2268,366,2618,716" />
+	<window data="reference.spelldata.dancinglights@DD PHB Deluxe" class="power" pos="2116,335,2466,685" />
+	<window data="reference.spelldata.rayoffrost@DD PHB Deluxe" class="power" pos="2259,368,2609,718" />
+	<window data="reference.spelldata.acidsplash@DD PHB Deluxe" class="power" pos="2033,133,2383,483" />
+	<window data="reference.spelldata.absorbelements@DD Xanathar's Guide to Everything" class="power" pos="2126,419,2476,769" />
+	<window data="reference.spelldata.disguiseself@DD PHB Deluxe" class="power" pos="2179,423,2529,773" />
+	<window data="reference.spelldata.silentimage@DD PHB Deluxe" class="power" pos="3320,536,3670,886" />
+	<window data="reference.spelldata.catapult@DD Xanathar's Guide to Everything" class="power" pos="2144,322,2494,672" />
+	<window data="reference.spelldata.identify@DD PHB Deluxe" class="power" pos="2013,425,2363,775" />
+	<window data="reference.spelldata.detectmagic@DD PHB Deluxe" class="power" pos="2004,602,2354,952" />
+	<window data="reference.spelldata.chromaticorb@DD PHB Deluxe" class="power" pos="2745,86,3095,436" />
+	<window data="reference.spelldata.grease@DD PHB Deluxe" class="power" pos="2284,402,2634,752" />
+	<window data="reference.spelldata.alarm@DD PHB Deluxe" class="power" pos="2725,16,3075,366" />
+	<window data="reference.spelldata.unseenservant@DD PHB Deluxe" class="power" pos="2234,574,2584,924" />
+	<window data="spell.id-00656@5E Effects Coding - Spells" class="power" pos="3056,75,3406,425" />
+	<window data="reference.spelldata.shield@DD PHB Deluxe" class="power" pos="3311,539,3661,889" />
+	<window data="reference.spelldata.magearmor@DD PHB Deluxe" class="power" pos="3183,540,3533,890" />
+	<window data="spell.id-00664@5E Effects Coding - Spells" class="power" pos="2841,223,3191,573" />
+	<window data="spell.id-00662@5E Effects Coding - Spells" class="power" pos="2613,368,2963,718" />
+	<window data="reference.racedata.gnome.subraces.rockgnome.traits.abilityscoreincrease@DD PHB Deluxe" class="reference_subracialtrait" pos="1193,101,1493,401" />
+	<window data="reference.racedata.gnome.traits.abilityscoreincrease@DD PHB Deluxe" class="reference_racialtrait" pos="1193,14,1493,314" />
+	<window data="reference.backgrounddata.guildartisan@DD PHB Deluxe" class="reference_background" pos="1243,1,1593,979" />
+	<window data="tables.tab_guildartisanpersonalitytrait@DD PHB Deluxe" class="table" pos="1353,275,1753,675" />
+	<window data="tables.tab_guildartisanideal@DD PHB Deluxe" class="table" pos="1376,326,1776,726" />
+	<window data="tables.tab_guildartisanbond@DD PHB Deluxe" class="table" pos="1302,289,1702,689" />
+	<window data="tables.tab_guildartisanflaw@DD PHB Deluxe" class="table" pos="1362,283,1762,683" />
+	<window data="charsheet.id-00003.powers.id-00010" class="power" pos="2040,353,2390,703" />
+	<window data="reference.spelldata.fogcloud@DD PHB Deluxe" class="power" pos="3248,271,3598,621" />
+	<window data="reference.spelldata.longstrider@DD PHB Deluxe" class="power" pos="1990,360,2340,710" />
+	<window data="reference.spelldata.tasha_shideouslaughter@DD PHB Deluxe" class="power" pos="2004,352,2354,702" />
+	<window data="reference.spelldata.iceknife@DD Xanathar's Guide to Everything" class="power" pos="1998,354,2348,704" />
+	<window data="reference.spelldata.truestrike@DD PHB Deluxe" class="power" pos="1979,362,2329,712" />
+	<window data="reference.spelldata.illusoryscript@DD PHB Deluxe" class="power" pos="3331,498,3681,848" />
+	<window data="reference.spelldata.magicmissile@DD PHB Deluxe" class="power" pos="2159,269,2509,619" />
+	<window data="reference.spelldata.colorspray@DD PHB Deluxe" class="power" pos="2768,153,3118,503" />
+	<window data="spell.id-00101@5E Effects Coding - Class Features" class="power" pos="2113,397,2463,747" />
+	<window data="charsheet.id-00003.powergroup.id-00009" class="power_groupdetail" pos="1230,404,1660,694" />
+	<window data="tables.tab_guildartisanguildbusiness@DD PHB Deluxe" class="table" pos="2008,347,2408,747" />
+	<window data="reference.equipmentdata.tinker_stools@DD PHB Deluxe" class="reference_equipment" pos="1023,178,1373,528" />
+	<window data="reference.equipmentdata.smith_stools@DD PHB Deluxe" class="reference_equipment" pos="1444,371,1794,721" />
+	<window data="reference.equipmentdata.mason_stools@DD PHB Deluxe" class="reference_equipment" pos="1521,376,1871,726" />
+	<window data="reference.equipmentdata.mason_stools@DD Xanathar's Guide to Everything" class="reference_equipment" pos="1384,357,1734,707" />
+	<window data="reference.equipmentdata.smith_stools@DD Xanathar's Guide to Everything" class="reference_equipment" pos="1107,331,1457,681" />
+	<window data="reference.equipmentdata.tinker_stools@DD Xanathar's Guide to Everything" class="reference_equipment" pos="1041,429,1391,779" />
+	<window data="reference.classdata.wizard@DD PHB Deluxe" class="reference_class" pos="2000,11,2549,975" />
+	<window data="reference.classdata.wizard.features.spellcasting1@DD PHB Deluxe" class="reference_classfeature" pos="2473,16,2919,975" />
+	<window data="encounter" class="masterindex" pos="1398,250,1462,316" />
+	<window data="image" class="masterindex" pos="395,21,845,471" />
+	<window data="battle" class="masterindex" pos="2739,89,3189,539" />
+	<window data="skill" class="masterindex" pos="227,522,291,588" />
+	<window data="race" class="masterindex" pos="1654,387,1718,453" />
+	<window data="class" class="masterindex" pos="1051,156,1501,606" />
+	<window data="background" class="masterindex" pos="2139,666,2203,732" />
+	<window data="item" class="masterindex" pos="2554,68,3454,965" />
+	<window data="spell" class="masterindex" pos="1614,170,2220,881" />
+	<window data="reference.equipmentdata.spellbook@DD PHB Deluxe" class="reference_equipment" pos="2887,250,3237,600" />
+	<window data="charsheet.id-00003.inventorylist.id-00008" class="item" pos="1533,329,1883,679" />
+	<window data="reference.equipmentdata.spellbook@DD Xanathar's Guide to Everything" class="reference_equipment" pos="2608,483,2958,833" />
+	<window data="reference.equipmentdata.explorer_spack@DD PHB Deluxe" class="reference_equipment" pos="2672,153,3022,503" />
+	<window data="spell.id-00002@5E Effects Coding - Spells" class="power" pos="2668,387,3018,737" />
+	<window data="charsheet.id-00003.powers.id-00005" class="power" pos="1005,286,1355,636" />
+	<window data="charsheet.id-00003.powers.id-00006" class="power" pos="1524,434,1874,784" />
+	<window data="charsheet.id-00003.powergroup.id-00006" class="power_groupdetail" pos="1048,363,1478,653" />
+	<window data="spell.id-00673@5E Effects Coding - Spells" class="power" pos="2671,390,3021,740" />
+	<window data="spell.id-00676@5E Effects Coding - Spells" class="power" pos="2423,331,2773,681" />
+	<window data="spell.id-00678@5E Effects Coding - Spells" class="power" pos="2450,430,2800,780" />
+	<window data="spell.id-00653@5E Effects Coding - Spells" class="power" pos="2953,368,3303,718" />
+	<window data="reference.equipmentdata.clothes_common@DD PHB Deluxe" class="reference_equipment" pos="2360,443,2710,793" />
+	<window data="reference.equipmentdata.clothes_traveler_s@DD Xanathar's Guide to Everything" class="reference_equipment" pos="2070,348,2420,698" />
+	<window data="reference.magicitemdata.clothesofmending@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2048,333,2398,683" />
+	<window data="reference.magicitemdata.amuletoftheplanes@DD Dungeon Masters Guide" class="reference_magicitem" pos="1191,280,1541,630" />
+	<window data="charsheet.id-00003.inventorylist.id-00023" class="item" pos="1103,228,1659,790" />
+	<window data="charsheet.id-00003.inventorylist.id-00026" class="item" pos="1374,204,1724,554" />
+	<window data="reference.magicitemdata.beadofnourishment@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="1477,411,1827,761" />
+	<window data="charsheet.id-00003.inventorylist.id-00034" class="item" pos="1058,317,1408,667" />
+	<window data="reference.classdata.warlock.features.eldritchinvocations_xanathar_2@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="2970,10,3507,970" />
+	<window data="reference.classdata.warlock.features.pactboon3@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="535,60,1129,841" />
+	<window data="reference.classdata.warlock.features.abilityscoreimprovement4@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1745,408,2095,708" />
+	<window data="reference.classdata.warlock.features.mysticarcanum11@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1978,421,2328,721" />
+	<window data="reference.classdata.warlock.features.eldritchmaster20@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1950,425,2300,725" />
+	<window data="charsheet.id-00001.featurelist.id-00007" class="ref_ability" pos="1405,328,1755,678" />
+	<window data="reference.spelldata.bane@DD PHB Deluxe" class="reference_spell" pos="2165,320,2515,670" />
+	<window data="spell.id-00183@5E Effects Coding - Spells" class="power" pos="1255,186,1605,536" />
+	<window data="reference.classdata.warlock.features.undyingnature10@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_classfeature" pos="1743,408,2093,708" />
+	<window data="reference.npcdata.bodyguardelite@Monster Manual Expanded" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.npcdata.blackguard@DD Volos Guide to Monsters" class="npc" pos="1518,299,1978,849" />
+	<window data="reference.spelldata.protectionfromevilandgood@DD PHB Deluxe" class="power" pos="1976,551,2326,901" />
+	<window data="reference.spelldata.armorofagathys@DD PHB Deluxe" class="power" pos="3336,20,3686,370" />
+	<window data="charsheet.id-00001.inventorylist.id-00005" class="item" pos="1552,331,1902,681" />
+	<window data="reference.classdata.antipaladin.abilities.oathbreaker@DD Dungeon Masters Guide" class="reference_classability" pos="1394,435,1744,735" />
+	<window data="reference.classdata.antipaladin@DD Dungeon Masters Guide" class="reference_class" pos="1122,277,1522,677" />
+	<window data="reference.classdata.monk@DD PHB Deluxe" class="reference_class" pos="1718,308,2118,708" />
+	<window data="reference.classdata.rogue.features.thieves_cant1@DD PHB Deluxe" class="reference_classfeature" pos="1923,304,2273,604" />
+	<window data="reference.classdata.rogue.features.cunningaction2@DD PHB Deluxe" class="reference_classfeature" pos="1924,305,2274,605" />
+	<window data="reference.classdata.monk.features.unarmoreddefense1@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="2145,567,2495,867" />
+	<window data="reference.classdata.monk.features.deflectmissiles3@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="2366,631,2716,931" />
+	<window data="reference.classdata.monk.features.unarmoredmovement2@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="2256,636,2606,936" />
+	<window data="reference.classdata.monk@DD Xanathar's Guide to Everything" class="reference_class" pos="2019,416,2419,816" />
+	<window data="reference.classdata.fighter.features.secondwind1@DD PHB Deluxe" class="reference_classfeature" pos="2057,469,2407,769" />
+	<window data="reference.classdata.fighter.features.actionsurge2@DD PHB Deluxe" class="reference_classfeature" pos="2243,577,2593,877" />
+	<window data="reference.classdata.paladin.features.spellcasting2@DD PHB Deluxe" class="reference_classfeature" pos="987,35,1393,979" />
+	<window data="reference.racedata.dragonborn.traits.abilityscoreincrease@DD PHB Deluxe" class="reference_racialtrait" pos="2306,302,2656,652" />
+	<window data="reference.racedata.dragonborn.traits.draconicancestry@DD PHB Deluxe" class="reference_racialtrait" pos="1051,466,1571,964" />
+	<window data="reference.classdata.paladin.features.layonhands1@DD PHB Deluxe" class="reference_classfeature" pos="2005,383,2355,683" />
+	<window data="reference.classdata.barbarian@DD Xanathar's Guide to Everything" class="reference_class" pos="1986,101,2386,824" />
+	<window data="reference.classdata.rogue@DD PHB Deluxe" class="reference_class" pos="2262,82,2612,1034" />
+	<window data="reference.classdata.fighter@DD PHB Deluxe" class="reference_class" pos="3274,43,3674,891" />
+	<window data="reference.classdata.paladin@DD PHB Deluxe" class="reference_class" pos="1249,32,1649,979" />
+	<window data="reference.classdata.paladin@DD Xanathar's Guide to Everything" class="reference_class" pos="2881,31,3281,979" />
+	<window data="spell.id-00669@5E Effects Coding - Spells" class="power" pos="3251,121,3601,471" />
+	<window data="reference.racedata.dragonborn.traits.age@DD PHB Deluxe" class="reference_racialtrait" pos="928,447,1278,797" />
+	<window data="reference.racedata.dragonborn.traits.alignment@DD PHB Deluxe" class="reference_racialtrait" pos="1343,361,1693,711" />
+	<window data="reference.racedata.dragonborn.traits.speed@DD PHB Deluxe" class="reference_racialtrait" pos="1518,317,1868,667" />
+	<window data="charsheet.id-00002.traitlist.id-00001" class="ref_ability" pos="1454,282,1804,632" />
+	<window data="charsheet.id-00002.powers.id-00001.actions.id-00002" class="power_damage_editor" pos="1170,342,1550,692" />
+	<window data="charsheet.id-00002.traitlist.id-00003" class="ref_ability" pos="1481,372,1831,722" />
+	<window data="charsheet.id-00002.powers.id-00001" class="power" pos="975,414,1325,764" />
+	<window data="charsheet.id-00002.powers.id-00001.actions.id-00001" class="power_cast_editor" pos="577,402,947,752" />
+	<window data="reference.racedata.dragonborn.traits.breathweapon@DD PHB Deluxe" class="reference_racialtrait" pos="1394,288,1744,638" />
+	<window data="reference.racedata.dragonborn.traits.languages@DD PHB Deluxe" class="reference_racialtrait" pos="1504,355,1854,705" />
+	<window data="reference.racedata.dragonborn@DD PHB Deluxe" class="reference_race" pos="1341,152,1691,926" />
+	<window data="charsheet.id-00002.traitlist.id-00002" class="ref_ability" pos="1367,631,1732,959" />
+	<window data="reference.racedata.dragonborn.traits.size@DD PHB Deluxe" class="reference_racialtrait" pos="906,442,1256,792" />
+	<window data="charsheet.id-00003.traitlist.id-00003" class="ref_ability" pos="1402,338,1752,688" />
+	<window data="charsheet.id-00003.traitlist.id-00002" class="ref_ability" pos="1522,440,1872,790" />
+	<window data="charsheet.id-00001.traitlist.id-00003" class="ref_ability" pos="1007,342,1357,692" />
+	<window data="charsheet.id-00003.traitlist.id-00001" class="ref_ability" pos="1470,334,1820,684" />
+	<window data="charsheet.id-00003.featurelist.id-00002" class="ref_ability" pos="2331,539,2681,889" />
+	<window data="charsheet.id-00003.featurelist.id-00007" class="ref_ability" pos="1453,284,1803,634" />
+	<window data="charsheet.id-00003.featurelist.id-00008" class="ref_ability" pos="951,269,1301,619" />
+	<window data="charsheet.id-00001.traitlist.id-00005" class="ref_ability" pos="2100,334,2450,684" />
+	<window data="charsheet.id-00001.traitlist.id-00002" class="ref_ability" pos="1357,349,1707,699" />
+	<window data="charsheet.id-00002.featurelist.id-00003" class="ref_ability" pos="1170,20,1520,370" />
+	<window data="charsheet.id-00001.traitlist.id-00001" class="ref_ability" pos="1438,329,1788,679" />
+	<window data="charsheet.id-00002.featurelist.id-00001" class="ref_ability" pos="940,238,1290,588" />
+	<window data="charsheet.id-00002.featurelist.id-00002" class="ref_ability" pos="1531,374,1881,724" />
+	<window data="reference.backgrounddata.nobleknight.features.retainers@DD PHB Deluxe" class="reference_backgroundfeature" pos="2043,442,2393,792" />
+	<window data="reference.backgrounddata.nobleknight.features.positionofprivilege@DD PHB Deluxe" class="reference_backgroundfeature" pos="1912,265,2262,615" />
+	<window data="reference.backgrounddata.nobleknight@DD PHB Deluxe" class="reference_background" pos="1342,181,1692,867" />
+	<window data="charsheet.id-00002.featurelist.id-00004" class="ref_ability" pos="1172,369,1522,719" />
+	<window data="reference.classdata.paladin.features.fightingstyle2@DD PHB Deluxe" class="reference_classfeature" pos="1257,23,1607,679" />
+	<window data="charsheet.id-00002.powers.id-00004" class="power" pos="1467,337,1817,687" />
+	<window data="charsheet.id-00002.powers.id-00006" class="power" pos="306,389,656,739" />
+	<window data="reference.classdata.paladin.features.divinesmite2@DD PHB Deluxe" class="reference_classfeature" pos="1256,19,1606,319" />
+	<window data="charsheet.id-00002.powergroup.id-00001" class="power_groupdetail" pos="1180,331,1610,621" />
+	<window data="feat" class="masterindex" pos="2829,455,2893,521" />
+	<window data="reference.spelllists.paladin@DD PHB Deluxe" class="reference_colindex" pos="1646,255,2096,1020" />
+	<window data="charsheet.id-00002.powers.id-00008" class="power" pos="1408,485,1758,835" />
+	<window data="charsheet.id-00002.powers.id-00007" class="power" pos="1049,162,1399,512" />
+	<window data="reference.classdata.warlock.features.pactmagic1@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="3247,32,3597,895" />
+	<window data="reference.equipmentdata.emblem@DD PHB Deluxe" class="reference_equipment" pos="2010,370,2360,720" />
+	<window data="reference.equipmentdata.amulet@DD PHB Deluxe" class="reference_equipment" pos="2360,372,2710,722" />
+	<window data="charsheet.id-00002.inventorylist.id-00001" class="item" pos="1333,254,1834,702" />
+	<window data="reference.equipmentdata.shield@DD PHB Deluxe" class="reference_armor" pos="2329,120,2679,470" />
+	<window data="reference.equipmentdata.priest_spack@DD PHB Deluxe" class="reference_equipment" pos="2334,444,2684,794" />
+	<window data="reference.equipmentdata.diplomat_spack@DD PHB Deluxe" class="reference_equipment" pos="2093,409,2443,759" />
+	<window data="reference.equipmentdata.dungeoneer_spack@DD PHB Deluxe" class="reference_equipment" pos="2141,92,2491,442" />
+	<window data="reference.equipmentdata.lance@DD PHB Deluxe" class="reference_weapon" pos="2051,494,2401,844" />
+	<window data="reference.equipmentdata.spear@DD PHB Deluxe" class="reference_weapon" pos="2182,374,2532,724" />
+	<window data="reference.equipmentdata.longsword@DD PHB Deluxe" class="reference_weapon" pos="1957,609,2307,959" />
+	<window data="reference.equipmentdata.battleaxe@DD PHB Deluxe" class="reference_weapon" pos="2316,619,2666,969" />
+	<window data="reference.equipmentdata.plate@DD PHB Deluxe" class="reference_armor" pos="2323,471,2673,821" />
+	<window data="reference.equipmentdata.studdedleather@DD PHB Deluxe" class="reference_armor" pos="1977,124,2327,474" />
+	<window data="reference.equipmentdata.halfplate@DD PHB Deluxe" class="reference_armor" pos="2324,122,2674,472" />
+	<window data="charsheet.id-00002.weaponlist.id-00003" class="char_weapon_editor" pos="1438,290,1818,640" />
+	<window data="reference.equipmentdata.splint@DD PHB Deluxe" class="reference_armor" pos="2328,472,2678,822" />
+	<window data="reference.equipmentlists.weapontable@DD PHB Deluxe" class="reference_weapontable" pos="2800,136,3550,786" />
+	<window data="reference.equipmentlists.armortable@DD PHB Deluxe" class="reference_armortable" pos="2683,27,3433,677" />
+	<window data="reference.equipmentdata.healer_skit@DD PHB Deluxe" class="reference_equipment" pos="1438,313,1788,663" />
+	<window data="charsheet.id-00002.inventorylist.id-00017" class="item" pos="1315,327,1665,677" />
+	<window data="reference.equipmentdata.messkit@DD PHB Deluxe" class="reference_equipment" pos="1486,300,1836,650" />
+	<window data="reference.equipmentdata.artisan_stools@DD PHB Deluxe" class="reference_equipment" pos="1521,316,1871,666" />
+	<window data="reference.equipmentdata.barrel@DD PHB Deluxe" class="reference_equipment" pos="1742,333,2092,683" />
+	<window data="reference.equipmentdata.caltrops_20_@DD PHB Deluxe" class="reference_equipment" pos="1564,292,1914,642" />
+	<window data="charsheet.id-00002.inventorylist.id-00018" class="item" pos="1742,333,2092,683" />
+	<window data="reference.equipmentdata.glasses@DD Dungeon Masters Guide" class="reference_equipment" pos="1742,333,2092,683" />
+	<window data="charsheet.id-00001.inventorylist.id-00010" class="item" pos="2482,516,2832,866" />
+	<window data="reference.equipmentdata.lantern_hooded@DD PHB Deluxe" class="reference_equipment" pos="1298,621,1648,971" />
+	<window data="reference.equipmentdata.lamp@DD PHB Deluxe" class="reference_equipment" pos="1126,275,1476,625" />
+	<window data="reference.equipmentdata.lantern_bullseye@DD PHB Deluxe" class="reference_equipment" pos="1477,274,1827,624" />
+	<window data="reference.equipmentdata.oil_flask_@DD PHB Deluxe" class="reference_equipment" pos="1300,239,1650,589" />
+	<window data="reference.equipmentlists.adventuringgeartable@DD PHB Deluxe" class="reference_adventuringgeartable" pos="3139,283,3589,933" />
+	<window data="reference.equipmentdata.antimatterrifle@DD Dungeon Masters Guide" class="reference_weapon" pos="941,335,1291,685" />
+	<window data="reference.magicitemdata.animatedshield@DD Dungeon Masters Guide" class="reference_magicitem" pos="908,374,1258,724" />
+	<window data="reference.equipmentdata.bag_h_@DD Dungeon Masters Guide" class="reference_equipment" pos="1742,333,2092,683" />
+	<window data="reference.magicitemdata.beadofforce@DD Dungeon Masters Guide" class="reference_magicitem" pos="969,354,1319,704" />
+	<window data="reference.equipmentdata.bracers@DD Dungeon Masters Guide" class="reference_equipment" pos="955,345,1305,695" />
+	<window data="reference.equipmentdata.chrysoprase@DD Dungeon Masters Guide" class="reference_equipment" pos="1742,333,2092,683" />
+	<window data="reference.magicitemdata.cubicgate@DD Dungeon Masters Guide" class="reference_magicitem" pos="937,338,1287,688" />
+	<window data="reference.equipmentdata.decanter@DD Dungeon Masters Guide" class="reference_equipment" pos="1742,333,2092,683" />
+	<window data="reference.equipmentdata.dragonchessset@DD PHB Deluxe" class="reference_equipment" pos="899,384,1249,734" />
+	<window data="reference.equipmentdata.dragonchessset@DD Xanathar's Guide to Everything" class="reference_equipment" pos="899,594,1249,944" />
+	<window data="reference.equipmentdata.exotic@DD PHB Deluxe" class="reference_equipment" pos="1742,333,2092,683" />
+	<window data="reference.magicitemdata.eversmokingbottle@DD Dungeon Masters Guide" class="reference_magicitem" pos="489,516,839,866" />
+	<window data="reference.equipmentdata.diceset@DD Xanathar's Guide to Everything" class="reference_equipment" pos="996,374,1346,724" />
+	<window data="reference.classdata.rogue@DD Xanathar's Guide to Everything" class="reference_class" pos="2102,-10,2502,985" />
+	<window data="reference.classdata.rogue.features.roguisharchetype3@DD PHB Deluxe" class="reference_classfeature" pos="2085,404,2435,704" />
+	<window data="charsheet.id-00004" class="charsheet_classes" pos="1363,324,1833,624" />
+	<window data="charsheet.id-00004" class="charsheet_combatcalc" pos="2100,303,2600,523" />
+	<window data="charsheet.id-00004" class="charsheet" pos="2616,-8,3295,979" />
+	<window data="charsheet.id-00004" class="coin_manager_remove_window" pos="1395,366,1795,666" />
+	<window data="charsheet.id-00004" class="coin_manager_add_window" pos="1594,358,1994,658" />
+	<window data="reference.classdata.rogue.features.abilityscoreimprovement16@DD PHB Deluxe" class="reference_classfeature" pos="1742,408,2092,708" />
+	<window data="reference.racedata.aasimar.traits.abilityscoreincrease@DD Dungeon Masters Guide" class="reference_racialtrait" pos="2106,376,2456,726" />
+	<window data="reference.racedata.aasimar@DD Dungeon Masters Guide" class="reference_race" pos="2291,340,2641,690" />
+	<window data="reference.racedata.firbolg@DD Volos Guide to Monsters" class="reference_race" pos="2412,376,2762,726" />
+	<window data="reference.racedata.kobold.traits.grovelcowerandbeg@DD Volos Guide to Monsters" class="reference_racialtrait" pos="2386,489,2736,839" />
+	<window data="reference.racedata.kobold.traits.alignment@DD Volos Guide to Monsters" class="reference_racialtrait" pos="1938,382,2288,732" />
+	<window data="reference.racedata.kobold.traits.speed@DD Volos Guide to Monsters" class="reference_racialtrait" pos="1892,349,2242,699" />
+	<window data="reference.racedata.kobold.traits.darkvision@DD Volos Guide to Monsters" class="reference_racialtrait" pos="2074,389,2424,739" />
+	<window data="reference.racedata.kobold.traits.packtactics@DD Volos Guide to Monsters" class="reference_racialtrait" pos="2144,405,2494,755" />
+	<window data="reference.racedata.kobold.traits.languages@DD Volos Guide to Monsters" class="reference_racialtrait" pos="1961,318,2311,668" />
+	<window data="reference.racedata.kobold@DD Volos Guide to Monsters" class="reference_race" pos="2293,387,2643,737" />
+	<window data="reference.imagedata.img_lizardfolk_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="2108,211,2701,903" />
+	<window data="reference.racedata.lizardfolk@DD Volos Guide to Monsters" class="reference_race" pos="2279,368,2629,718" />
+	<window data="reference.racedata.tabaxi.traits.alignment@DD Volos Guide to Monsters" class="reference_racialtrait" pos="1974,375,2324,725" />
+	<window data="reference.imagedata.img_kenku_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="2171,197,2759,939" />
+	<window data="reference.racedata.kenku.traits.abilityscoreincrease@DD Volos Guide to Monsters" class="reference_racialtrait" pos="1970,422,2320,772" />
+	<window data="reference.racedata.kenku@DD Volos Guide to Monsters" class="reference_race" pos="2005,332,2355,682" />
+	<window data="reference.racedata.human_variant@DD PHB Deluxe" class="reference_race" pos="837,14,1151,968" />
+	<window data="reference.racedata.human.traits.abilityscoreincrease@DD PHB Deluxe" class="reference_racialtrait" pos="2675,374,3025,724" />
+	<window data="reference.racedata.human@DD PHB Deluxe" class="reference_race" pos="2343,105,2693,890" />
+	<window data="reference.racedata.human_variant.traits.abilityscoreincrease@DD PHB Deluxe" class="reference_racialtrait" pos="3045,45,3395,395" />
+	<window data="reference.racedata.human_variant.traits.feat@DD PHB Deluxe" class="reference_racialtrait" pos="2690,66,3040,416" />
+	<window data="reference.racedata.human_variant.traits.skills@DD PHB Deluxe" class="reference_racialtrait" pos="2996,651,3346,1001" />
+	<window data="reference.racedata.human_variant.traits.speed@DD PHB Deluxe" class="reference_racialtrait" pos="2498,537,2848,887" />
+	<window data="reference.racedata.human_variant.traits.size@DD PHB Deluxe" class="reference_racialtrait" pos="3284,601,3634,951" />
+	<window data="reference.racedata.human_variant.traits.alignment@DD PHB Deluxe" class="reference_racialtrait" pos="3038,274,3388,624" />
+	<window data="reference.racedata.human_variant.traits.age@DD PHB Deluxe" class="reference_racialtrait" pos="3203,172,3553,522" />
+	<window data="reference.racedata.kobold.traits.abilityscoreincrease@DD Volos Guide to Monsters" class="reference_racialtrait" pos="2651,406,3001,756" />
+	<window data="reference.racedata.bugbear@DD Volos Guide to Monsters" class="reference_race" pos="2675,40,3025,390" />
+	<window data="reference.racedata.human_variant.traits.languages@DD PHB Deluxe" class="reference_racialtrait" pos="3039,517,3389,867" />
+	<window data="reference.featdata.actor@DD PHB Deluxe" class="reference_feat" pos="2303,327,2653,677" />
+	<window data="reference.featdata.athlete@DD PHB Deluxe" class="reference_feat" pos="3239,232,3589,582" />
+	<window data="reference.featdata.bountifulluck@DD Xanathar's Guide to Everything" class="reference_feat" pos="2280,370,2630,720" />
+	<window data="reference.racedata.tabaxi@DD Volos Guide to Monsters" class="reference_race" pos="2275,312,2625,935" />
+	<window data="reference.backgrounddata.folkhero@DD PHB Deluxe" class="reference_background" pos="728,391,1078,741" />
+	<window data="reference.backgrounddata.spy@DD PHB Deluxe" class="reference_background" pos="1194,29,1544,379" />
+	<window data="reference.backgrounddata.urchin@DD PHB Deluxe" class="reference_background" pos="983,379,1333,729" />
+	<window data="reference.backgrounddata.criminal@DD PHB Deluxe" class="reference_background" pos="976,14,1326,364" />
+	<window data="reference.featdata.dragonfear@DD Xanathar's Guide to Everything" class="reference_feat" pos="1742,333,2092,683" />
+	<window data="reference.featdata.dragonhide@DD Xanathar's Guide to Everything" class="reference_feat" pos="1742,333,2092,683" />
+	<window data="reference.featdata.drowhighmagic@DD Xanathar's Guide to Everything" class="reference_feat" pos="1742,333,2092,683" />
+	<window data="reference.featdata.durable@DD PHB Deluxe" class="reference_feat" pos="2287,399,2637,749" />
+	<window data="reference.featdata.elementaladept@DD PHB Deluxe" class="reference_feat" pos="2082,354,2432,704" />
+	<window data="reference.featdata.fadeaway@DD Xanathar's Guide to Everything" class="reference_feat" pos="1742,333,2092,683" />
+	<window data="reference.featdata.feyteleportation@DD Xanathar's Guide to Everything" class="reference_feat" pos="2153,370,2503,720" />
+	<window data="reference.featdata.flamesofphlegethos@DD Xanathar's Guide to Everything" class="reference_feat" pos="1742,333,2092,683" />
+	<window data="reference.featdata.grappler@DD PHB Deluxe" class="reference_feat" pos="2198,388,2548,738" />
+	<window data="reference.featdata.infernalconstitution@DD Xanathar's Guide to Everything" class="reference_feat" pos="1742,333,2092,683" />
+	<window data="reference.featdata.keenmind@DD PHB Deluxe" class="reference_feat" pos="1979,346,2329,696" />
+	<window data="reference.featdata.lightlyarmored@DD PHB Deluxe" class="reference_feat" pos="2281,436,2631,786" />
+	<window data="reference.featdata.linguist@DD PHB Deluxe" class="reference_feat" pos="1742,333,2092,683" />
+	<window data="reference.featdata.mageslayer@DD PHB Deluxe" class="reference_feat" pos="2278,387,2628,737" />
+	<window data="reference.featdata.magicinitiate@DD PHB Deluxe" class="reference_feat" pos="2287,424,2637,774" />
+	<window data="reference.featdata.martialadept@DD PHB Deluxe" class="reference_feat" pos="2189,451,2539,801" />
+	<window data="reference.featdata.mediumarmormaster@DD PHB Deluxe" class="reference_feat" pos="1919,365,2269,715" />
+	<window data="reference.featdata.moderatelyarmored@DD PHB Deluxe" class="reference_feat" pos="2038,364,2388,714" />
+	<window data="reference.featdata.resilient@DD PHB Deluxe" class="reference_feat" pos="2090,346,2440,696" />
+	<window data="reference.featdata.ritualcaster@DD PHB Deluxe" class="reference_feat" pos="2144,416,2494,766" />
+	<window data="reference.featdata.savageattacker@DD PHB Deluxe" class="reference_feat" pos="2128,358,2478,708" />
+	<window data="reference.featdata.secondchance@DD Xanathar's Guide to Everything" class="reference_feat" pos="2137,396,2487,746" />
+	<window data="reference.featdata.sentinel@DD PHB Deluxe" class="reference_feat" pos="2280,450,2630,800" />
+	<window data="reference.featdata.skilled@DD PHB Deluxe" class="reference_feat" pos="2136,350,2486,700" />
+	<window data="reference.featdata.squatnimbleness@DD Xanathar's Guide to Everything" class="reference_feat" pos="1742,333,2092,683" />
+	<window data="reference.featdata.tough@DD PHB Deluxe" class="reference_feat" pos="2103,372,2453,722" />
+	<window data="reference.featdata.weaponmaster@DD PHB Deluxe" class="reference_feat" pos="2212,465,2562,815" />
+	<window data="reference.classdata.rogue.features.expertise1@DD PHB Deluxe" class="reference_classfeature" pos="1925,13,2275,313" />
+	<window data="reference.featdata.lucky@DD PHB Deluxe" class="reference_feat" pos="2772,446,3122,796" />
+	<window data="reference.featdata.dungeondelver@DD PHB Deluxe" class="reference_feat" pos="2768,452,3118,802" />
+	<window data="reference.featdata.dualwielder@DD PHB Deluxe" class="reference_feat" pos="2808,522,3158,872" />
+	<window data="reference.featdata.defensiveduelist@DD PHB Deluxe" class="reference_feat" pos="2783,515,3133,865" />
+	<window data="reference.featdata.crossbowexpert@DD PHB Deluxe" class="reference_feat" pos="2855,532,3205,882" />
+	<window data="reference.featdata.observant@DD PHB Deluxe" class="reference_feat" pos="3271,508,3621,858" />
+	<window data="reference.featdata.prodigy@DD Xanathar's Guide to Everything" class="reference_feat" pos="2351,96,2701,446" />
+	<window data="reference.featdata.charger@DD PHB Deluxe" class="reference_feat" pos="3075,451,3425,801" />
+	<window data="reference.featdata.skulker@DD PHB Deluxe" class="reference_feat" pos="2715,451,3065,801" />
+	<window data="reference.featdata.mobile@DD PHB Deluxe" class="reference_feat" pos="2714,458,3064,808" />
+	<window data="reference.featdata.sharpshooter@DD PHB Deluxe" class="reference_feat" pos="2359,277,2709,627" />
+	<window data="reference.featdata.alert@DD PHB Deluxe" class="reference_feat" pos="2717,284,3067,634" />
+	<window data="charsheet.id-00004.inventorylist.id-00013" class="item" pos="821,175,1178,821" />
+	<window data="reference.classdata.rogue.features.sneakattack1@DD PHB Deluxe" class="reference_classfeature" pos="1923,7,2273,307" />
+	<window data="charsheet.id-00004.featurelist.id-00005" class="ref_ability" pos="1503,394,1853,744" />
+	<window data="reference.equipmentdata.rapier@DD PHB Deluxe" class="reference_weapon" pos="1742,333,2092,683" />
+	<window data="reference.equipmentdata.shortsword@DD PHB Deluxe" class="reference_weapon" pos="1528,334,1878,684" />
+	<window data="reference.equipmentdata.burglar_spack@DD PHB Deluxe" class="reference_equipment" pos="2063,425,2413,775" />
+	<window data="reference.equipmentdata.poison_basic_vial_@DD PHB Deluxe" class="reference_equipment" pos="2074,455,2424,805" />
+	<window data="reference.equipmentdata.perfume_vial_@DD PHB Deluxe" class="reference_equipment" pos="1742,300,2092,650" />
+	<window data="reference.equipmentdata.spyglass@DD PHB Deluxe" class="reference_equipment" pos="2101,398,2451,748" />
+	<window data="reference.equipmentlists.toolstable@DD PHB Deluxe" class="reference_adventuringgeartable" pos="2546,279,2996,929" />
+	<window data="reference.magicitemdata.dulcimerofillusion@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2269,491,2619,841" />
+	<window data="reference.magicitemdata.ersatzeye@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="1913,409,2263,759" />
+	<window data="reference.magicitemdata.orbofdirection@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2170,412,2520,762" />
+	<window data="reference.magicitemdata.panfluteofillusion@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2415,537,2765,887" />
+	<window data="reference.magicitemdata.panfluteofscribing@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2391,504,2741,854" />
+	<window data="reference.magicitemdata.pipeofsmokemonsters@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2007,449,2357,799" />
+	<window data="reference.magicitemdata.hornofillusion@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2237,399,2587,749" />
+	<window data="reference.magicitemdata.lockoftrickery@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2887,398,3237,748" />
+	<window data="reference.magicitemdata.mysterykey@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2351,488,2701,838" />
+	<window data="reference.magicitemdata.poleofangling@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2195,421,2545,771" />
+	<window data="reference.magicitemdata.poleofcollapsing@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2876,28,3226,378" />
+	<window data="reference.magicitemdata.clockworkamulet@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2522,393,2872,743" />
+	<window data="reference.magicitemdata.potofawakening@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2078,435,2428,785" />
+	<window data="reference.magicitemdata.veteran_scane@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2129,382,2479,732" />
+	<window data="reference.magicitemdata.orboftime@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2024,406,2374,756" />
+	<window data="reference.magicitemdata.perfumeofbewitching@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="1949,355,2299,705" />
+	<window data="reference.magicitemdata.dreadhelm@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2522,378,2872,728" />
+	<window data="charsheet.id-00002.inventorylist.id-00005" class="item" pos="1477,354,1827,704" />
+	<window data="reference.magicitemdata.darkshardamulet@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2523,31,2873,381" />
+	<window data="charsheet.id-00001.inventorylist.id-00015" class="item" pos="1980,386,2330,736" />
+	<window data="charsheet.id-00001.inventorylist.id-00002" class="item" pos="1741,333,2091,683" />
+	<window data="charsheet.id-00004.inventorylist.id-00008" class="item" pos="1199,297,1549,647" />
+	<window data="reference.magicitemdata.enduringspellbook@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="2284,353,2634,703" />
+	<window data="charsheet.id-00004.featurelist.id-00004" class="ref_ability" pos="865,130,1215,480" />
+	<window data="charsheet.id-00004.featlist.id-00001" class="ref_ability" pos="1474,456,1824,806" />
+	<window data="reference.imagedata.img_adventure_site_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="667,45,1435,1062" />
+	<window data="reference.imagedata.img_adventure_site_mask_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="2478,166,2778,942" />
+	<window data="reference.imagedata.img_white_abishai_jpg@DD Mordenkainen's Tome of Foes" class="imagewindow" pos="2004,74,2647,966" />
+	<window data="reference.imagedata.img_underdark_jpg@DD Xanathar's Guide to Everything" class="imagewindow" pos="1629,358,2202,658" />
+	<window data="tables.tab_childhoodhome@DD Xanathar's Guide to Everything" class="table" pos="2163,367,2563,767" />
+	<window data="reference.imagedata.img_adventure_types_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="2407,70,3028,962" />
+	<window data="reference.npcdata.zombie@DD PHB Deluxe" class="npc" pos="802,91,1262,641" />
+	<window data="tables.tab_dungeonhistory@DD Dungeon Masters Guide" class="table" pos="823,20,1223,420" />
+	<window data="tables.tab_dungeonpurpose@DD Dungeon Masters Guide" class="table" pos="823,141,1223,541" />
+	<window data="tables.tab_dungeonlocation@DD Dungeon Masters Guide" class="table" pos="692,38,1092,438" />
+	<window data="reference.npcdata.giantspider@DD PHB Deluxe" class="npc" pos="1188,370,1648,920" />
+	<window data="tables.tab_dungeongoals@DD Dungeon Masters Guide" class="table" pos="706,469,1106,869" />
+	<window data="tables.tab_dungeoncreator@DD Dungeon Masters Guide" class="table" pos="823,526,1223,926" />
+	<window data="reference.npcdata.imp@DD PHB Deluxe" class="npc" pos="1232,17,1692,567" />
+	<window data="npc" class="masterindex" pos="1993,201,2746,1077" />
+	<window data="tables" class="masterindex" pos="732,9,1182,459" />
+	<window data="notes" class="masterindex" pos="1419,351,1483,417" />
+	<window data="reference.skilldata.survival@DD PHB Deluxe" class="reference_skill" pos="784,413,1134,713" />
+	<window data="reference.classdata.ranger@DD PHB Deluxe" class="reference_class" pos="1129,383,1529,783" />
+	<window data="battle.bat_p2_02forestencounter@DD Dungeon Masters Guide" class="battle" pos="784,313,1134,713" />
+	<window data="battle.bat_p2_13forestencounter@DD Dungeon Masters Guide" class="battle" pos="784,313,1134,713" />
+	<window data="battle.bat_p2_20forestencounter@DD Dungeon Masters Guide" class="battle" pos="784,313,1134,713" />
+	<window data="lists.battle.bycategory@DD Dungeon Masters Guide" class="reference_colindex" pos="734,288,1184,738" />
+	<window data="reference.imagedata.img_beholder_battle_jpg@DD MM Monster Manual" class="imagewindow" pos="778,67,1141,959" />
+	<window data="reference.imagedata.img_demonintro_jpg@DD MM Monster Manual" class="imagewindow" pos="772,17,1146,1009" />
+	<window data="reference.imagedata.img_devilintro_jpg@DD MM Monster Manual" class="imagewindow" pos="779,67,1139,959" />
+	<window data="reference.imagelists.bycategory@DD MM Monster Manual" class="reference_colindex" pos="1142,49,1592,499" />
+	<window data="reference.refmanualindex@DD Dungeon Masters Guide" class="reference_manual" pos="2433,9,3383,997" />
+	<window data="reference.imagedata.img_cleric_death_domain_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="703,0,1216,1026" />
+	<window data="charsheet.id-00003.inventorylist.id-00014" class="item" pos="304,230,654,580" />
+	<window data="reference.imagedata.img_kobold_lair_players_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="135,0,1783,1026" />
+	<window data="reference.imagedata.img_hag_lair_dm_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="390,92,1529,934" />
+	<window data="charsheet.id-00004.weaponlist.id-00003" class="char_weapon_editor" pos="1423,391,1803,741" />
+	<window data="reference.imagedata.img_goblin_war_camp_players_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="1920,6,2910,990" />
+	<window data="combattracker" class="combattracker_host" pos="648,106,1298,962" />
+	<window data="npc.id-00001@5E Effects Coding - Spells" class="npc" pos="1990,268,2450,818" />
+	<window data="image.id-00020" class="imagewindow" pos="1931,30,3003,1047" />
+	<window data="itemtemplate" class="masterindex" pos="2569,202,2633,268" />
+	<window data="treasureparcels" class="masterindex" pos="925,648,989,714" />
+	<window data="quest" class="masterindex" pos="1692,261,2142,711" />
+	<window data="quest.id-00001" class="quest" pos="787,234,1137,584" />
+	<window data="reference.magicrefitemlists.bytype@DD Dungeon Masters Guide" class="reference_colindex" pos="734,288,1184,738" />
+	<window data="battle.bat_arcticowl2@DD Xanathar's Guide to Everything" class="battle" pos="784,313,1134,713" />
+	<window data="battle.bat_arcticbears@DD Xanathar's Guide to Everything" class="battle" pos="784,313,1134,713" />
+	<window data="battle.bat_coastdragon@DD Xanathar's Guide to Everything" class="battle" pos="784,313,1134,713" />
+	<window data="battle.bat_desertgynosphinx@DD Xanathar's Guide to Everything" class="battle" pos="784,313,1134,713" />
+	<window data="reference.npcdata.craniumrat@DD Volos Guide to Monsters" class="npc" pos="246,256,706,806" />
+	<window data="reference.npcdata.diseasedgiantrat@DD MM Monster Manual" class="npc" pos="597,158,1057,708" />
+	<window data="reference.npcdata.swarmofrats@DD MM Monster Manual" class="npc" pos="703,305,1163,855" />
+	<window data="reference.npcdata.rat@DD MM Monster Manual" class="npc" pos="970,48,1430,598" />
+	<window data="reference.npcdata.rat@DD PHB Deluxe" class="npc" pos="328,179,788,729" />
+	<window data="lists.table.bycategory@DD MM Monster Manual" class="reference_colindex" pos="734,288,1184,738" />
+	<window data="reference.refmanualindex@DD MM Monster Manual" class="reference_manual" pos="1486,51,2706,986" />
+	<window data="reference.refmanualdata.refpage_waterweird@DD MM Monster Manual" class="referencemanualpage" pos="1700,112,2350,762" />
+	<window data="reference.refmanualdata.refpage_wight@DD MM Monster Manual" class="referencemanualpage" pos="1214,167,1864,817" />
+	<window data="reference.npcdata.waterweird@DD MM Monster Manual" class="npc" pos="1349,237,1809,787" />
+	<window data="reference.npcdata.giantrat@DD MM Monster Manual" class="npc" pos="1328,157,1788,707" />
+	<window data="reference.npcdata.abyssalwretch@DD Mordenkainen's Tome of Foes" class="npc" pos="727,238,1187,788" />
+	<window data="battle.id-00001" class="battle" pos="2379,261,2679,561" />
+	<window data="reference.npcdata.waterelemental@DD MM Monster Manual" class="npc" pos="1687,233,2147,783" />
+	<window data="reference.npcdata.koboldinventor@DD Volos Guide to Monsters" class="npc" pos="1296,203,1778,920" />
+	<window data="reference.npcdata.koboldscalesorcerer@DD Volos Guide to Monsters" class="npc" pos="394,-8,854,946" />
+	<window data="reference.npcdata.kobolddragonshield_black@DD Volos Guide to Monsters" class="npc" pos="2163,376,2623,926" />
+	<window data="reference.npcdata.kobolddragonshield_blue@DD Volos Guide to Monsters" class="npc" pos="1687,233,2147,783" />
+	<window data="reference.npcdata.aurochs@DD Volos Guide to Monsters" class="npc" pos="2335,274,2795,824" />
+	<window data="reference.npcdata.brynlightfingers@D&amp;D Sword Coast Adventurer's Guide - Campaign Guide" class="npc" pos="1687,233,2147,783" />
+	<window data="reference.npcdata.gelatinouscube@DD MM Monster Manual" class="npc" pos="1975,230,2435,780" />
+	<window data="reference.npcdata.pentadrone@DD MM Monster Manual" class="npc" pos="1978,241,2438,791" />
+	<window data="battle.id-00003" class="battle" pos="2746,436,3096,787" />
+	<window data="battle.id-00002" class="battle" pos="1447,581,1747,881" />
+	<window data="reference.npcdata.will_o__wisp@DD MM Monster Manual" class="npc" pos="2013,304,2473,854" />
+	<window data="reference.npcdata.dragonturtle@DD MM Monster Manual" class="npc" pos="1343,263,1803,813" />
+	<window data="battle.bat_arcticdragon@DD Xanathar's Guide to Everything" class="battle" pos="1417,487,1767,887" />
+	<window data="reference.npcdata.crocodile@DD PHB Deluxe" class="npc" pos="1914,377,2374,927" />
+	<window data="reference.npcdata.thewretched@DD Mordenkainen's Tome of Foes" class="npc" pos="1386,288,1846,838" />
+	<window data="reference.npcdata.wingedkobold@DD MM Monster Manual" class="npc" pos="491,403,951,803" />
+	<window data="reference.npcdata.pittrap@DD Xanathar's Guide to Everything" class="npc" pos="1962,252,2422,802" />
+	<window data="reference.npcdata.nettrap@DD Xanathar's Guide to Everything" class="npc" pos="1990,273,2450,823" />
+	<window data="reference.npcdata.simplepittrap@DD Dungeon Masters Guide" class="npc" pos="1687,233,2147,783" />
+	<window data="reference.npcdata.flailsnail@DD Volos Guide to Monsters" class="npc" pos="2012,191,2472,741" />
+	<window data="battle.id-00004" class="battle" pos="785,11,1129,446" />
+	<window data="battle.id-00005" class="battle" pos="1605,324,1905,624" />
+	<window data="treasureparcels.id-00005" class="treasureparcel" pos="2408,472,2952,822" />
+	<window data="treasureparcels.id-00004" class="treasureparcel" pos="1932,22,2432,372" />
+	<window data="notes.id-00001" class="note" pos="2916,507,3266,857" />
+	<window data="reference.npcdata.rugofsmothering@DD MM Monster Manual" class="npc" pos="2697,315,3157,865" />
+	<window data="reference.npcdata.banditcaptain@DD MM Monster Manual" class="npc" pos="2322,261,2782,811" />
+	<window data="reference.npcdata.kobold@DD MM Monster Manual" class="npc" pos="1928,451,2388,1001" />
+	<window data="reference.magicrefitemdata.ammunition__1@DD Dungeon Masters Guide" class="itemtemplate" pos="1316,130,1666,480" />
+	<window data="tables.tab_treasurehoard_challenge00_04@DD Dungeon Masters Guide" class="table" pos="480,513,880,913" />
+	<window data="treasureparcels.id-00005.itemlist.id-00001" class="item" pos="2450,405,2800,755" />
+	<window data="reference.equipmentdata.candle@DD PHB Deluxe" class="reference_equipment" pos="1513,277,1863,627" />
+	<window data="reference.equipmentdata.rations_1day_@DD PHB Deluxe" class="reference_equipment" pos="1423,289,1773,639" />
+	<window data="treasureparcels.id-00035" class="treasureparcel" pos="2112,626,2612,976" />
+	<window data="treasureparcels.id-00033" class="treasureparcel" pos="2661,571,3161,921" />
+	<window data="treasureparcels.id-00037" class="treasureparcel" pos="2112,280,2612,630" />
+	<window data="reference.equipmentdata.anecklacestringofsmallpinkpearls@DD Dungeon Masters Guide" class="reference_equipment" pos="1953,487,2303,837" />
+	<window data="reference.magicitemdata.morningstarofwarning@DD Dungeon Masters Guide" class="reference_magicitem" pos="1991,375,2341,725" />
+	<window data="reference.magicitemdata.morningstar__1@DD Dungeon Masters Guide" class="reference_magicitem" pos="1972,345,2322,695" />
+	<window data="tables.tab_individualtreasure_challenge00_04@DD Dungeon Masters Guide" class="table" pos="2820,27,3220,427" />
+	<window data="storytemplate" class="masterindex" pos="927,480,991,546" />
+	<window data="reference.npcdata.giantcrab@DD MM Monster Manual" class="npc" pos="559,309,1019,859" />
+	<window data="reference.npcdata.scorpion@DD MM Monster Manual" class="npc" pos="1040,281,1500,831" />
+	<window data="tables.tab_koboldinventorweaponinvention@DD Volos Guide to Monsters" class="table" pos="2707,281,3107,681" />
+	<window data="npc.id-00001" class="npc" pos="3044,43,3504,892" />
+	<window data="reference.npcdata.giantspider@DD MM Monster Manual" class="npc" pos="2049,230,2509,780" />
+	<window data="charsheet.id-00006.powers.id-00046" class="power" pos="1742,323,2092,673" />
+	<window data="battle.id-00006" class="battle" pos="2350,256,2650,556" />
+	<window data="reference.equipmentdata.acid_vial_@DD PHB Deluxe" class="reference_equipment" pos="1954,351,2304,701" />
+	<window data="reference.imagedata.img_kobold_inventor_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="1349,67,1915,909" />
+	<window data="reference.imagedata.img_waterweird_jpg@DD MM Monster Manual" class="imagewindow" pos="2455,47,3041,939" />
+	<window data="reference.npcdata.eidolon@DD Mordenkainen's Tome of Foes" class="npc" pos="799,193,1259,743" />
+	<window data="reference.npcdata.sacredstatue@DD Mordenkainen's Tome of Foes" class="npc" pos="1327,162,1787,712" />
+	<window data="encounter.id-00013" class="encounter" pos="1325,209,1725,859" />
+	<window data="reference.npcdata.firebreathingstatue@DD Dungeon Masters Guide" class="npc" pos="482,314,942,864" />
+	<window data="reference.npcdata.irongolem@DD MM Monster Manual" class="npc" pos="1687,233,2147,783" />
+	<window data="reference.npcdata.fleshgolem@DD MM Monster Manual" class="npc" pos="2433,376,2893,926" />
+	<window data="reference.npcdata.chuul@DD MM Monster Manual" class="npc" pos="1687,233,2147,783" />
+	<window data="reference.npcdata.bugbearchief@DD MM Monster Manual" class="npc" pos="2963,327,3423,877" />
+	<window data="reference.npcdata.claygolem@DD MM Monster Manual" class="npc" pos="1996,165,2456,715" />
+	<window data="reference.npcdata.stonegolem@DD MM Monster Manual" class="npc" pos="2642,177,3102,727" />
+	<window data="npc.id-00002" class="npc" pos="1000,320,1460,870" />
+	<window data="battle.id-00007" class="battle" pos="2360,522,2678,922" />
+	<window data="charsheet.id-00003.featurelist.id-00001" class="ref_ability" pos="916,405,1266,755" />
+	<window data="charsheet.id-00002.powers.id-00002" class="power" pos="1143,348,1493,698" />
+	<window data="charsheet.id-00002.powers.id-00016" class="power" pos="1086,340,1436,690" />
+	<window data="itemtemplate.id-00001" class="itemtemplate" pos="931,494,1281,844" />
+	<window data="charsheet.id-00003.inventorylist.id-00003" class="item" pos="1333,373,1683,723" />
+	<window data="item.id-00006" class="item" pos="2501,277,3117,923" />
+	<window data="charsheet.id-00002.inventorylist.id-00014" class="item" pos="712,282,1062,632" />
+	<window data="reference.racedata.human.traits.age@DD PHB Deluxe" class="reference_racialtrait" pos="1991,342,2341,692" />
+	<window data="encounter.id-00012" class="encounter" pos="1452,161,1852,811" />
+	<window data="reference.racedata.human.traits.languages@DD PHB Deluxe" class="reference_racialtrait" pos="2047,309,2397,659" />
+	<window data="reference.classdata.fighter.abilities.arcanearcher@DD Xanathar's Guide to Everything" class="reference_classability" pos="388,403,738,703" />
+	<window data="reference.classdata.fighter.abilities.cavalier@DD Xanathar's Guide to Everything" class="reference_classability" pos="402,461,752,761" />
+	<window data="reference.classdata.fighter.abilities.eldritchknight@DD PHB Deluxe" class="reference_classability" pos="497,646,847,946" />
+	<window data="reference.classdata.fighter.features.bonusproficiency_samurai_3@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1544,456,1894,756" />
+	<window data="reference.classdata.fighter.features.elegantcourtier7@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1396,414,1746,714" />
+	<window data="reference.classdata.fighter.features.tirelessspirit10@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1742,408,2092,708" />
+	<window data="reference.classdata.fighter.features.remarkableathlete7@DD PHB Deluxe" class="reference_classfeature" pos="594,410,944,710" />
+	<window data="reference.classdata.fighter.features.additionalfightingstyle10@DD PHB Deluxe" class="reference_classfeature" pos="1203,418,1553,718" />
+	<window data="reference.classdata.fighter.features.studentofwar3@DD PHB Deluxe" class="reference_classfeature" pos="730,528,1080,828" />
+	<window data="reference.classdata.fighter.features.knowyourenemy7@DD PHB Deluxe" class="reference_classfeature" pos="1158,462,1508,762" />
+	<window data="reference.classdata.fighter@DD Xanathar's Guide to Everything" class="reference_class" pos="2423,483,2823,883" />
+	<window data="encounter.id-00011" class="encounter" pos="1404,254,1804,904" />
+	<window data="reference.equipmentdata.warpick@DD PHB Deluxe" class="reference_weapon" pos="1554,403,1904,753" />
+	<window data="reference.classdata.fighter.features.martialarchetype3@DD PHB Deluxe" class="reference_classfeature" pos="2388,572,2738,872" />
+	<window data="encounter.id-00010" class="encounter" pos="1405,178,1805,828" />
+	<window data="reference.classdata.fighter.features.improvedcritical3@DD PHB Deluxe" class="reference_classfeature" pos="393,323,743,623" />
+	<window data="reference.classdata.fighter.abilities.champion@DD PHB Deluxe" class="reference_classability" pos="403,17,753,317" />
+	<window data="reference.classdata.fighter.abilities.samurai@DD Xanathar's Guide to Everything" class="reference_classability" pos="44,24,394,324" />
+	<window data="reference.classdata.fighter.features.fightingspirit3@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="32,329,382,629" />
+	<window data="encounter.id-00009" class="encounter" pos="1395,23,1809,803" />
+	<window data="reference.npcdata.bandit@DD MM Monster Manual" class="npc" pos="1977,297,2437,847" />
+	<window data="encounter.id-00023" class="encounter" pos="1484,319,1912,967" />
+	<window data="reference.classdata.fighter.features.combatsuperiority3@DD PHB Deluxe" class="reference_classfeature" pos="1982,39,2336,968" />
+	<window data="reference.classdata.fighter.features.abilityscoreimprovement4@DD PHB Deluxe" class="reference_classfeature" pos="2544,573,2894,873" />
+	<window data="reference.npcdata.goblinboss@DD MM Monster Manual" class="npc" pos="2182,305,2642,855" />
+	<window data="reference.classdata.fighter.abilities.battlemaster@DD PHB Deluxe" class="reference_classability" pos="728,50,1078,515" />
+	<window data="reference.classdata.fighter.features.fightingstyle1@DD PHB Deluxe" class="reference_classfeature" pos="2351,47,2769,888" />
+	<window data="spell.id-00680@5E Effects Coding - Spells" class="power" pos="2509,518,2859,868" />
+	<window data="charsheet.id-00004.featurelist.id-00003" class="ref_ability" pos="1234,385,1584,735" />
+	<window data="charsheet.id-00004.featurelist.id-00008" class="ref_ability" pos="1347,333,1697,683" />
+	<window data="charsheet.id-00004.featurelist.id-00002" class="ref_ability" pos="1240,394,1590,744" />
+	<window data="charsheet.id-00002.powers.id-00002.actions.id-00001" class="power_heal_editor" pos="1459,354,1809,704" />
+	<window data="charsheet.id-00002.powers.id-00019" class="power" pos="1153,517,1503,867" />
+	<window data="charsheet.id-00002.featurelist.id-00005" class="ref_ability" pos="1531,22,1881,372" />
+	<window data="charsheet.id-00003.powers.id-00001" class="power" pos="950,382,1300,732" />
+	<window data="charsheet.id-00002.featurelist.id-00006" class="ref_ability" pos="1073,341,1423,691" />
+	<window data="charsheet.id-00002.powers.id-00005" class="power" pos="341,571,691,921" />
+	<window data="charsheet.id-00004.featurelist.id-00007" class="ref_ability" pos="1571,207,1921,557" />
+	<window data="charsheet.id-00002.powers.id-00021" class="power" pos="1510,345,1860,695" />
+	<window data="charsheet.id-00002.powers.id-00013" class="power" pos="1415,542,1765,892" />
+	<window data="charsheet.id-00002.powers.id-00012" class="power" pos="1530,473,1880,823" />
+	<window data="charsheet.id-00002.powers.id-00003" class="power" pos="1541,426,1891,886" />
+	<window data="charsheet.id-00002.powers.id-00018" class="power" pos="1483,335,1833,685" />
+	<window data="charsheet.id-00002.powers.id-00017" class="power" pos="1412,481,1762,831" />
+	<window data="item.id-00007" class="item" pos="2525,286,2875,636" />
+	<window data="reference.magicrefitemdata.defender@DD Dungeon Masters Guide" class="itemtemplate" pos="1516,334,1866,684" />
+	<window data="reference.magicrefitemdata.weapon__3@DD Dungeon Masters Guide" class="itemtemplate" pos="1504,155,1854,505" />
+	<window data="reference.magicrefitemdata.weaponofwarning@DD Dungeon Masters Guide" class="itemtemplate" pos="951,332,1318,743" />
+	<window data="reference.magicrefitemdata.wave@DD Dungeon Masters Guide" class="itemtemplate" pos="1480,321,1830,671" />
+	<window data="reference.magicrefitemdata.moon_touchedsword@DD Xanathar's Guide to Everything" class="itemtemplate" pos="1417,340,1767,690" />
+	<window data="reference.magicrefitemdata.mindlash@DD Volos Guide to Monsters" class="itemtemplate" pos="1539,319,1889,669" />
+	<window data="reference.equipmentdata.ceremonialelectrumdaggerwithablackpearlinthepommel@DD Dungeon Masters Guide" class="reference_equipment" pos="1389,315,1739,665" />
+	<window data="reference.magicitemdata.viciousdagger@DD Dungeon Masters Guide" class="reference_magicitem" pos="1289,265,1639,615" />
+	<window data="tables.tab_extinctionordepletion@DD Dungeon Masters Guide" class="table" pos="2537,493,2937,893" />
+	<window data="itemtemplate.id-00003" class="itemtemplate" pos="862,467,1212,817" />
+	<window data="reference.npcdata.swarmofrotgrubs@DD Volos Guide to Monsters" class="npc" pos="2692,380,3152,930" />
+	<window data="reference.magicrefitemdata.vorpalsword@DD Dungeon Masters Guide" class="itemtemplate" pos="1554,327,1904,677" />
+	<window data="reference.imagedata.img_dwarven_plate_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="1946,165,2479,992" />
+	<window data="reference.equipmentdata.dagger@DD PHB Deluxe" class="reference_weapon" pos="845,491,1195,841" />
+	<window data="charsheet.id-00002.inventorylist.id-00008" class="item" pos="2069,328,2419,678" />
+	<window data="tables.tab_ironflask@DD Dungeon Masters Guide" class="table" pos="2491,532,2891,932" />
+	<window data="reference.magicrefitemdata.dragonscalemail@DD Dungeon Masters Guide" class="itemtemplate" pos="1959,319,2309,669" />
+	<window data="reference.magicrefitemdata.elvenchain@DD Dungeon Masters Guide" class="itemtemplate" pos="2026,328,2376,678" />
+	<window data="reference.magicrefitemdata.shieldofexpression@DD Xanathar's Guide to Everything" class="itemtemplate" pos="2140,332,2490,682" />
+	<window data="reference.magicrefitemdata.immovablerod@DD Dungeon Masters Guide" class="itemtemplate" pos="2031,332,2381,682" />
+	<window data="reference.magicrefitemdata.tentaclerod@DD Dungeon Masters Guide" class="itemtemplate" pos="2048,309,2398,659" />
+	<window data="reference.magicrefitemdata.rodofsecurity@DD Dungeon Masters Guide" class="itemtemplate" pos="2228,78,2737,761" />
+	<window data="reference.magicrefitemdata.chimeofopening@DD Dungeon Masters Guide" class="itemtemplate" pos="2342,457,2692,864" />
+	<window data="reference.magicrefitemdata.cloakofbillowing@DD Xanathar's Guide to Everything" class="itemtemplate" pos="1742,333,2092,683" />
+	<window data="reference.magicrefitemdata.cloakofelvenkind@DD Dungeon Masters Guide" class="itemtemplate" pos="2183,393,2533,878" />
+	<window data="reference.magicrefitemdata.cubeofforce@DD Dungeon Masters Guide" class="itemtemplate" pos="2166,472,2516,822" />
+	<window data="tables.tab_elementalgem@DD Dungeon Masters Guide" class="table" pos="2292,443,2692,843" />
+	<window data="reference.magicrefitemdata.eversmokingbottle@DD Dungeon Masters Guide" class="itemtemplate" pos="1549,496,1899,846" />
+	<window data="reference.imagedata.img_circlet_of_blasting_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="1021,270,1850,694" />
+	<window data="reference.equipmentdata.hammer@DD PHB Deluxe" class="reference_equipment" pos="1552,316,1902,666" />
+	<window data="reference.equipmentdata.rope_hempen_50feet_@DD PHB Deluxe" class="reference_equipment" pos="1569,330,1919,680" />
+	<window data="reference.equipmentdata.piton@DD PHB Deluxe" class="reference_equipment" pos="1453,229,1803,579" />
+	<window data="treasureparcels.id-00002.itemlist.id-00007" class="item" pos="1389,319,1739,669" />
+	<window data="encounter.id-00002" class="encounter" pos="1342,25,1742,675" />
+	<window data="treasureparcels.id-00002" class="treasureparcel" pos="2097,625,2597,975" />
+	<window data="treasureparcels.id-00002.itemlist.id-00003" class="item" pos="1509,535,1859,885" />
+	<window data="reference.equipmentdata.rope_hempen_50feet_@DD Xanathar's Guide to Everything" class="reference_equipment" pos="1466,233,1816,583" />
+	<window data="reference.equipmentdata.potion@DD Dungeon Masters Guide" class="reference_equipment" pos="2005,324,2355,674" />
+	<window data="reference.equipmentdata.potionofhealing@DD PHB Deluxe" class="reference_equipment" pos="754,115,1104,465" />
+	<window data="reference.magicitemdata.potionofmindreading@DD Dungeon Masters Guide" class="reference_magicitem" pos="1943,350,2293,700" />
+	<window data="reference.magicitemdata.potionofwaterbreathing@DD Dungeon Masters Guide" class="reference_magicitem" pos="1986,316,2336,666" />
+	<window data="encounter.id-00001" class="encounter" pos="1386,242,1786,892" />
+	<window data="reference.magicitemdata.potionofvitality@DD Dungeon Masters Guide" class="reference_magicitem" pos="1925,294,2275,644" />
+	<window data="reference.magicitemdata.potionofsupremehealing@DD Dungeon Masters Guide" class="reference_magicitem" pos="1926,305,2276,655" />
+	<window data="reference.magicitemdata.adamantinechainmailarmor@DD Dungeon Masters Guide" class="reference_magicitem" pos="2049,331,2399,681" />
+	<window data="reference.magicitemdata.adamantineringmailarmor@DD Dungeon Masters Guide" class="reference_magicitem" pos="2306,409,2656,759" />
+	<window data="reference.equipmentdata.alchemist_sfire_flask_@DD PHB Deluxe" class="reference_equipment" pos="259,289,609,639" />
+	<window data="reference.equipmentdata.almsbox@DD PHB Deluxe" class="reference_equipment" pos="1898,352,2248,702" />
+	<window data="reference.equipmentdata.amethyst@DD Dungeon Masters Guide" class="reference_equipment" pos="1985,385,2335,735" />
+	<window data="treasureparcels.id-00037.itemlist.id-00005" class="item" pos="1185,254,1623,853" />
+	<window data="reference.magicrefitemdata.viciousweapon@DD Dungeon Masters Guide" class="itemtemplate" pos="2802,554,3152,904" />
+	<window data="treasureparcels.id-00004.itemlist.id-00001" class="item" pos="1460,340,1810,690" />
+	<window data="treasureparcels.id-00004.itemlist.id-00002" class="item" pos="1558,341,1908,691" />
+	<window data="treasureparcels.id-00004.itemlist.id-00003" class="item" pos="1499,333,1849,683" />
+	<window data="treasureparcels.id-00004.itemlist.id-00004" class="item" pos="1505,322,1855,672" />
+	<window data="reference.magicrefitemdata.armoroffireresistance@DD Dungeon Masters Guide" class="itemtemplate" pos="3231,41,3581,391" />
+	<window data="reference.spelldata.scorchingray@DD PHB Deluxe" class="reference_spell" pos="2510,413,2860,763" />
+	<window data="reference.magicrefitemdata.redelementalgem@DD Dungeon Masters Guide" class="itemtemplate" pos="1148,62,1498,412" />
+	<window data="reference.equipmentdata.starruby@DD Dungeon Masters Guide" class="reference_equipment" pos="1488,348,1838,698" />
+	<window data="reference.equipmentdata.ruby@DD Dungeon Masters Guide" class="reference_equipment" pos="1545,342,1895,692" />
+	<window data="reference.magicrefitemdata.elementalgem@DD Dungeon Masters Guide" class="itemtemplate" pos="1110,475,1460,825" />
+	<window data="reference.magicitemdata.redelementalgem@DD Dungeon Masters Guide" class="reference_magicitem" pos="1144,210,1494,560" />
+	<window data="reference.imagedata.img_elemental_gems_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="229,390,1057,769" />
+	<window data="reference.equipmentdata.goldcircletsetwithfouraquamarines@DD Dungeon Masters Guide" class="reference_equipment" pos="2063,445,2413,795" />
+	<window data="reference.magicitemdata.circletofblasting@DD Dungeon Masters Guide" class="reference_magicitem" pos="2016,392,2366,742" />
+	<window data="reference.spelldata.conjureelemental@DD PHB Deluxe" class="reference_spell" pos="881,192,1406,823" />
+	<window data="treasureparcels.id-00006" class="treasureparcel" pos="2546,366,3046,716" />
+	<window data="reference.magicrefitemdata.circletofblasting@DD Dungeon Masters Guide" class="itemtemplate" pos="1556,36,1906,482" />
+	<window data="lists.table.bycategory@DD Dungeon Masters Guide" class="reference_colindex" pos="1430,327,1880,777" />
+	<window data="reference.equipmentdata.dynamite_stick_@DD Dungeon Masters Guide" class="reference_weapon" pos="1002,172,1352,522" />
+	<window data="treasureparcels.id-00007" class="treasureparcel" pos="2151,572,2651,922" />
+	<window data="spell.id-00002@5E Effects Coding - Feats" class="power" pos="1505,441,1855,791" />
+	<window data="combattracker.list.id-00011.actions.id-00006" class="ct_power_detail" pos="773,215,1073,515" />
+	<window data="combattracker.list.id-00011.actions.id-00010" class="ct_power_detail" pos="1074,346,1374,646" />
+	<window data="reference.npcdata.swarmofinsects_centipedes_@DD MM Monster Manual" class="npc" pos="1434,401,1894,951" />
+	<window data="reference.spelllists.warlock@DD Xanathar's Guide to Everything" class="reference_colindex" pos="1346,215,1796,665" />
+	<window data="encounter.id-00022" class="encounter" pos="360,57,760,707" />
+	<window data="item.id-00018" class="item" pos="2862,221,3464,826" />
+	<window data="treasureparcels.id-00001.itemlist.id-00001" class="item" pos="2086,451,2436,801" />
+	<window data="reference.magicitemdata.greatclub__2@DD Dungeon Masters Guide" class="reference_magicitem" pos="1931,289,2281,639" />
+	<window data="reference.magicrefitemdata.dwarventhrower@DD Dungeon Masters Guide" class="itemtemplate" pos="2273,364,2623,714" />
+	<window data="item.id-00008" class="item" pos="2535,217,3171,911" />
+	<window data="item.id-00009" class="item" pos="1499,400,1849,750" />
+	<window data="reference.imagedata.img_spell_scroll_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="1188,237,1710,647" />
+	<window data="reference.npcdata.greenslime@DD Dungeon Masters Guide" class="npc" pos="2021,143,2481,693" />
+	<window data="item.id-00010" class="item" pos="2270,125,2713,695" />
+	<window data="item.id-00011" class="item" pos="2769,202,3602,863" />
+	<window data="treasureparcels.id-00001" class="treasureparcel" pos="2114,625,2614,975" />
+	<window data="encounter.id-00003" class="encounter" pos="1449,47,1882,864" />
+	<window data="encounter.id-00004" class="encounter" pos="2846,275,3246,925" />
+	<window data="encounter.id-00005" class="encounter" pos="1384,266,1784,916" />
+	<window data="item.id-00012" class="item" pos="1047,214,1772,720" />
+	<window data="item.id-00013" class="item" pos="2271,371,2621,721" />
+	<window data="charsheet.id-00003.inventorylist.id-00019" class="item" pos="1250,376,1600,726" />
+	<window data="encounter.id-00006" class="encounter" pos="1379,264,1779,914" />
+	<window data="encounter.id-00007" class="encounter" pos="1367,284,1767,934" />
+	<window data="encounter.id-00008" class="encounter" pos="1227,317,1627,967" />
+	<window data="encounter.id-00014" class="encounter" pos="1360,186,1760,836" />
+	<window data="encounter.id-00015" class="encounter" pos="2252,156,2652,806" />
+	<window data="encounter.id-00016" class="encounter" pos="1372,228,1772,878" />
+	<window data="encounter.id-00017" class="encounter" pos="2636,207,3036,857" />
+	<window data="encounter.id-00018" class="encounter" pos="1475,229,1875,879" />
+	<window data="encounter.id-00019" class="encounter" pos="1539,283,1939,933" />
+	<window data="encounter.id-00020" class="encounter" pos="1460,192,1860,842" />
+	<window data="encounter.id-00021" class="encounter" pos="390,33,829,610" />
+	<window data="battle.id-00009" class="battle" pos="2191,530,2541,930" />
+	<window data="encounter.id-00024" class="encounter" pos="2068,220,2468,870" />
+	<window data="npc.id-00004" class="npc" pos="1922,301,2382,851" />
+	<window data="npc.id-00003" class="npc" pos="2038,86,2498,933" />
+	<window data="reference.spelllists.wizard@DD PHB Deluxe" class="reference_colindex" pos="1693,283,2143,733" />
+	<window data="reference.magicitemdata.scrollofheatmetal@DD Dungeon Masters Guide" class="reference_magicitem" pos="1318,553,1668,903" />
+	<window data="reference.spelldata.speakwithdead@DD PHB Deluxe" class="power" pos="1536,364,1886,714" />
+	<window data="reference.magicitemdata.scrollofspeakwithdead@DD Dungeon Masters Guide" class="reference_magicitem" pos="804,533,1154,883" />
+	<window data="tables.tab_spellscroll_3rdlevel_@DD Dungeon Masters Guide" class="table" pos="1240,524,1640,924" />
+	<window data="reference.spelldata.ensnaringstrike@DD PHB Deluxe" class="power" pos="619,536,969,886" />
+	<window data="tables.tab_spellscroll_1stlevel_@DD Dungeon Masters Guide" class="table" pos="1031,116,1439,738" />
+	<window data="reference.spelldata.mindspike@DD Xanathar's Guide to Everything" class="power" pos="1941,334,2291,684" />
+	<window data="reference.spelldata.spikegrowth@DD PHB Deluxe" class="power" pos="1152,298,1502,648" />
+	<window data="reference.spelldata.moonbeam@DD PHB Deluxe" class="power" pos="1071,456,1421,806" />
+	<window data="tables.tab_spellscroll_2ndlevel_@DD Dungeon Masters Guide" class="table" pos="1348,245,1748,645" />
+	<window data="reference.magicitemdata.scrollofinvisibility@DD Dungeon Masters Guide" class="reference_magicitem" pos="525,290,875,640" />
+	<window data="reference.magicitemdata.scrollofsleep@DD Dungeon Masters Guide" class="reference_magicitem" pos="394,444,744,794" />
+	<window data="reference.spelldata.sleep@DD PHB Deluxe" class="power" pos="439,486,789,836" />
+	<window data="reference.spelldata.sleep@DD PHB Deluxe" class="reference_spell" pos="1322,333,1672,683" />
+	<window data="reference.magicitemdata.scrollofrevivify@DD Dungeon Masters Guide" class="reference_magicitem" pos="398,38,748,388" />
+	<window data="reference.spelldata.revivify@DD PHB Deluxe" class="power" pos="435,96,785,446" />
+	<window data="reference.spelldata.revivify@DD PHB Deluxe" class="reference_spell" pos="1322,333,1672,683" />
+	<window data="reference.spelldata.invisibility@DD PHB Deluxe" class="power" pos="848,361,1198,711" />
+	<window data="reference.spelldata.invisibility@DD PHB Deluxe" class="reference_spell" pos="194,142,544,492" />
+	<window data="npc.id-00005" class="npc" pos="2148,334,2608,884" />
+	<window data="npc.id-00006" class="npc" pos="1037,260,1497,810" />
+	<window data="npc.id-00007" class="npc" pos="1381,203,1841,753" />
+	<window data="npc.id-00008" class="npc" pos="1349,205,1809,755" />
+	<window data="reference.spelldata.viciousmockery@DD PHB Deluxe" class="power" pos="1012,221,1362,571" />
+	<window data="npc.id-00009" class="npc" pos="1294,317,1754,867" />
+	<window data="reference.spelldata.guidingbolt@DD PHB Deluxe" class="power" pos="1743,333,2093,683" />
+	<window data="npc.id-00010" class="npc" pos="1374,319,1834,869" />
+	<window data="npc.id-00011" class="npc" pos="2298,196,2758,746" />
+	<window data="reference.spelldata.charmperson@DD PHB Deluxe" class="power" pos="1317,179,1714,768" />
+	<window data="battle.id-00011" class="battle" pos="2465,153,3040,553" />
+	<window data="charsheet.id-00003.inventorylist.id-00021" class="item" pos="1966,274,2316,624" />
+	<window data="reference.npcdata.lawmage@DD Guild Guide to Ravnica" class="npc" pos="2577,232,3037,782" />
+	<window data="reference.npcdata.mage@DD MM Monster Manual" class="npc" pos="2707,172,3167,722" />
+	<window data="reference.equipmentdata.pistol@DD Dungeon Masters Guide" class="reference_weapon" pos="2425,501,2775,851" />
+	<window data="item.id-00001" class="item" pos="2363,238,2782,879" />
+	<window data="image.img_iron_defender_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" pos="1394,105,2442,911" />
+	<window data="reference.npcdata.irondefender@DD Eberron Rising From the Last War - DM" class="npc" pos="1991,343,2451,893" />
+	<window data="encounter.id-00025" class="encounter" pos="1024,275,1530,944" />
+	<window data="encounter.id-00027" class="encounter" pos="2460,165,2860,815" />
+	<window data="encounter.id-00026" class="encounter" pos="2943,330,3343,980" />
+	<window data="image.img_living_burning_hands_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" pos="2575,32,3367,924" />
+	<window data="reference.npcdata.livingburninghands@DD Eberron Rising From the Last War - DM" class="npc" pos="1944,294,2404,844" />
+	<window data="reference.imagedata.img_quadrone_jpg@DD MM Monster Manual" class="imagewindow" pos="1624,62,2211,954" />
+	<window data="reference.npcdata.quadrone@DD MM Monster Manual" class="npc" pos="2095,239,2555,789" />
+	<window data="reference.imagedata.img_bronze_scout_jpg@DD Mordenkainen's Tome of Foes" class="imagewindow" pos="1394,194,2442,822" />
+	<window data="reference.npcdata.bronzescout@DD Mordenkainen's Tome of Foes" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.imagedata.img_quickling_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="2607,86,3455,860" />
+	<window data="reference.npcdata.valenarsteed@DD Eberron Rising From the Last War - DM" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.imagedata.img_sprite_jpg@DD MM Monster Manual" class="imagewindow" pos="1516,62,2320,954" />
+	<window data="reference.npcdata.sprite@DD MM Monster Manual" class="npc" pos="2539,260,2999,810" />
+	<window data="reference.npcdata.quickling@DD Volos Guide to Monsters" class="npc" pos="1687,224,2147,774" />
+	<window data="encounter.id-00028" class="encounter" pos="2329,179,2729,829" />
+	<window data="battle.id-00010" class="battle" pos="2369,405,2719,805" />
+	<window data="spell.id-00291@5E Effects Coding - Class Features" class="power" pos="1313,468,1663,818" />
+	<window data="spell.id-00188@5E Effects Coding - Class Features" class="power" pos="706,557,1056,907" />
+	<window data="modifiers" class="modifiers" pos="1227,322,1727,672" />
+	<window data="treasureparcels.id-00006.itemlist.id-00003" class="item" pos="2008,246,2523,829" />
+	<window data="treasureparcels.id-00006.itemlist.id-00002" class="item" pos="1982,60,2407,591" />
+	<window data="treasureparcels.id-00006.itemlist.id-00001" class="item" pos="1952,471,2302,821" />
+	<window data="spell.id-00418@5E Effects Coding - Class Features" class="power" pos="1535,274,1885,624" />
+	<window data="charsheet.id-00001.inventorylist.id-00006" class="item" pos="2054,435,2404,785" />
+	<window data="charsheet.id-00001.inventorylist.id-00020" class="item" pos="2021,87,2371,437" />
+	<window data="charsheet.id-00003.inventorylist.id-00024" class="item" pos="1564,37,1914,387" />
+	<window data="item.id-00005" class="item" pos="2080,350,2693,907" />
+	<window data="charsheet.id-00003.inventorylist.id-00002" class="item" pos="2282,352,2744,702" />
+	<window data="charsheet.id-00003.inventorylist.id-00005" class="item" pos="2257,329,2607,679" />
+	<window data="item.id-00014" class="item" pos="2102,142,2506,736" />
+	<window data="charsheet.id-00003.inventorylist.id-00022" class="item" pos="1477,361,1827,711" />
+	<window data="charsheet.id-00003.inventorylist.id-00020" class="item" pos="769,53,1302,654" />
+	<window data="charsheet.id-00001.inventorylist.id-00022" class="item" pos="1743,333,2093,683" />
+	<window data="reference.magicitemdata.battleaxegiantslayer@DD Dungeon Masters Guide" class="reference_magicitem" pos="2075,355,2425,705" />
+	<window data="reference.magicitemdata.berserkergreataxe@DD Dungeon Masters Guide" class="reference_magicitem" pos="2979,344,3329,694" />
+	<window data="reference.imagedata.img_bowl_of_commanding_water_elementals_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="1629,172,2207,845" />
+	<window data="reference.magicitemdata.bowlofcommandingwaterelementals@DD Dungeon Masters Guide" class="reference_magicitem" pos="2000,322,2350,672" />
+	<window data="reference.magicitemdata.amuletofhealth@DD Dungeon Masters Guide" class="reference_magicitem" pos="2100,319,2450,669" />
+	<window data="reference.imagedata.img_amulet_of_health_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="2518,244,2821,901" />
+	<window data="item.id-00015" class="item" pos="2149,354,2809,904" />
+	<window data="reference.imagedata.img_vicious_weapon_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="1687,37,2149,979" />
+	<window data="item.id-00004" class="item" pos="2059,479,2409,829" />
+	<window data="image.id-00021" class="imagewindow" pos="987,238,1752,679" />
+	<window data="image.id-00022" class="imagewindow" pos="70,104,622,701" />
+	<window data="image.id-00023" class="imagewindow" pos="77,36,1725,1053" />
+	<window data="image.id-00024" class="imagewindow" pos="864,142,1903,932" />
+	<window data="image.id-00025" class="imagewindow" pos="1989,59,2865,968" />
+	<window data="image.id-00026" class="imagewindow" pos="2279,218,2803,819" />
+	<window data="image.id-00027" class="imagewindow" pos="771,180,1400,659" />
+	<window data="item.id-00016" class="item" pos="2091,252,2618,842" />
+	<window data="item.id-00017" class="item" pos="2490,133,2992,929" />
+	<window data="charsheet.id-00002.inventorylist.id-00016" class="item" pos="2221,341,2571,691" />
+	<window data="charsheet.id-00003.inventorylist.id-00027" class="item" pos="1463,109,1813,459" />
+	<window data="charsheet.id-00004.inventorylist.id-00011" class="item" pos="2556,76,3071,687" />
+	<window data="reference.backgroundlists.byletter@DD PHB Deluxe" class="reference_colindex" pos="873,155,1639,897" />
+	<window data="reference.backgrounddata.inheritor@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_background" pos="2523,91,2952,902" />
+	<window data="reference.classdata.warlock@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_class" pos="446,82,846,482" />
+	<window data="reference.classdata.warlock.features.pactboon3@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_classfeature" pos="784,428,1134,728" />
+	<window data="Portals" class="portal_toolbox" pos="2591,355,2991,755" />
+	<window data="charsheet.id-00003.inventorylist.id-00010" class="item" pos="1500,333,1850,683" />
+	<window data="reference.classdata.rogue.abilities.swashbuckler@DD Xanathar's Guide to Everything" class="reference_classability" pos="520,643,870,943" />
+	<window data="reference.imagedata.img_inquisitive_jpg@DD Xanathar's Guide to Everything" class="imagewindow" pos="2144,106,2613,998" />
+	<window data="reference.classdata.rogue.features.masterofintrigue3@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_classfeature" pos="840,85,1190,385" />
+	<window data="reference.classdata.rogue.abilities.arcanetrickster@DD PHB Deluxe" class="reference_classability" pos="1567,9,1917,309" />
+	<window data="reference.classdata.rogue.features.skirmisher3@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1980,390,2330,690" />
+	<window data="reference.classdata.rogue.abilities.scout@DD Xanathar's Guide to Everything" class="reference_classability" pos="870,641,1220,941" />
+	<window data="reference.classdata.rogue.features.infiltrationexpertise9@DD PHB Deluxe" class="reference_classfeature" pos="2180,442,2530,742" />
+	<window data="reference.classdata.rogue.features.assassinate3@DD PHB Deluxe" class="reference_classfeature" pos="2299,484,2649,784" />
+	<window data="reference.classdata.rogue.features.fancyfootwork3@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_classfeature" pos="2282,331,2632,631" />
+	<window data="reference.classdata.rogue.abilities.mastermind@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_classability" pos="1222,7,1572,307" />
+	<window data="reference.classdata.rogue.abilities.swashbuckler@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_classability" pos="1567,304,1917,604" />
+	<window data="reference.classdata.rogue.abilities.assassin@DD PHB Deluxe" class="reference_classability" pos="1219,304,1569,604" />
+	<window data="reference.classdata.rogue.abilities.inquisitive@DD Xanathar's Guide to Everything" class="reference_classability" pos="1219,603,1569,903" />
+	<window data="reference.classdata.rogue.abilities.thief@DD PHB Deluxe" class="reference_classability" pos="1566,601,1916,901" />
+	<window data="reference.classdata.rogue.features.bonusproficiencies3@DD PHB Deluxe" class="reference_classfeature" pos="1541,291,1891,591" />
+	<window data="reference.classdata.rogue.features.deathstrike17@DD PHB Deluxe" class="reference_classfeature" pos="2107,402,2457,702" />
+	<window data="reference.classdata.rogue.features.impostor13@DD PHB Deluxe" class="reference_classfeature" pos="1556,390,1906,690" />
+	<window data="spell.id-00219@5E Effects Coding - Class Features" class="power" pos="2065,377,2415,727" />
+	<window data="charsheet.id-00004.featurelist.id-00006" class="ref_ability" pos="2423,125,2773,475" />
+	<window data="spell.id-00004@5E Items Effects Coding - Adventuring Gear" class="power" pos="2053,387,2403,737" />
+	<window data="spell.id-00020@5E Items Effects Coding - Adventuring Gear" class="power" pos="2010,393,2360,743" />
+	<window data="spell.id-00021@5E Items Effects Coding - Adventuring Gear" class="power" pos="1954,389,2304,739" />
+	<window data="charsheet.id-00004.powers.id-00005" class="power" pos="1559,457,1909,807" />
+	<window data="reference.refmanualindex@5E Effects Coding - Class Features" class="reference_manual" pos="746,187,1696,837" />
+	<window data="charsheet.id-00004.powers.id-00005.actions.id-00001" class="power_effect_editor" pos="2115,331,2465,681" />
+	<window data="spell.id-00026@5E Items Effects Coding - Adventuring Gear" class="power" pos="1743,333,2093,683" />
+	<window data="reference.classdata.rogue.features.fasthands3@DD PHB Deluxe" class="reference_classfeature" pos="2002,395,2352,695" />
+	<window data="reference.classdata.rogue.features.second_storywork3@DD PHB Deluxe" class="reference_classfeature" pos="1968,498,2318,798" />
+	<window data="spell.id-00090@5E Effects Coding - Class Features" class="power" pos="3237,544,3587,894" />
+	<window data="spell.id-00002" class="power" pos="3013,418,3363,768" />
+	<window data="spell.id-00001" class="power" pos="3041,296,3391,646" />
+	<window data="encounter.id-00004@5E Effects Coding - Class Features" class="encounter" pos="1222,196,1622,846" />
+	<window data="encounter.id-00002@5E Effects Coding - Class Features" class="encounter" pos="1718,183,2118,833" />
+	<window data="spell.id-00214@5E Effects Coding - Class Features" class="power" pos="2105,374,2455,724" />
+	<window data="spell.id-00159@5E Items Effects Coding - Weapons" class="power" pos="2826,332,3176,682" />
+	<window data="spell.id-00180@5E Items Effects Coding - Weapons" class="power" pos="1936,251,2286,601" />
+	<window data="encounter.id-00003@5E Effects Coding - Class Features" class="encounter" pos="1437,176,1837,826" />
+	<window data="spell.id-00179@5E Items Effects Coding - Weapons" class="power" pos="2817,431,3167,781" />
+	<window data="spell.id-00216@5E Items Effects Coding - Weapons" class="power" pos="1948,346,2298,696" />
+	<window data="spell.id-00001@5E Items Effects Coding - Adventuring Gear" class="power" pos="2540,445,2890,795" />
+	<window data="spell.id-00007@5E Items Effects Coding - Adventuring Gear" class="power" pos="1981,349,2331,699" />
+	<window data="charsheet.id-00004.weaponlist.id-00004" class="char_weapon_editor" pos="2041,303,2421,653" />
+	<window data="charsheet.id-00004.adventurelist.id-00002" class="ref_adventure" pos="2350,381,2900,681" />
+	<window data="encounter.id-00001@5E Effects Coding - Spells" class="encounter" pos="1199,175,1599,825" />
+	<window data="encounter.id-00007@5E Effects Coding - Spells" class="encounter" pos="1458,174,1858,824" />
+	<window data="encounter.id-00003@5E Effects Coding - Spells" class="encounter" pos="1480,192,1880,842" />
+	<window data="encounter.id-00006@5E Effects Coding - Spells" class="encounter" pos="1428,176,1828,826" />
+	<window data="reference.refmanualindex@5E Effects Coding - Spells" class="reference_manual" pos="924,86,1874,736" />
+	<window data="charsheet.id-00004.powers.id-00012" class="power" pos="1019,398,1369,748" />
+	<window data="reference.classdata.evilhighpriest@DD Dungeon Masters Guide" class="reference_class" pos="2802,418,3202,818" />
+	<window data="reference.classdata.druid@DD Xanathar's Guide to Everything" class="reference_class" pos="2836,401,3236,801" />
+	<window data="image.img_druid_jpg@DD PHB Deluxe" class="imagewindow" pos="1940,119,2669,1011" />
+	<window data="reference.classdata.druid.abilities.circleofspores@DD Guild Guide to Ravnica" class="reference_classability" pos="2628,36,2978,336" />
+	<window data="reference.classdata.druid.features.walkerindreams14@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1182,249,1616,741" />
+	<window data="reference.classdata.druid.features.hiddenpaths10@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1562,229,1912,529" />
+	<window data="reference.classdata.druid.features.hearthofmoonlightandshadow6@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1249,263,1599,563" />
+	<window data="reference.classdata.druid@DD PHB Deluxe" class="reference_class" pos="1479,357,1879,757" />
+	<window data="reference.classdata.druid.features.spirittotem2@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1742,610,2092,910" />
+	<window data="reference.classdata.druid.features.speechofthewoods2@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1742,540,2092,840" />
+	<window data="reference.classdata.druid.features.circleofsporesspells2@DD Guild Guide to Ravnica" class="reference_classfeature" pos="2286,364,2636,664" />
+	<window data="reference.classdata.druid@DD Guild Guide to Ravnica" class="reference_class" pos="1972,369,2372,769" />
+	<window data="reference.classdata.druid.features.mightysummoner6@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="2239,575,2589,875" />
+	<window data="reference.classdata.druid.features.guardianspirit10@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="2238,577,2588,877" />
+	<window data="reference.spelldata.conjureanimals@DD PHB Deluxe" class="reference_spell" pos="1743,333,2093,683" />
+	<window data="reference.classdata.druid.features.faithfulsummons14@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="2238,576,2588,876" />
+	<window data="reference.racedata.half_elf_variant.subraces.aquatic@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subrace" pos="2025,475,2375,825" />
+	<window data="reference.racedata.half_elf_variant.subraces.studied@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subrace" pos="1933,448,2283,798" />
+	<window data="reference.racedata.half_elf_variant.subraces.half_drow@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subrace" pos="1916,449,2266,799" />
+	<window data="reference.racedata.elf.traits.feyancestry@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_racialtrait" pos="1848,358,2198,708" />
+	<window data="reference.racedata.elf.subraces.woodelf.traits.maskofthewild@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subracialtrait" pos="1560,385,1910,735" />
+	<window data="reference.racedata.elf.subraces.woodelf.traits.fleetoffoot@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subracialtrait" pos="1534,359,1884,709" />
+	<window data="reference.racedata.elf.subraces.woodelf.traits.elfweapontraining@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subracialtrait" pos="1550,386,1900,736" />
+	<window data="reference.racedata.half_elf_variant.subraces.versatile.traits.skillversatility@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subracialtrait" pos="1949,523,2299,873" />
+	<window data="reference.racedata.half_elf_variant.subraces.keen@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subrace" pos="1743,333,2093,683" />
+	<window data="reference.racedata.half_elf_variant.subraces.versatile@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subrace" pos="1942,353,2292,703" />
+	<window data="reference.racedata.half_elf_variant.subraces.keen.traits.keensenses@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subracialtrait" pos="2295,523,2645,873" />
+	<window data="reference.racedata.half_elf_variant.subraces.trained@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subrace" pos="1918,468,2268,818" />
+	<window data="reference.racedata.half_elf.traits.skillversatility@DD PHB Deluxe" class="reference_racialtrait" pos="2115,205,2465,555" />
+	<window data="reference.racedata.elf.subraces.woodelf@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subrace" pos="1503,311,1853,661" />
+	<window data="reference.racedata.half_elf_variant.subraces.wild@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subrace" pos="1743,333,2093,683" />
+	<window data="charsheet.id-00006.traitlist.id-00001" class="ref_ability" pos="1059,139,1409,489" />
+	<window data="charsheet.id-00006.traitlist.id-00002" class="ref_ability" pos="1052,232,1402,582" />
+	<window data="reference.racedata.elf@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_race" pos="2218,143,2568,493" />
+	<window data="reference.classdata.druid.features.balmofthesummercourt2@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="2597,23,2947,323" />
+	<window data="reference.backgrounddata.simicscientist.features.simicguildspells@DD Guild Guide to Ravnica" class="reference_backgroundfeature" pos="1951,268,2301,618" />
+	<window data="reference.backgrounddata.simicscientist@DD Guild Guide to Ravnica" class="reference_background" pos="2026,397,2376,747" />
+	<window data="reference.backgrounddata.izzetengineer@DD Guild Guide to Ravnica" class="reference_background" pos="1993,365,2343,715" />
+	<window data="reference.backgrounddata.fartraveler@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_background" pos="1960,327,2310,677" />
+	<window data="reference.backgrounddata.outlander@DD PHB Deluxe" class="reference_background" pos="2071,361,2421,711" />
+	<window data="tables.tab_folkherodefiningevent@DD PHB Deluxe" class="table" pos="1967,308,2367,708" />
+	<window data="reference.backgrounddata.folkhero.features.rustichospitality@DD PHB Deluxe" class="reference_backgroundfeature" pos="1951,423,2301,773" />
+	<window data="reference.racedata.elf.subraces.moonelf@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_subrace" pos="1102,337,1452,687" />
+	<window data="reference.racedata.elf.traits.subrace@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_racialtrait" pos="1497,197,1847,547" />
+	<window data="reference.racedata.half_elf.traits.abilityscoreincrease@DD PHB Deluxe" class="reference_racialtrait" pos="2670,551,3020,901" />
+	<window data="reference.racedata.half_elf_variant.traits.abilityscoreincrease@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_racialtrait" pos="3115,496,3465,846" />
+	<window data="reference.classdata.druid.abilities.circleoftheland@DD PHB Deluxe" class="reference_classability" pos="3293,569,3643,869" />
+	<window data="reference.classdata.druid.abilities.circleofthemoon@DD PHB Deluxe" class="reference_classability" pos="2941,572,3291,872" />
+	<window data="reference.racedata.half_elf@DD PHB Deluxe" class="reference_race" pos="2472,195,2822,545" />
+	<window data="reference.racedata.half_elf_variant@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_race" pos="2113,113,2706,889" />
+	<window data="reference.classdata.druid.features.bonuscantrip2@DD PHB Deluxe" class="reference_classfeature" pos="2743,559,3093,859" />
+	<window data="reference.classdata.druid.features.naturalrecovery2@DD PHB Deluxe" class="reference_classfeature" pos="2721,580,3071,880" />
+	<window data="reference.classdata.druid.features.nature_ssanctuary14@DD PHB Deluxe" class="reference_classfeature" pos="2453,584,2803,884" />
+	<window data="reference.classdata.druid.features.nature_sward10@DD PHB Deluxe" class="reference_classfeature" pos="2155,496,2505,796" />
+	<window data="reference.classdata.druid.features.land_sstride6@DD PHB Deluxe" class="reference_classfeature" pos="2356,508,2706,808" />
+	<window data="reference.classdata.druid.features.circlespells3@DD PHB Deluxe" class="reference_classfeature" pos="2391,402,2741,702" />
+	<window data="reference.classdata.druid.features.primalstrike6@DD PHB Deluxe" class="reference_classfeature" pos="1742,584,2092,884" />
+	<window data="reference.classdata.druid.features.circleforms2@DD PHB Deluxe" class="reference_classfeature" pos="2384,467,2734,767" />
+	<window data="reference.classdata.druid.features.elementalwildshape10@DD PHB Deluxe" class="reference_classfeature" pos="2680,481,3030,781" />
+	<window data="reference.classdata.druid.features.druidic1@DD PHB Deluxe" class="reference_classfeature" pos="2575,366,2925,666" />
+	<window data="reference.classdata.druid.features.beastspells18@DD PHB Deluxe" class="reference_classfeature" pos="1921,339,2271,639" />
+	<window data="reference.classdata.druid.features.archdruid20@DD PHB Deluxe" class="reference_classfeature" pos="1940,374,2290,674" />
+	<window data="reference.classdata.druid.features.spellcasting1@DD PHB Deluxe" class="reference_classfeature" pos="2260,291,2610,591" />
+	<window data="charsheet.id-00006" class="charsheet_classes" pos="2289,450,2759,750" />
+	<window data="charsheet.id-00006" class="char_weaponmeta" pos="1477,395,1877,570" />
+	<window data="charsheet.id-00006" class="charsheet_combatcalc" pos="967,350,1467,570" />
+	<window data="charsheet.id-00006" class="coin_manager_remove_window" pos="901,346,1301,646" />
+	<window data="charsheet.id-00006" class="charsheet" pos="2129,3,2579,947" />
+	<window data="reference.classdata.druid.abilities.circleoftheshepherd@DD Xanathar's Guide to Everything" class="reference_classability" pos="1742,140,2092,440" />
+	<window data="reference.classdata.druid.features.combatwildshape2@DD PHB Deluxe" class="reference_classfeature" pos="1742,595,2092,895" />
+	<window data="reference.racedata.half_elf_variant.traits.subrace@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_racialtrait" pos="1739,526,2089,876" />
+	<window data="reference.classdata.druid.abilities.circleofdreams@DD Xanathar's Guide to Everything" class="reference_classability" pos="1742,48,2092,348" />
+	<window data="reference.spelllists.druid@DD PHB Deluxe" class="reference_colindex" pos="1927,38,2377,488" />
+	<window data="spell.id-00124@5E Effects Coding - Spells" class="power" pos="2049,153,2399,503" />
+	<window data="spell.id-00718@5E Effects Coding - Spells" class="power" pos="2078,308,2428,658" />
+	<window data="spell.id-00659@5E Effects Coding - Spells" class="power" pos="2830,124,3180,474" />
+	<window data="charsheet.id-00004.powers.id-00007" class="power" pos="1562,242,1912,592" />
+	<window data="charsheet.id-00004.weaponlist.id-00002" class="char_weapon_editor" pos="1214,321,1594,671" />
+	<window data="spell.id-00492@5E Effects Coding - Spells" class="power" pos="1508,391,1858,741" />
+	<window data="charsheet.id-00006.powers.id-00005" class="power" pos="1985,266,2335,616" />
+	<window data="charsheet.id-00006.powers.id-00005.actions.id-00001" class="power_effect_editor" pos="2280,629,2630,979" />
+	<window data="spell.id-00185@5E Effects Coding - Spells" class="power" pos="1977,283,2327,633" />
+	<window data="spell.id-00004@5E Effects Coding - Spells" class="power" pos="2043,379,2393,729" />
+	<window data="charsheet.id-00006.powers.id-00002" class="power" pos="1049,61,1651,919" />
+	<window data="spell.id-00311@5E Effects Coding - Spells" class="power" pos="1990,483,2340,833" />
+	<window data="spell.id-00339@5E Effects Coding - Spells" class="power" pos="1941,51,2291,401" />
+	<window data="spell.id-00083@5E Effects Coding - Spells" class="power" pos="1919,10,2269,360" />
+	<window data="spell.id-00493@5E Effects Coding - Spells" class="power" pos="1999,163,2349,513" />
+	<window data="spell.id-00201@5E Effects Coding - Spells" class="power" pos="2268,9,2618,359" />
+	<window data="spell.id-00335@5E Effects Coding - Spells" class="power" pos="2300,58,2650,408" />
+	<window data="spell.id-00497@5E Effects Coding - Spells" class="power" pos="2344,99,2694,449" />
+	<window data="spell.id-00661@5E Effects Coding - Spells" class="power" pos="2379,154,2729,504" />
+	<window data="spell.id-00494@5E Effects Coding - Spells" class="power" pos="2406,205,2756,555" />
+	<window data="spell.id-00601@5E Effects Coding - Spells" class="power" pos="2435,263,2785,613" />
+	<window data="spell.id-00330@5E Effects Coding - Spells" class="power" pos="1924,283,2274,633" />
+	<window data="spell.id-00001@5E Effects Coding - Spells" class="power" pos="2503,375,2853,725" />
+	<window data="class.id-00001.features.magicaltinkering1@5E Effects Coding - Class Features" class="reference_classfeature" pos="2161,440,2511,740" />
+	<window data="class.id-00001.features.spellcasting1@5E Effects Coding - Class Features" class="reference_classfeature" pos="1346,16,1898,967" />
+	<window data="charsheet.id-00003.featurelist.id-00006" class="ref_ability" pos="1468,458,1818,808" />
+	<window data="charsheet.id-00006.featurelist.id-00003" class="ref_ability" pos="1171,232,1551,632" />
+	<window data="class.id-00001.features.flashofgenius7@5E Effects Coding - Class Features" class="reference_classfeature" pos="1555,416,1905,716" />
+	<window data="class.id-00001.features.spell_storingitem11@5E Effects Coding - Class Features" class="reference_classfeature" pos="1529,385,1879,685" />
+	<window data="class.id-00001.features.soulofartifice20@5E Effects Coding - Class Features" class="reference_classfeature" pos="1567,398,1917,698" />
+	<window data="class.id-00001.features.artificerspecialist3@5E Effects Coding - Class Features" class="reference_classfeature" pos="1548,413,1898,713" />
+	<window data="class.id-00001.abilities.artillerist@5E Effects Coding - Class Features" class="reference_classability" pos="1556,428,1906,728" />
+	<window data="class.id-00001.abilities.alchemist@5E Effects Coding - Class Features" class="reference_classability" pos="1561,392,1911,692" />
+	<window data="reference.imagedata.img_battlesmith_jpg@DD Eberron Rising From the Last War - Players" class="imagewindow" pos="2084,68,2784,960" />
+	<window data="class.id-00001.abilities.battlesmith@5E Effects Coding - Class Features" class="reference_classability" pos="1558,378,1908,678" />
+	<window data="charsheet.id-00003.featurelist.id-00004" class="ref_ability" pos="1482,503,1832,853" />
+	<window data="spell.id-00717@5E Effects Coding - Spells" class="power" pos="2260,325,2610,675" />
+	<window data="spell.id-00130@5E Effects Coding - Spells" class="power" pos="2119,330,2469,680" />
+	<window data="spell.id-00671@5E Effects Coding - Spells" class="power" pos="2626,305,2976,655" />
+	<window data="spell.id-00260@5E Effects Coding - Spells" class="power" pos="2878,474,3228,824" />
+	<window data="charsheet.id-00003.powergroup.id-00012" class="power_groupdetail" pos="1208,347,1638,637" />
+	<window data="spell.id-00677@5E Effects Coding - Spells" class="power" pos="3243,109,3593,459" />
+	<window data="spell.id-00667@5E Effects Coding - Spells" class="power" pos="2887,112,3237,462" />
+	<window data="class.id-00001@5E Effects Coding - Class Features" class="reference_class" pos="2115,-5,2617,941" />
+	<window data="charsheet.id-00001.powergroup.id-00010" class="power_groupdetail" pos="1340,387,1770,677" />
+	<window data="reference.classdata.warlock.features.defydeath6@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_classfeature" pos="2002,425,2352,725" />
+	<window data="spell.id-00429@5E Effects Coding - Spells" class="power" pos="1533,335,1883,685" />
+	<window data="reference.classdata.warlock.features.amongthedead1@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_classfeature" pos="2258,301,2608,601" />
+	<window data="reference.classdata.warlock.features.expandedspelllist_undying_1@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_classfeature" pos="2384,47,2741,564" />
+	<window data="partysheet" class="coin_manager_window_gm" pos="1142,171,1662,571" />
+	<window data="partysheet" class="partysheet_host" pos="1916,173,2803,964" />
+	<window data="charsheet.id-00006.powers.id-00039" class="power" pos="1544,299,1881,863" />
+	<window data="charsheet.id-00006.powers.id-00050" class="power" pos="1546,327,1896,677" />
+	<window data="charsheet.id-00006.powers.id-00034" class="power" pos="1489,320,1839,670" />
+	<window data="charsheet.id-00006.powers.id-00045" class="power" pos="1557,64,1907,533" />
+	<window data="reference.spelldata.wardingwind@DD Xanathar's Guide to Everything" class="power" pos="2152,269,2794,885" />
+	<window data="charsheet.id-00006.featurelist.id-00001" class="ref_ability" pos="1472,308,1822,658" />
+	<window data="tables.tab_folkheroflaw@DD PHB Deluxe" class="table" pos="1473,304,1873,704" />
+	<window data="tables.tab_folkherobond@DD PHB Deluxe" class="table" pos="1440,485,1840,885" />
+	<window data="tables.tab_folkheroideal@DD PHB Deluxe" class="table" pos="1276,465,1676,865" />
+	<window data="tables.tab_folkheropersonalitytrait@DD PHB Deluxe" class="table" pos="1449,254,1849,654" />
+	<window data="charsheet.id-00006.powers.id-00036" class="power" pos="507,70,857,420" />
+	<window data="charsheet.id-00006.powers.id-00006" class="power" pos="1448,270,1798,620" />
+	<window data="charsheet.id-00006.powers.id-00003" class="power" pos="1403,158,1753,508" />
+	<window data="reference.equipmentdata.ballofputty@DD Eberron Rising From the Last War - Players" class="reference_equipment" pos="2038,355,2388,705" />
+	<window data="reference.equipmentdata.bonefragment@DD Eberron Rising From the Last War - Players" class="reference_equipment" pos="1946,348,2296,698" />
+	<window data="reference.equipmentdata.carrioncrawlermucus@DD Dungeon Masters Guide" class="reference_equipment" pos="1272,332,1622,682" />
+	<window data="reference.equipmentdata.cube@DD Dungeon Masters Guide" class="reference_equipment" pos="1931,322,2281,672" />
+	<window data="reference.equipmentdata.dreamlily@DD Eberron Rising From the Last War - DM" class="reference_equipment" pos="1956,349,2306,699" />
+	<window data="reference.equipmentdata.elvenimage@DD Eberron Rising From the Last War - Players" class="reference_equipment" pos="1958,459,2308,809" />
+	<window data="reference.equipmentdata.dreamlily@DD Eberron Rising From the Last War - Players" class="reference_equipment" pos="2010,367,2360,717" />
+	<window data="reference.equipmentdata.essenceofether@DD Dungeon Masters Guide" class="reference_equipment" pos="1978,366,2328,716" />
+	<window data="reference.equipmentdata.serpentvenom@DD Dungeon Masters Guide" class="reference_equipment" pos="1951,338,2301,688" />
+	<window data="reference.equipmentdata.pierceddragonscale@DD Eberron Rising From the Last War - Players" class="reference_equipment" pos="1992,327,2342,677" />
+	<window data="item.infusedbreastplatearmorofnecroticresistance@DD Eberron Rising From the Last War - Players" class="item" pos="2075,343,2425,693" />
+	<window data="reference.magicitemdata.leatherlivingarmor@DD Eberron Rising From the Last War - DM" class="reference_magicitem" pos="1999,380,2349,730" />
+	<window data="item.infusedleatherarmoroffireresistance@DD Eberron Rising From the Last War - Players" class="item" pos="649,439,999,789" />
+	<window data="charsheet.id-00001.inventorylist.id-00018" class="item" pos="1743,333,2093,683" />
+	<window data="reference.magicitemdata.leatherarmoroffireresistance@DD Dungeon Masters Guide" class="reference_magicitem" pos="997,452,1347,802" />
+	<window data="charsheet.id-00001.inventorylist.id-00023" class="item" pos="3058,551,3408,901" />
+	<window data="charsheet.id-00003.inventorylist.id-00037" class="item" pos="945,499,1295,849" />
+	<window data="reference.magicitemdata.mariner_schainmailarmor@DD Dungeon Masters Guide" class="reference_magicitem" pos="1743,333,2093,683" />
+	<window data="reference.magicitemdata.eyesofcharming@DD Dungeon Masters Guide" class="reference_magicitem" pos="2205,405,2555,755" />
+	<window data="reference.magicitemdata.eyesofminuteseeing@DD Dungeon Masters Guide" class="reference_magicitem" pos="1946,330,2296,680" />
+	<window data="reference.spelldata.chaosbolt@DD Guild Guide to Ravnica" class="reference_spell" pos="1743,333,2093,683" />
+	<window data="reference.magicitemdata.izzetguildsignet@DD Guild Guide to Ravnica" class="reference_magicitem" pos="1916,326,2266,676" />
+	<window data="reference.imagedata.img_keoghtoms_ointment_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="1999,310,2411,753" />
+	<window data="reference.magicitemdata.keoghtom_sointment@DD Dungeon Masters Guide" class="reference_magicitem" pos="1954,268,2304,618" />
+	<window data="reference.magicitemdata.necklaceofadaptation@DD Dungeon Masters Guide" class="reference_magicitem" pos="1951,328,2301,678" />
+	<window data="reference.magicitemdata.pearlofpower@DD Dungeon Masters Guide" class="reference_magicitem" pos="2268,535,2618,885" />
+	<window data="reference.magicitemdata.potionoffirebreath@DD Dungeon Masters Guide" class="reference_magicitem" pos="477,341,827,691" />
+	<window data="reference.magicitemdata.potionofcoldresistance@DD Dungeon Masters Guide" class="reference_magicitem" pos="493,321,843,671" />
+	<window data="charsheet.id-00006.inventorylist.id-00010" class="item" pos="1251,124,1620,871" />
+	<window data="reference.spelldata.plantgrowth@DD PHB Deluxe" class="reference_spell" pos="2035,375,2385,725" />
+	<window data="reference.magicitemdata.scrollofplantgrowth@DD Dungeon Masters Guide" class="reference_magicitem" pos="1743,333,2093,683" />
+	<window data="reference.npcdata.giantconstrictorsnake@DD MM Monster Manual" class="npc" pos="1891,414,2351,964" />
+	<window data="reference.magicitemdata.glamerweavecap@DD Eberron Rising From the Last War - DM" class="reference_magicitem" pos="1470,291,1820,641" />
+	<window data="reference.magicitemdata.rapierarmblade@DD Eberron Rising From the Last War - DM" class="reference_magicitem" pos="1379,365,1729,715" />
+	<window data="reference.magicitemdata.rubyofthewarmage@DD Xanathar's Guide to Everything" class="reference_magicitem" pos="1368,357,1718,707" />
+	<window data="reference.magicitemdata.staffoftheadder@DD Dungeon Masters Guide" class="reference_magicitem" pos="876,186,1226,536" />
+	<window data="reference.imagedata.img_staff_of_the_adder_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="2059,45,2359,939" />
+	<window data="reference.imagedata.img_staff_of_the_python_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="2317,46,2617,938" />
+	<window data="charsheet.id-00006.inventorylist.id-00011" class="item" pos="1953,125,2303,475" />
+	<window data="reference.magicitemdata.staffofthepython@DD Dungeon Masters Guide" class="reference_magicitem" pos="858,537,1208,887" />
+	<window data="reference.magicitemdata.periaptofwoundclosure@DD Dungeon Masters Guide" class="reference_magicitem" pos="1099,326,1449,676" />
+	<window data="reference.magicitemdata.philteroflove@DD Dungeon Masters Guide" class="reference_magicitem" pos="1959,319,2309,669" />
+	<window data="reference.magicitemdata.periaptofhealth@DD Dungeon Masters Guide" class="reference_magicitem" pos="1471,326,1821,676" />
+	<window data="reference.spelldata.dream@DD PHB Deluxe" class="reference_spell" pos="1522,251,1872,889" />
+	<window data="reference.magicitemdata.scrollofdream@DD Dungeon Masters Guide" class="reference_magicitem" pos="2080,299,2430,649" />
+	<window data="reference.equipmentdata.quarterstaff@DD PHB Deluxe" class="reference_weapon" pos="1994,452,2344,802" />
+	<window data="reference.equipmentdata.quarterstaff@DD Xanathar's Guide to Everything" class="reference_weapon" pos="1986,146,2336,496" />
+	<window data="charsheet.id-00001.featurelist.id-00010" class="ref_ability" pos="1364,343,1714,693" />
+	<window data="reference.equipmentdata.quarterstaff@DD Guild Guide to Ravnica" class="reference_weapon" pos="2021,243,2371,593" />
+	<window data="reference.magicitemdata.quarterstaff__3@DD Dungeon Masters Guide" class="reference_magicitem" pos="2100,244,2450,594" />
+	<window data="reference.imagedata.img_skyblinderstaff_jpg@DD Guild Guide to Ravnica" class="imagewindow" pos="1416,112,2421,904" />
+	<window data="reference.magicitemdata.shavarranbirchstaff@DD Eberron Rising From the Last War - DM" class="reference_magicitem" pos="1182,369,1532,719" />
+	<window data="reference.imagedata.img_staff_of_the_woodlands_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="2107,63,2407,954" />
+	<window data="reference.magicitemdata.skyblinderstaff@DD Guild Guide to Ravnica" class="reference_magicitem" pos="1531,219,1881,569" />
+	<window data="reference.magicitemdata.imbuedstaff@DD Eberron Rising From the Last War - DM" class="reference_magicitem" pos="1361,287,1711,637" />
+	<window data="reference.magicitemdata.quarterstaff__1@DD Dungeon Masters Guide" class="reference_magicitem" pos="2392,96,2742,446" />
+	<window data="reference.spelldata.passwithouttrace@DD PHB Deluxe" class="reference_spell" pos="2096,376,2446,726" />
+	<window data="charsheet.id-00006.powers.id-00008" class="power" pos="881,628,1231,978" />
+	<window data="charsheet.id-00006.powers.id-00053" class="power" pos="1194,278,1544,628" />
+	<window data="reference.magicitemdata.staffofthewoodlands@DD Dungeon Masters Guide" class="reference_magicitem" pos="1916,273,2266,623" />
+	<window data="charsheet.id-00006.powers.id-00004" class="power" pos="1743,333,2093,683" />
+	<window data="reference.spelldata.animalfriendship@DD PHB Deluxe" class="reference_spell" pos="1537,331,1887,681" />
+	<window data="charsheet.id-00006.powergroup.id-00002" class="power_groupdetail" pos="2041,464,2471,754" />
+	<window data="charsheet.id-00006.powergroup.id-00003" class="power_groupdetail" pos="1988,292,2418,582" />
+	<window data="charsheet.id-00006.powergroup.id-00001" class="power_groupdetail" pos="1703,363,2133,653" />
+	<window data="charsheet.id-00006.powers.id-00003.actions.id-00001" class="power_heal_editor" pos="1127,540,1477,890" />
+	<window data="charsheet.id-00006.powers.id-00052" class="power" pos="2032,223,2382,573" />
+	<window data="reference.equipmentdata.double_bladedscimitar@DD Eberron Rising From the Last War - Players" class="reference_weapon" pos="1411,329,1761,679" />
+	<window data="charsheet.id-00006.powergroup.id-00004" class="power_groupdetail" pos="1474,355,1904,645" />
+	<window data="charsheet.id-00004.inventorylist.id-00033" class="item" pos="762,412,1112,762" />
+	<window data="charsheet.id-00004.weaponlist.id-00005" class="char_weapon_editor" pos="970,298,1350,648" />
+	<window data="spell.id-00003" class="power" pos="2022,517,2372,867" />
+	<window data="charsheet.id-00004.powergroup.id-00006" class="power_groupdetail" pos="1494,395,1924,685" />
+	<window data="charsheet.id-00004.powergroup.id-00009" class="power_groupdetail" pos="1703,363,2133,653" />
+	<window data="charsheet.id-00004.powers.id-00009" class="power" pos="1743,333,2093,683" />
+	<window data="charsheet.id-00003.powergroup.id-00002" class="power_groupdetail" pos="1703,363,2133,653" />
+	<window data="charsheet.id-00004.powers.id-00010" class="power" pos="2003,514,2353,864" />
+	<window data="charsheet.id-00004.powers.id-00008" class="power" pos="1743,333,2093,683" />
+	<window data="charsheet.id-00004.powers.id-00006" class="power" pos="1743,333,2093,683" />
+	<window data="charsheet.id-00004.powers.id-00011" class="power" pos="1743,333,2093,683" />
+	<window data="reference.magicitemdata.daggerarmblade@DD Eberron Rising From the Last War - DM" class="reference_magicitem" pos="1157,350,1507,700" />
+	<window data="charsheet.id-00003.powers.id-00021" class="power" pos="1945,329,2295,679" />
+	<window data="charsheet.id-00003.powers.id-00024" class="power" pos="1743,333,2093,683" />
+	<window data="charsheet.id-00001.powers.id-00010" class="power" pos="1524,235,1874,585" />
+	<window data="charsheet.id-00001.powers.id-00014" class="power" pos="1055,409,1405,759" />
+	<window data="charsheet.id-00006.inventorylist.id-00013" class="item" pos="1653,105,2003,455" />
+	<window data="reference.equipmentdata.staff@DD PHB Deluxe" class="reference_equipment" pos="2115,468,2465,818" />
+	<window data="spell.id-00027@5E Effects Coding - Spells" class="power" pos="2384,565,2734,915" />
+	<window data="reference.magicitemdata.vicioushalberd@DD Dungeon Masters Guide" class="reference_magicitem" pos="1968,351,2318,701" />
+	<window data="reference.equipmentdata.halberd@DD PHB Deluxe" class="reference_weapon" pos="1939,362,2289,712" />
+	<window data="charsheet.id-00001.inventorylist.id-00019" class="item" pos="1451,361,1801,711" />
+	<window data="charsheet.id-00001.inventorylist.id-00024" class="item" pos="1992,386,2342,736" />
+	<window data="charsheet.id-00001.weaponlist.id-00006" class="char_weapon_editor" pos="1123,338,1503,688" />
+	<window data="reference.magicitemdata.spear__1@DD Dungeon Masters Guide" class="reference_magicitem" pos="2106,309,2456,659" />
+	<window data="charsheet.id-00001.weaponlist.id-00007" class="char_weapon_editor" pos="1381,345,1761,695" />
+	<window data="charsheet.id-00001.powers.id-00011" class="power" pos="1519,351,1869,701" />
+	<window data="charsheet.id-00001.featurelist.id-00009" class="ref_ability" pos="934,23,1540,824" />
+	<window data="spell.id-00135@5E Effects Coding - Spells" class="power" pos="1536,333,1886,683" />
+	<window data="charsheet.id-00001.powers.id-00018.actions.id-00001" class="power_cast_editor" pos="834,370,1204,720" />
+	<window data="charsheet.id-00001.powers.id-00018.actions.id-00002" class="power_damage_editor" pos="1139,401,1519,751" />
+	<window data="charsheet.id-00001.powers.id-00015.actions.id-00001" class="power_effect_editor" pos="1406,331,1756,681" />
+	<window data="spell.id-00216@5E Effects Coding - Spells" class="power" pos="1985,360,2335,710" />
+	<window data="charsheet.id-00001.powers.id-00010.actions.id-00001" class="power_cast_editor" pos="1173,308,1543,658" />
+	<window data="charsheet.id-00001.powers.id-00012.actions.id-00001" class="power_heal_editor" pos="1467,376,1817,726" />
+	<window data="charsheet.id-00001.powers.id-00012.actions.id-00002" class="power_damage_editor" pos="1728,333,2108,683" />
+	<window data="charsheet.id-00001.powers.id-00012" class="power" pos="992,365,1342,715" />
+	<window data="charsheet.id-00001.powers.id-00013" class="power" pos="1237,331,1587,681" />
+	<window data="charsheet.id-00001.powers.id-00015" class="power" pos="1295,535,1645,885" />
+	<window data="spell.id-00498@5E Effects Coding - Spells" class="power" pos="1936,394,2286,744" />
+	<window data="spell.id-00014@5E Effects Coding - Spells" class="power" pos="1341,511,1691,861" />
+	<window data="spell.id-00238@5E Effects Coding - Spells" class="power" pos="1559,399,1909,749" />
+	<window data="spell.id-00208@5E Effects Coding - Spells" class="power" pos="1471,285,1821,635" />
+	<window data="reference.spelldata.silence@DD PHB Deluxe" class="reference_spell" pos="1429,276,1779,626" />
+	<window data="reference.spelldata.blindness_deafness@DD PHB Deluxe" class="reference_spell" pos="1429,632,1779,982" />
+	<window data="spell.id-00506@5E Effects Coding - Spells" class="power" pos="1950,369,2300,719" />
+	<window data="spell.id-00504@5E Effects Coding - Spells" class="power" pos="1946,454,2296,804" />
+	<window data="spell.id-00020@5E Effects Coding - Spells" class="power" pos="1927,397,2277,747" />
+	<window data="spell.id-00570@5E Effects Coding - Spells" class="power" pos="1954,363,2304,713" />
+	<window data="reference.spelldata.mirrorimage@DD PHB Deluxe" class="power" pos="2047,542,2397,892" />
+	<window data="charsheet.id-00001.powers.id-00018" class="power" pos="870,572,1220,922" />
+	<window data="spell.id-00221@5E Effects Coding - Spells" class="power" pos="774,206,1124,556" />
+	<window data="spell.id-00321@5E Effects Coding - Spells" class="power" pos="846,43,1196,393" />
+	<window data="charsheet.id-00004.powers.id-00016" class="power" pos="1152,390,1502,740" />
+	<window data="spell.id-00005@5E Items Effects Coding - Adventuring Gear" class="power" pos="2031,380,2381,730" />
+	<window data="charsheet.id-00003.powers.id-00022.actions.id-00001" class="power_cast_editor" pos="951,350,1321,700" />
+	<window data="charsheet.id-00003.powers.id-00016" class="power" pos="1397,339,1747,689" />
+	<window data="charsheet.id-00003.powers.id-00016.actions.id-00001" class="power_effect_editor" pos="1743,333,2093,683" />
+	<window data="charsheet.id-00003.powers.id-00014.actions.id-00001" class="power_cast_editor" pos="1145,347,1515,697" />
+	<window data="charsheet.id-00003.powers.id-00008" class="power" pos="1005,501,1355,851" />
+	<window data="charsheet.id-00003.powers.id-00014" class="power" pos="1516,351,1866,701" />
+	<window data="spell.id-00023@5E Items Effects Coding - Adventuring Gear" class="power" pos="1928,465,2278,815" />
+	<window data="charsheet.id-00004.powers.id-00003.actions.id-00003" class="power_effect_editor" pos="1203,379,1553,729" />
+	<window data="charsheet.id-00004.powers.id-00001" class="power" pos="1483,396,1833,746" />
+	<window data="spell.id-00004" class="power" pos="2465,584,2815,934" />
+	<window data="charsheet.id-00004.powers.id-00004.actions.id-00001" class="power_heal_editor" pos="1226,411,1576,761" />
+	<window data="charsheet.id-00001.powers.id-00015.actions.id-00003" class="power_effect_editor" pos="1537,329,1887,679" />
+	<window data="charsheet.id-00004.powers.id-00004.actions.id-00002" class="power_effect_editor" pos="1333,401,1683,751" />
+	<window data="charsheet.id-00004.powers.id-00004.actions.id-00003" class="power_effect_editor" pos="1577,390,1927,740" />
+	<window data="spell.id-00003@5E Items Effects Coding - Adventuring Gear" class="power" pos="2020,310,2370,660" />
+	<window data="charsheet.id-00004.powers.id-00004" class="power" pos="2081,491,2431,841" />
+	<window data="spell.id-00006" class="power" pos="1955,399,2305,749" />
+	<window data="spell.id-00002@5E Items Effects Coding - Adventuring Gear" class="power" pos="1940,576,2290,926" />
+	<window data="charsheet.id-00001.powers.id-00019" class="power" pos="1338,326,1688,676" />
+	<window data="reference.imagedata.img_eversmoking_bottle_jpg@DD Dungeon Masters Guide" class="imagewindow" pos="2130,156,2561,923" />
+	<window data="spell.id-00007" class="power" pos="2534,518,2884,868" />
+	<window data="charsheet.id-00004.powers.id-00013" class="power" pos="1743,333,2093,683" />
+	<window data="charsheet.id-00004.powers.id-00013.actions.id-00001" class="power_effect_editor" pos="1530,378,1880,728" />
+	<window data="charsheet.id-00004.inventorylist.id-00012" class="item" pos="2053,189,2506,898" />
+	<window data="spell.id-00022@5E Items Effects Coding - Wondrous Items" class="power" pos="988,287,1338,637" />
+	<window data="spell.id-00008" class="power" pos="964,264,1314,614" />
+	<window data="charsheet.id-00003.powers.id-00025" class="power" pos="1098,253,1448,603" />
+	<window data="charsheet.id-00003.powers.id-00025.actions.id-00001" class="power_effect_editor" pos="1570,443,1920,793" />
+	<window data="charsheet.id-00003.powers.id-00018.actions.id-00001" class="power_cast_editor" pos="1051,357,1421,707" />
+	<window data="charsheet.id-00003.powers.id-00019.actions.id-00001" class="power_cast_editor" pos="1037,314,1407,664" />
+	<window data="charsheet.id-00003.powers.id-00027.actions.id-00001" class="power_cast_editor" pos="958,334,1328,684" />
+	<window data="charsheet.id-00003.powers.id-00027" class="power" pos="1470,308,1820,658" />
+	<window data="charsheet.id-00003.powers.id-00018.actions.id-00002" class="power_damage_editor" pos="1104,319,1484,669" />
+	<window data="spell.id-00245@5E Effects Coding - Spells" class="power" pos="2158,370,2508,720" />
+	<window data="charsheet.id-00003.powers.id-00002.actions.id-00001" class="power_cast_editor" pos="1195,332,1565,682" />
+	<window data="charsheet.id-00003.powers.id-00008.actions.id-00001" class="power_cast_editor" pos="1288,333,1658,683" />
+	<window data="charsheet.id-00001.powers.id-00013.actions.id-00001" class="power_cast_editor" pos="1306,346,1676,696" />
+	<window data="charsheet.id-00001.powers.id-00017.actions.id-00001" class="power_cast_editor" pos="1335,333,1705,683" />
+	<window data="charsheet.id-00001.powers.id-00011.actions.id-00001" class="power_cast_editor" pos="1224,329,1594,679" />
+	<window data="charsheet.id-00001.powers.id-00022.actions.id-00002" class="power_cast_editor" pos="1210,319,1580,669" />
+	<window data="charsheet.id-00001.powers.id-00020.actions.id-00001" class="power_cast_editor" pos="1482,332,1852,682" />
+	<window data="charsheet.id-00003.powers.id-00018" class="power" pos="1540,355,1890,705" />
+	<window data="reference.equipmentdata.apparatus@DD Guild Guide to Ravnica" class="reference_equipment" pos="1408,293,1758,643" />
+	<window data="reference.equipmentdata.blowgun@DD PHB Deluxe" class="reference_weapon" pos="1157,309,1507,659" />
+	<window data="reference.equipmentdata.bronzewoodring@DD Eberron Rising From the Last War - Players" class="reference_equipment" pos="1456,364,1806,714" />
+	<window data="reference.equipmentdata.cameo@DD Eberron Rising From the Last War - Players" class="reference_equipment" pos="1464,351,1814,701" />
+	<window data="reference.equipmentdata.poisoner_skit@DD Xanathar's Guide to Everything" class="reference_equipment" pos="1180,269,1530,619" />
+	<window data="reference.equipmentdata.herbalismkit@DD PHB Deluxe" class="reference_equipment" pos="1244,362,1594,712" />
+	<window data="reference.equipmentdata.assassin_sblood@DD Dungeon Masters Guide" class="reference_equipment" pos="1272,338,1622,688" />
+	<window data="reference.equipmentdata.antitoxin_vial_@DD PHB Deluxe" class="reference_equipment" pos="1368,317,1718,667" />
+	<window data="reference.equipmentdata.kalashtarpoetry@DD Eberron Rising From the Last War - Players" class="reference_equipment" pos="1446,395,1796,745" />
+	<window data="reference.equipmentdata.marmoset@DD Eberron Rising From the Last War - DM" class="reference_equipment" pos="1483,356,1833,706" />
+	<window data="reference.equipmentdata.midnighttears@DD Dungeon Masters Guide" class="reference_equipment" pos="485,509,835,859" />
+	<window data="reference.equipmentdata.oiloftaggit@DD Dungeon Masters Guide" class="reference_equipment" pos="1447,333,1797,683" />
+	<window data="reference.equipmentdata.paletincture@DD Dungeon Masters Guide" class="reference_equipment" pos="572,465,922,815" />
+	<window data="charsheet.id-00006.inventorylist.id-00016" class="item" pos="545,536,895,886" />
+	<window data="charsheet.id-00006.inventorylist.id-00020" class="item" pos="943,322,1293,672" />
+	<window data="charsheet.id-00006.inventorylist.id-00019" class="item" pos="467,412,817,762" />
+	<window data="reference.equipmentdata.purplewormpoison@DD Dungeon Masters Guide" class="reference_equipment" pos="1531,353,1881,703" />
+	<window data="reference.equipmentdata.cloak@DD Dungeon Masters Guide" class="reference_equipment" pos="1743,333,2093,683" />
+	<window data="charsheet.id-00006.powers.id-00003.actions.id-00002" class="power_heal_editor" pos="1142,522,1492,872" />
+	<window data="charsheet.id-00006.powers.id-00007" class="power" pos="2010,430,2360,780" />
+	<window data="charsheet.id-00006.powers.id-00059" class="power" pos="1464,316,1814,666" />
+	<window data="charsheet.id-00006.powers.id-00008.actions.id-00001" class="power_cast_editor" pos="1238,330,1608,680" />
+	<window data="charsheet.id-00006.powers.id-00010.actions.id-00001" class="power_cast_editor" pos="1133,357,1503,707" />
+	<window data="charsheet.id-00006.powers.id-00012.actions.id-00001" class="power_heal_editor" pos="1299,356,1649,706" />
+	<window data="charsheet.id-00006.powers.id-00012" class="power" pos="1197,364,1547,714" />
+	<window data="charsheet.id-00006.powers.id-00015.actions.id-00001" class="power_cast_editor" pos="1089,297,1459,647" />
+	<window data="charsheet.id-00006.powers.id-00016.actions.id-00001" class="power_cast_editor" pos="1243,296,1613,646" />
+	<window data="charsheet.id-00006.powers.id-00017.actions.id-00001" class="power_cast_editor" pos="1213,308,1583,658" />
+	<window data="charsheet.id-00006.powers.id-00021.actions.id-00001" class="power_cast_editor" pos="1399,322,1769,672" />
+	<window data="charsheet.id-00006.powers.id-00025.actions.id-00001" class="power_cast_editor" pos="1185,351,1555,701" />
+	<window data="charsheet.id-00006.powers.id-00027.actions.id-00001" class="power_cast_editor" pos="1253,315,1623,665" />
+	<window data="charsheet.id-00006.powers.id-00032.actions.id-00001" class="power_cast_editor" pos="1302,264,1672,614" />
+	<window data="charsheet.id-00006.powers.id-00033.actions.id-00001" class="power_cast_editor" pos="1260,321,1630,671" />
+	<window data="charsheet.id-00006.powers.id-00036.actions.id-00001" class="power_cast_editor" pos="1179,300,1549,650" />
+	<window data="charsheet.id-00006.powers.id-00037.actions.id-00001" class="power_cast_editor" pos="1283,324,1653,674" />
+	<window data="charsheet.id-00006.powers.id-00038.actions.id-00001" class="power_cast_editor" pos="1235,357,1605,707" />
+	<window data="charsheet.id-00006.powers.id-00040.actions.id-00002" class="power_cast_editor" pos="1190,279,1560,629" />
+	<window data="charsheet.id-00006.powers.id-00041.actions.id-00001" class="power_cast_editor" pos="1130,322,1500,672" />
+	<window data="charsheet.id-00006.powers.id-00045.actions.id-00001" class="power_cast_editor" pos="1201,313,1571,663" />
+	<window data="charsheet.id-00006.powers.id-00045.actions.id-00004" class="power_effect_editor" pos="1061,408,1411,758" />
+	<window data="charsheet.id-00006.powers.id-00026" class="power" pos="974,544,1324,894" />
+	<window data="charsheet.id-00006.powers.id-00043" class="power" pos="1743,333,2093,683" />
+	<window data="charsheet.id-00006.powers.id-00029" class="power" pos="1743,333,2093,683" />
+	<window data="charsheet.id-00006.weaponlist.id-00003" class="char_weapon_editor" pos="1166,243,1546,593" />
+	<window data="reference.magicitemdata.hidelivingarmor@DD Eberron Rising From the Last War - DM" class="reference_magicitem" pos="1468,328,1818,678" />
+	<window data="reference.equipmentdata.studdedleather@DD Xanathar's Guide to Everything" class="reference_armor" pos="1319,281,1669,631" />
+	<window data="reference.magicitemdata.mithralsplintarmor@DD Dungeon Masters Guide" class="reference_magicitem" pos="1743,333,2093,683" />
+	<window data="reference.magicitemdata.mizziumchainmailarmor@DD Guild Guide to Ravnica" class="reference_magicitem" pos="1232,282,1582,632" />
+	<window data="charsheet.id-00006.inventorylist.id-00025" class="item" pos="438,400,788,750" />
+	<window data="reference.equipmentdata.leather@DD Xanathar's Guide to Everything" class="reference_armor" pos="1974,368,2324,718" />
+	<window data="reference.magicitemdata.halberd__1@DD Dungeon Masters Guide" class="reference_magicitem" pos="2391,569,2741,919" />
+	<window data="reference.racedata.half_elf_variant.traits.darkvision@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_racialtrait" pos="1971,340,2321,690" />
+	<window data="reference.npcdata.faeriedragon_blue_@DD MM Monster Manual" class="npc" pos="654,240,1212,975" />
+	<window data="reference.npcdata.faeriedragon_green_@DD MM Monster Manual" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.npcdata.faeriedragon_violet_@DD MM Monster Manual" class="npc" pos="924,114,1384,664" />
+	<window data="reference.npcdata.faeriedragon_indigo_@DD MM Monster Manual" class="npc" pos="1410,131,1870,681" />
+	<window data="reference.imagedata.img_guard_drake_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="785,79,1774,821" />
+	<window data="image.img_halfblackdragonbagaceratops_jpg@Monster Manual Expanded" class="imagewindow" pos="1154,95,2066,887" />
+	<window data="reference.npcdata.hybridbrute@DD Guild Guide to Ravnica" class="npc" pos="1344,98,1804,648" />
+	<window data="image.img_greenspawnleaper_jpg@MME II NPCs" class="imagewindow" pos="1260,80,1834,872" />
+	<window data="reference.npcdata.greenspawnleaper@MME II NPCs" class="npc" pos="877,89,1337,639" />
+	<window data="reference.imagedata.img_hommetshaw_jpg@D&amp;D Sword Coast Adventurer's Guide - Campaign Guide" class="imagewindow" pos="1888,185,2315,933" />
+	<window data="reference.npcdata.hommetshaw@D&amp;D Sword Coast Adventurer's Guide - Campaign Guide" class="npc" pos="2072,298,2532,848" />
+	<window data="image.img_chitineskulker_jpg@MME II NPCs" class="imagewindow" pos="1447,112,2390,904" />
+	<window data="reference.npcdata.chitineskulker@MME II NPCs" class="npc" pos="1688,233,2148,783" />
+	<window data="image.img_blackscalebruiser_jpg@Monster Manual Expanded" class="imagewindow" pos="2268,209,3316,988" />
+	<window data="reference.npcdata.blackscalebruiser@Monster Manual Expanded" class="npc" pos="2015,234,2475,784" />
+	<window data="reference.npcdata.azer@DD MM Monster Manual" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.npcdata.guarddrake@DD Volos Guide to Monsters" class="npc" pos="1358,372,1818,922" />
+	<window data="reference.imagedata.img_horncaller_jpg@DD Guild Guide to Ravnica" class="imagewindow" pos="1415,112,2422,904" />
+	<window data="reference.npcdata.horncaller@DD Guild Guide to Ravnica" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.imagedata.img_nilbog_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="1698,87,2139,929" />
+	<window data="reference.npcdata.nilbog@DD Volos Guide to Monsters" class="npc" pos="1688,233,2148,783" />
+	<window data="image.img_clawfoot_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" pos="482,44,1380,936" />
+	<window data="reference.npcdata.clawfoot@DD Eberron Rising From the Last War - DM" class="npc" pos="723,169,1183,719" />
+	<window data="image.img_ambushdrake_jpg@MME II NPCs" class="imagewindow" pos="2060,180,3108,968" />
+	<window data="reference.npcdata.ambushdrake@MME II NPCs" class="npc" pos="1221,179,1681,729" />
+	<window data="reference.npcdata.abyssalskulker@MME II NPCs" class="npc" pos="1925,356,2385,906" />
+	<window data="image.img_abyssalskulker_jpg@MME II NPCs" class="imagewindow" pos="2258,179,2887,971" />
+	<window data="reference.npcdata.deinonychus@DD Volos Guide to Monsters" class="npc" pos="847,57,1307,607" />
+	<window data="image.img_direcorby_jpg@MME II NPCs" class="imagewindow" pos="1618,112,2219,904" />
+	<window data="reference.npcdata.direcorby@MME II NPCs" class="npc" pos="2093,254,2553,804" />
+	<window data="reference.equipmentdata.horse_riding@DD PHB Deluxe" class="reference_mountsandotheranimals" pos="145,247,591,601" />
+	<window data="charsheet.id-00003.powers.id-00022" class="power" pos="1173,280,1523,630" />
+	<window data="reference.magicitemdata.scrollofdarkvision@DD Dungeon Masters Guide" class="reference_magicitem" pos="531,277,881,627" />
+	<window data="reference.spelldata.comprehendlanguages@DD PHB Deluxe" class="reference_spell" pos="850,243,1200,593" />
+	<window data="reference.spelldata.darkvision@DD Eberron Rising From the Last War - Players" class="reference_spell" pos="856,243,1206,593" />
+	<window data="reference.magicitemdata.scrollofblindingsmite@DD Dungeon Masters Guide" class="reference_magicitem" pos="796,206,1146,556" />
+	<window data="reference.spelldata.blindingsmite@DD PHB Deluxe" class="reference_spell" pos="1406,250,1756,600" />
+	<window data="reference.magicitemdata.scrollofcreatefoodandwater@DD Dungeon Masters Guide" class="reference_magicitem" pos="1467,312,1817,662" />
+	<window data="reference.magicitemdata.scrollofcomprehendlanguages@DD Dungeon Masters Guide" class="reference_magicitem" pos="193,330,543,680" />
+	<window data="reference.spelldata.revivify@DD Eberron Rising From the Last War - Players" class="reference_spell" pos="1204,286,1554,636" />
+	<window data="reference.spelldata.revivify@DD Eberron Rising From the Last War - Players" class="power" pos="787,98,1137,448" />
+	<window data="charsheet.id-00003.powers.id-00013" class="power" pos="1332,323,1682,673" />
+	<window data="reference.magicitemdata.scrollofclairvoyance@DD Dungeon Masters Guide" class="reference_magicitem" pos="1983,86,2333,436" />
+	<window data="battle.id-00008" class="battle" pos="1109,227,1758,920" />
+	<window data="reference.npcdata.halfblackdragonbagaceratops@Monster Manual Expanded" class="npc" pos="939,289,1399,839" />
+	<window data="reference.magicitemdata.potionofspeed@DD Dungeon Masters Guide" class="reference_magicitem" pos="1743,333,2093,683" />
+	<window data="reference.spelldata.enlarge_reduce@DD Eberron Rising From the Last War - Players" class="reference_spell" pos="1418,197,1768,547" />
+	<window data="reference.magicitemdata.potionofgaseousform@DD Dungeon Masters Guide" class="reference_magicitem" pos="649,627,999,977" />
+	<window data="reference.spelldata.gaseousform@DD PHB Deluxe" class="reference_spell" pos="878,536,1228,886" />
+	<window data="reference.magicitemdata.potionofgrowth@DD Dungeon Masters Guide" class="reference_magicitem" pos="179,241,529,591" />
+	<window data="reference.magicitemdata.potionoflongevity@DD Dungeon Masters Guide" class="reference_magicitem" pos="1546,362,1896,712" />
+	<window data="reference.magicitemdata.potionofpoison@DD Dungeon Masters Guide" class="reference_magicitem" pos="1258,198,1608,548" />
+	<window data="reference.magicitemdata.potionofclimbing@DD Dungeon Masters Guide" class="reference_magicitem" pos="526,405,876,755" />
+	<window data="reference.magicitemdata.potionofgreaterhealing@DD Dungeon Masters Guide" class="reference_magicitem" pos="433,83,783,433" />
+	<window data="reference.equipmentdata.burntothurfumes@DD Dungeon Masters Guide" class="reference_equipment" pos="760,442,1110,792" />
+	<window data="reference.equipmentdata.monocle@DD Eberron Rising From the Last War - DM" class="reference_equipment" pos="1564,17,1914,367" />
+	<window data="reference.equipmentdata.manacles@DD PHB Deluxe" class="reference_equipment" pos="1565,398,1915,748" />
+	<window data="reference.equipmentdata.metaldisk@DD Eberron Rising From the Last War - DM" class="reference_equipment" pos="2653,520,3003,870" />
+	<window data="reference.equipmentdata.jarofglue@DD Dungeon Masters Guide" class="reference_equipment" pos="1554,104,1904,454" />
+	<window data="charsheet.id-00003.powers.id-00003" class="power" pos="1135,246,1485,596" />
+	<window data="charsheet.id-00006.featurelist.id-00007" class="ref_ability" pos="1252,94,1602,444" />
+	<window data="charsheet.id-00006.featurelist.id-00004" class="ref_ability" pos="937,82,1398,722" />
+	<window data="charsheet.id-00006.featurelist.id-00005" class="ref_ability" pos="1110,103,1525,772" />
+	<window data="charsheet.id-00006.powers.id-00010" class="power" pos="1742,581,2092,931" />
+	<window data="reference.spelldata.invisibility@DD Eberron Rising From the Last War - Players" class="power" pos="1040,284,1390,634" />
+	<window data="reference.spelldata.scrying@DD PHB Deluxe" class="reference_spell" pos="1305,300,1655,650" />
+	<window data="reference.spelldata.freedomofmovement@DD Eberron Rising From the Last War - Players" class="reference_spell" pos="723,366,1073,716" />
+	<window data="charsheet.id-00004.inventorylist.id-00037" class="item" pos="1743,333,2093,683" />
+	<window data="charsheet.id-00004.inventorylist.id-00036" class="item" pos="1743,333,2093,683" />
+	<window data="charsheet.id-00006.inventorylist.id-00012" class="item" pos="1743,333,2093,683" />
+	<window data="reference.magicitemdata.oilofslipperiness@DD Dungeon Masters Guide" class="reference_magicitem" pos="658,392,1008,742" />
+	<window data="reference.magicitemdata.potionofpoisonresistance@DD Dungeon Masters Guide" class="reference_magicitem" pos="295,396,645,746" />
+	<window data="reference.magicitemdata.potionofhealing@DD Dungeon Masters Guide" class="reference_magicitem" pos="455,104,805,454" />
+	<window data="charsheet.id-00003.inventorylist.id-00013" class="item" pos="583,50,933,400" />
+	<window data="charsheet.id-00003.inventorylist.id-00017" class="item" pos="671,62,988,604" />
+	<window data="charsheet.id-00003.inventorylist.id-00018" class="item" pos="683,51,1343,945" />
+	<window data="notes.id-00003" class="note" pos="2738,572,3088,922" />
+	<window data="notes.id-00002" class="note" pos="2895,221,3245,571" />
+	<window data="notes.id-00005" class="note" pos="2545,413,2895,763" />
+	<window data="notes.id-00006" class="note" pos="2539,410,2889,760" />
+	<window data="notes.id-00004" class="note" pos="740,350,1090,700" />
+	<window data="encounter.id-00019@Fantasy Grounds Portals Instructions" class="encounter" pos="1718,183,2118,833" />
+	<window data="encounter.id-00018@Fantasy Grounds Portals Instructions" class="encounter" pos="1718,183,2118,833" />
+	<window data="reference.imagedata.img_faeriedragon_jpg@DD MM Monster Manual" class="imagewindow" pos="1174,42,1919,934" />
+	<window data="charsheet.id-00006.powers.id-00009" class="power" pos="1124,398,1474,748" />
+	<window data="reference.skilldata.animalhandling@DD PHB Deluxe" class="ref_ability" pos="932,444,1282,794" />
+	<window data="charsheet.id-00006.powers.id-00001" class="power" pos="1568,318,1918,668" />
+	<window data="charsheet.id-00001.powers.id-00008" class="power" pos="1504,243,1854,593" />
+	<window data="image.img_battlesmith_jpg@MME II NPCs" class="imagewindow" pos="2420,94,2987,886" />
+	<window data="image.img_aarakocrabrave_jpg@Monster Manual Expanded" class="imagewindow" pos="1294,96,1821,888" />
+	<window data="reference.imagedata.img_aarakocra_jpg@DD MM Monster Manual" class="imagewindow" pos="1296,44,1869,936" />
+	<window data="image.id-00009" class="imagewindow" pos="0,0,3837,1017" />
+	<window data="reference.npcdata.booyahgbooyahgbooyahg@DD Volos Guide to Monsters" class="npc" pos="2127,276,2587,826" />
+	<window data="image.img_cavalier_jpg@MME II NPCs" class="imagewindow" pos="1653,112,2183,904" />
+	<window data="reference.npcdata.cavalier@MME II NPCs" class="npc" pos="1964,143,2424,693" />
+	<window data="reference.npcdata.battlesmith@MME II NPCs" class="npc" pos="2548,231,3008,781" />
+	<window data="reference.npcdata.captain@Monster Manual Expanded" class="npc" pos="1752,476,2212,1026" />
+	<window data="reference.npcdata.clockworktemplate@DD Mordenkainen's Tome of Foes" class="npc" pos="2015,210,2475,760" />
+	<window data="reference.npcdata.cosmotronicblastseeker@DD Guild Guide to Ravnica" class="npc" pos="2015,360,2475,910" />
+	<window data="reference.npcdata.sergeant@Monster Manual Expanded" class="npc" pos="2603,195,3063,745" />
+	<window data="reference.npcdata.soldier@DD Guild Guide to Ravnica" class="npc" pos="2461,265,2921,815" />
+	<window data="charsheet.id-00003.powergroup.id-00001" class="power_groupdetail" pos="1703,363,2133,653" />
+	<window data="charsheet.id-00003.inventorylist.id-00006" class="item" pos="1554,317,1904,667" />
+	<window data="combattracker.list.id-00010.innatespells.id-00004" class="ct_power_detail" pos="1983,269,2283,569" />
+	<window data="combattracker.list.id-00010.traits.id-00001" class="ct_power_detail" pos="1547,324,1847,624" />
+	<window data="image.id-00001" class="imagewindow" pos="356,-9,1448,976" />
+	<window data="charsheet.id-00006.powers.id-00038" class="power" pos="1933,301,2283,651" />
+	<window data="combattracker.list.id-00010" class="npc" pos="544,256,1004,806" />
+	<window data="charsheet.id-00006.powers.id-00039.actions.id-00002" class="power_effect_editor" pos="1107,320,1457,670" />
+	<window data="combattracker.list.id-00008" class="npc" pos="1923,251,2383,801" />
+	<window data="combattracker.list.id-00019" class="npc" pos="1936,225,2396,775" />
+	<window data="image.id-00019" class="imagewindow" pos="401,44,1870,953" />
+	<window data="battle.id-00012" class="battle" pos="1333,579,1683,979" />
+	<window data="image.id-00032" class="imagewindow" pos="768,10,1837,980" />
+	<window data="reference.npcdata.lifeleechotyugh@Monster Manual Expanded" class="npc" pos="728,233,1188,783" />
+	<window data="reference.npcdata.purplewormling@Monster Manual Expanded" class="npc" pos="728,233,1188,783" />
+	<window data="reference.npcdata.frog@DD MM Monster Manual" class="npc" pos="728,233,1188,783" />
+	<window data="reference.imagedata.img_froghemoth_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="310,157,1299,899" />
+	<window data="reference.npcdata.froghemoth@DD Volos Guide to Monsters" class="npc" pos="728,233,1188,783" />
+	<window data="reference.npcdata.giantfrog@DD MM Monster Manual" class="npc" pos="1072,352,1532,902" />
+	<window data="reference.npcdata.giantbullfrog@Monster Manual Expanded" class="npc" pos="728,233,1188,783" />
+	<window data="reference.imagedata.img_chitine_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="464,137,1453,879" />
+	<window data="reference.npcdata.chitine@DD Volos Guide to Monsters" class="npc" pos="728,233,1188,783" />
+	<window data="reference.imagedata.img_darkling_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="763,112,1153,904" />
+	<window data="reference.npcdata.darkling@DD Volos Guide to Monsters" class="npc" pos="1028,415,1488,965" />
+	<window data="reference.npcdata.swarmofinsects@DD MM Monster Manual" class="npc" pos="1149,293,1609,843" />
+	<window data="battle.id-00013" class="battle" pos="1557,22,1907,422" />
+	<window data="reference.npcdata.giantleech@Monster Manual Expanded" class="npc" pos="514,254,974,804" />
+	<window data="charsheet.id-00006.powers.id-00011" class="power" pos="1988,362,2338,712" />
+	<window data="combattracker.list.id-00009" class="npc" pos="1449,440,1909,840" />
+	<window data="reference.npcdata.swarmofinsects_wasps_@DD MM Monster Manual" class="npc" pos="1047,344,1507,894" />
+	<window data="reference.npcdata.swarmofinsects_spiders_@DD MM Monster Manual" class="npc" pos="1418,162,1878,712" />
+	<window data="reference.npcdata.giantgoat@DD MM Monster Manual" class="npc" pos="1458,144,1918,694" />
+	<window data="npc.id-00012" class="npc" pos="1978,386,2438,936" />
+	<window data="combattracker.list.id-00010.innatespells.id-00007" class="ct_power_detail" pos="2239,326,2539,626" />
+	<window data="reference.npcdata.swarmofinsects_beetles_@DD MM Monster Manual" class="npc" pos="1377,255,1837,805" />
+	<window data="reference.npcdata.darklingskulker@MME II NPCs" class="npc" pos="1438,437,1898,987" />
+	<window data="reference.npcdata.darklingcreeper@MME II NPCs" class="npc" pos="787,250,1247,800" />
+	<window data="image.img_darklingskulker_jpg@MME II NPCs" class="imagewindow" pos="1700,112,2137,904" />
+	<window data="image.img_darklingcreeper_jpg@MME II NPCs" class="imagewindow" pos="1700,112,2137,904" />
+	<window data="charsheet.id-00004.powers.id-00017" class="power" pos="1548,344,1898,694" />
+	<window data="combattracker.list.id-00010.actions.id-00001" class="ct_power_detail" pos="1550,371,1850,671" />
+	<window data="combattracker.list.id-00011" class="npc" pos="860,164,1320,714" />
+	<window data="reference.npcdata.orcbrigand@Monster Manual Expanded" class="npc" pos="2331,472,2791,1022" />
+	<window data="reference.npcdata.orcberserker@Monster Manual Expanded" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.npcdata.kenkuduelist@MME II NPCs" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.npcdata.kenkusneak@Monster Manual Expanded" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.npcdata.kenku@DD MM Monster Manual" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.npcdata.commoner@DD MM Monster Manual" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.npcdata.bard@DD Volos Guide to Monsters" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.npcdata.masterofcruelties@DD Guild Guide to Ravnica" class="npc" pos="1598,233,2058,783" />
+	<window data="reference.npcdata.loremaster@MME II NPCs" class="npc" pos="1439,193,1899,743" />
+	<window data="reference.npcdata.mastermind@MME II NPCs" class="npc" pos="2114,455,2574,1005" />
+	<window data="reference.npcdata.drowmage@DD MM Monster Manual" class="npc" pos="2029,336,2489,886" />
+	<window data="reference.npcdata.warlockofthefiend@DD Volos Guide to Monsters" class="npc" pos="2188,277,2648,827" />
+	<window data="reference.imagedata.img_shadowdemon_jpg@DD MM Monster Manual" class="imagewindow" pos="1742,475,2322,1367" />
+	<window data="reference.npcdata.doppelgangerassassin@Monster Manual Expanded" class="npc" pos="2095,325,2555,875" />
+	<window data="reference.npcdata.doppelganger@DD MM Monster Manual" class="npc" pos="2136,428,2596,978" />
+	<window data="reference.npcdata.masterthief@DD Volos Guide to Monsters" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.npcdata.thoughtspy@DD Guild Guide to Ravnica" class="npc" pos="2034,232,2494,782" />
+	<window data="reference.npcdata.shadowdemon@DD MM Monster Manual" class="npc" pos="2071,268,2531,818" />
+	<window data="battle.id-00014" class="battle" pos="2662,250,3017,879" />
+	<window data="image.id-00031" class="imagewindow" pos="494,0,3342,1017" />
+	<image data="image.img_acolyte_jpg@DD PHB Deluxe" class="imagewindow" control="image" view="253,-400" zoom="1" />
+	<image data="image.img_guild_artisan_jpg@DD PHB Deluxe" class="imagewindow" control="image" view="300,-400" zoom="1" />
+	<image data="reference.imagedata.img_kenku_jpg@DD Volos Guide to Monsters" class="imagewindow" control="image" view="270,-325" zoom="1" />
+	<image data="reference.imagedata.img_adventure_site_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="360,-495" zoom="0.934343457221985" />
+	<image data="reference.imagedata.img_adventure_site_mask_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="125,-342" zoom="1" />
+	<image data="reference.imagedata.img_demonintro_jpg@DD MM Monster Manual" class="imagewindow" control="image" view="163,-450" zoom="1" />
+	<image data="reference.imagedata.img_devilintro_jpg@DD MM Monster Manual" class="imagewindow" control="image" view="156,-400" zoom="1" />
+	<image data="reference.imagedata.img_cleric_death_domain_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="0,0" zoom="0.890371799468994" />
+	<image data="reference.imagedata.img_kobold_lair_players_jpg@DD Volos Guide to Monsters" class="imagewindow" control="image" view="800,-1100" zoom="0.424545466899872" />
+	<image data="reference.imagedata.img_goblin_war_camp_players_jpg@DD Volos Guide to Monsters" class="imagewindow" control="image" view="0,0" zoom="0.30084367057275" />
+	<image data="reference.imagedata.img_kobold_inventor_jpg@DD Volos Guide to Monsters" class="imagewindow" control="image" view="259,-375" zoom="1" />
+	<image data="image.id-00020" class="imagewindow" control="image" view="0,0" zoom="0.9033203125" />
+	<image data="reference.imagedata.img_waterweird_jpg@DD MM Monster Manual" class="imagewindow" control="image" view="269,-400" zoom="1" />
+	<image data="image.img_iron_defender_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" control="image" view="500,-357" zoom="1" />
+	<image data="image.img_living_burning_hands_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" control="image" view="372,-400" zoom="1" />
+	<image data="reference.imagedata.img_bronze_scout_jpg@DD Mordenkainen's Tome of Foes" class="imagewindow" control="image" view="500,-268" zoom="1" />
+	<image data="reference.imagedata.img_quickling_jpg@DD Volos Guide to Monsters" class="imagewindow" control="image" view="400,-341" zoom="1" />
+	<image data="reference.imagedata.img_sprite_jpg@DD MM Monster Manual" class="imagewindow" control="image" view="378,-400" zoom="1" />
+	<image data="reference.imagedata.img_vicious_weapon_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="207,-425" zoom="1" />
+	<image data="image.id-00021" class="imagewindow" control="image" view="0,25" zoom="0.498167842626572" />
+	<image data="image.id-00022" class="imagewindow" control="image" view="0,0" zoom="0.504000008106232" />
+	<image data="reference.imagedata.img_circlet_of_blasting_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="0,0" zoom="1.0892608165741" />
+	<image data="image.id-00023" class="imagewindow" control="image" view="0,0" zoom="0.724921643733978" />
+	<image data="image.id-00024" class="imagewindow" control="image" view="0,0" zoom="1.32699620723724" />
+	<image data="reference.imagedata.img_spell_scroll_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="237,-159" zoom="1" />
+	<image data="reference.imagedata.img_battlesmith_jpg@DD Eberron Rising From the Last War - Players" class="imagewindow" control="image" view="326,-400" zoom="1" />
+	<image data="reference.imagedata.img_staff_of_the_adder_jpg@DD Dungeon Masters Guide" class="imagewindow" control="image" view="73,-401" zoom="1" />
+	<image data="image.img_halfblackdragonbagaceratops_jpg@Monster Manual Expanded" class="imagewindow" control="image" view="432,-350" zoom="1" />
+	<image data="image.img_greenspawnleaper_jpg@MME II NPCs" class="imagewindow" control="image" view="263,-350" zoom="1" />
+	<image data="image.img_clawfoot_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" control="image" view="425,-400" zoom="1" />
+	<image data="image.img_ambushdrake_jpg@MME II NPCs" class="imagewindow" control="image" view="500,-348" zoom="1" />
+	<image data="image.id-00009" class="imagewindow" control="image" view="0,0" zoom="0.330357134342194" />
+	<image data="image.img_cavalier_jpg@MME II NPCs" class="imagewindow" control="image" view="241,-350" zoom="1" />
+	<image data="image.id-00019" class="imagewindow" control="image" view="0,0" zoom="0.0864335045040137" />
+	<image data="image.id-00032" class="imagewindow" control="image" view="-187.785,-179.8533" zoom="0.631873968095792" />
+	<image data="reference.imagedata.img_darkling_jpg@DD Volos Guide to Monsters" class="imagewindow" control="image" view="171,-350" zoom="1" />
+	<image data="image.id-00001" class="imagewindow" control="image" view="-512.9355,966.0429" zoom="0.660774771691822" />
+	<image data="reference.imagedata.img_shadowdemon_jpg@DD MM Monster Manual" class="imagewindow" control="image" view="266,-400" zoom="1" />
+	<image data="image.id-00031" class="imagewindow" control="image" view="0,0" zoom="0.330357134342194" />
+</windowstate>

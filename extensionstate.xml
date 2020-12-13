@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extensionstate version="4" dataversion="20201016">
+	<extension name="5E_Language_Fonts_FR_Wizards" />
+	<extension name="5E_Language_Fonts_Wizards" />
+	<extension name="Custom_Damage_Manager" />
+	<extension name="Mad_Nomads_Automatic_Actions_Tab_Additions" />
+	<extension name="Mad_Nomads_Coin_Manager" />
+	<extension name="Mad_Nomads_Filterable_Inventory" />
+	<extension name="Portals" />
+	<extension name="Better_Module_Window_FGU" />
+	<extension name="Enhanced_Spell_Window_FGU" />
+	<extension name="Mad_Nomads_Character_Sheet_Journal" />
+	<extension name="Mad_Nomads_Character_Sheet_Tweaks" />
+</extensionstate>

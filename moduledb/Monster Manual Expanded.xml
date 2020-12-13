@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4" dataversion="20201016">
+	<reference>
+		<npcdata>
+			<blackscalebruiser>
+				<abilities>
+					<charisma>
+						<bonus type="number">-2</bonus>
+					</charisma>
+					<constitution>
+						<bonus type="number">2</bonus>
+					</constitution>
+					<intelligence>
+						<bonus type="number">-3</bonus>
+					</intelligence>
+					<strength>
+						<bonus type="number">4</bonus>
+					</strength>
+					<wisdom>
+						<bonus type="number">-1</bonus>
+					</wisdom>
+				</abilities>
+			</blackscalebruiser>
+			<bodyguard>
+				<abilities>
+					<constitution>
+						<bonus type="number">2</bonus>
+					</constitution>
+					<dexterity>
+						<bonus type="number">2</bonus>
+					</dexterity>
+					<strength>
+						<bonus type="number">3</bonus>
+					</strength>
+					<wisdom>
+						<bonus type="number">1</bonus>
+					</wisdom>
+				</abilities>
+			</bodyguard>
+			<bodyguardelite>
+				<abilities>
+					<constitution>
+						<bonus type="number">2</bonus>
+					</constitution>
+					<dexterity>
+						<bonus type="number">2</bonus>
+					</dexterity>
+					<strength>
+						<bonus type="number">4</bonus>
+					</strength>
+					<wisdom>
+						<bonus type="number">2</bonus>
+					</wisdom>
+				</abilities>
+			</bodyguardelite>
+			<captain>
+				<abilities>
+					<charisma>
+						<bonus type="number">2</bonus>
+					</charisma>
+					<constitution>
+						<bonus type="number">2</bonus>
+					</constitution>
+					<dexterity>
+						<bonus type="number">1</bonus>
+					</dexterity>
+					<strength>
+						<bonus type="number">3</bonus>
+					</strength>
+				</abilities>
+			</captain>
+			<doppelgangerassassin>
+				<abilities>
+					<charisma>
+						<bonus type="number">2</bonus>
+					</charisma>
+					<constitution>
+						<bonus type="number">2</bonus>
+					</constitution>
+					<dexterity>
+						<bonus type="number">5</bonus>
+					</dexterity>
+					<wisdom>
+						<bonus type="number">1</bonus>
+					</wisdom>
+				</abilities>
+			</doppelgangerassassin>
+			<giantbullfrog>
+				<abilities>
+					<charisma>
+						<bonus type="number">-4</bonus>
+					</charisma>
+					<constitution>
+						<bonus type="number">4</bonus>
+					</constitution>
+					<dexterity>
+						<bonus type="number">1</bonus>
+					</dexterity>
+					<intelligence>
+						<bonus type="number">-4</bonus>
+					</intelligence>
+					<strength>
+						<bonus type="number">3</bonus>
+					</strength>
+				</abilities>
+			</giantbullfrog>
+			<giantleech>
+				<abilities>
+					<charisma>
+						<bonus type="number">-3</bonus>
+					</charisma>
+					<constitution>
+						<bonus type="number">2</bonus>
+					</constitution>
+					<dexterity>
+						<bonus type="number">-1</bonus>
+					</dexterity>
+					<intelligence>
+						<bonus type="number">-5</bonus>
+					</intelligence>
+					<strength>
+						<bonus type="number">3</bonus>
+					</strength>
+					<wisdom>
+						<bonus type="number">-1</bonus>
+					</wisdom>
+				</abilities>
+			</giantleech>
+			<halfblackdragonbagaceratops>
+				<abilities>
+					<charisma>
+						<bonus type="number">-3</bonus>
+					</charisma>
+					<constitution>
+						<bonus type="number">1</bonus>
+					</constitution>
+					<dexterity>
+						<bonus type="number">1</bonus>
+					</dexterity>
+					<intelligence>
+						<bonus type="number">-4</bonus>
+					</intelligence>
+					<strength>
+						<bonus type="number">2</bonus>
+					</strength>
+					<wisdom>
+						<bonus type="number">1</bonus>
+					</wisdom>
+				</abilities>
+			</halfblackdragonbagaceratops>
+			<kenkusneak>
+				<abilities>
+					<dexterity>
+						<bonus type="number">4</bonus>
+					</dexterity>
+				</abilities>
+			</kenkusneak>
+			<lifeleechotyugh>
+				<abilities>
+					<charisma>
+						<bonus type="number">-2</bonus>
+					</charisma>
+					<constitution>
+						<bonus type="number">4</bonus>
+					</constitution>
+					<intelligence>
+						<bonus type="number">-2</bonus>
+					</intelligence>
+					<strength>
+						<bonus type="number">3</bonus>
+					</strength>
+					<wisdom>
+						<bonus type="number">2</bonus>
+					</wisdom>
+				</abilities>
+			</lifeleechotyugh>
+			<orcberserker>
+				<abilities>
+					<constitution>
+						<bonus type="number">4</bonus>
+					</constitution>
+					<dexterity>
+						<bonus type="number">1</bonus>
+					</dexterity>
+					<intelligence>
+						<bonus type="number">-2</bonus>
+					</intelligence>
+					<strength>
+						<bonus type="number">4</bonus>
+					</strength>
+				</abilities>
+			</orcberserker>
+			<orcbrigand>
+				<abilities>
+					<constitution>
+						<bonus type="number">2</bonus>
+					</constitution>
+					<dexterity>
+						<bonus type="number">3</bonus>
+					</dexterity>
+					<intelligence>
+						<bonus type="number">-2</bonus>
+					</intelligence>
+					<strength>
+						<bonus type="number">3</bonus>
+					</strength>
+				</abilities>
+			</orcbrigand>
+			<purplewormling>
+				<abilities>
+					<charisma>
+						<bonus type="number">-3</bonus>
+					</charisma>
+					<constitution>
+						<bonus type="number">2</bonus>
+					</constitution>
+					<dexterity>
+						<bonus type="number">-1</bonus>
+					</dexterity>
+					<intelligence>
+						<bonus type="number">-5</bonus>
+					</intelligence>
+					<strength>
+						<bonus type="number">5</bonus>
+					</strength>
+					<wisdom>
+						<bonus type="number">-1</bonus>
+					</wisdom>
+				</abilities>
+			</purplewormling>
+			<sergeant>
+				<abilities>
+					<charisma>
+						<bonus type="number">1</bonus>
+					</charisma>
+					<constitution>
+						<bonus type="number">2</bonus>
+					</constitution>
+					<strength>
+						<bonus type="number">3</bonus>
+					</strength>
+				</abilities>
+			</sergeant>
+		</npcdata>
+	</reference>
+</root>

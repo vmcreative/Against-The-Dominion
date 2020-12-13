@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4" dataversion="20201016">
+	<reference>
+		<imagedata>
+			<category name="Magic Items - D&amp;D Dungeon Master's Guide">
+				<img_elemental_gems_jpg>
+					<public />
+				</img_elemental_gems_jpg>
+			</category>
+		</imagedata>
+	</reference>
+	<tables>
+		<category name="DD DMG Chptr 7: Treasure">
+			<tab_spellscroll_2ndlevel_>
+				<public />
+				<category name="DD Dungeon Masters Guide">
+					<tablerows>
+						<public />
+						<category name="DD Dungeon Masters Guide">
+							<id-00001>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00001>
+							<id-00002>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00002>
+							<id-00003>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00003>
+							<id-00004>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00004>
+							<id-00005>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00005>
+							<id-00006>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00006>
+							<id-00007>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00007>
+							<id-00008>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00008>
+							<id-00009>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00009>
+							<id-00010>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00010>
+							<id-00011>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00011>
+							<id-00012>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00012>
+							<id-00013>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00013>
+							<id-00014>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00014>
+							<id-00015>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00015>
+							<id-00016>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00016>
+							<id-00017>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00017>
+							<id-00018>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00018>
+							<id-00019>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00019>
+							<id-00020>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00020>
+							<id-00021>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00021>
+							<id-00022>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00022>
+							<id-00023>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00023>
+							<id-00024>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00024>
+							<id-00025>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00025>
+							<id-00026>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00026>
+							<id-00027>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00027>
+							<id-00028>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00028>
+							<id-00029>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00029>
+							<id-00030>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00030>
+							<id-00031>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00031>
+							<id-00032>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00032>
+							<id-00033>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00033>
+							<id-00034>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00034>
+							<id-00035>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00035>
+							<id-00036>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00036>
+							<id-00037>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00037>
+							<id-00038>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00038>
+							<id-00039>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00039>
+							<id-00040>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00040>
+							<id-00041>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00041>
+							<id-00042>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00042>
+							<id-00043>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00043>
+							<id-00044>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00044>
+							<id-00045>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00045>
+							<id-00046>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00046>
+							<id-00047>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00047>
+							<id-00048>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00048>
+							<id-00049>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00049>
+							<id-00050>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00050>
+							<id-00051>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00051>
+							<id-00052>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00052>
+							<id-00053>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00053>
+							<id-00054>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00054>
+							<id-00055>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00055>
+							<id-00056>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00056>
+							<id-00057>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00057>
+							<id-00058>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00058>
+							<id-00059>
+								<public />
+								<category name="DD Dungeon Masters Guide">
+									<results>
+										<public />
+										<category name="DD Dungeon Masters Guide">
+											<id-00001>
+												<public />
+											</id-00001>
+										</category>
+									</results>
+								</category>
+							</id-00059>
+						</category>
+					</tablerows>
+				</category>
+			</tab_spellscroll_2ndlevel_>
+		</category>
+	</tables>
+</root>

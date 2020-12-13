@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root version="4" dataversion="20201016">
+	<tables>
+		<category name="Xanathar's Guide to Everything">
+			<tab_childhoodhome>
+				<category name="DD Xanathar's Guide to Everything">
+					<tablerows>
+						<category name="DD Xanathar's Guide to Everything">
+							<id-00003>
+								<category name="DD Xanathar's Guide to Everything">
+									<results>
+										<id-00002 type="deleted" />
+									</results>
+								</category>
+							</id-00003>
+						</category>
+					</tablerows>
+				</category>
+			</tab_childhoodhome>
+			<tab_specialterms>
+				<category name="DD Xanathar's Guide to Everything">
+					<tablerows>
+						<category name="DD Xanathar's Guide to Everything">
+							<id-00002>
+								<category name="DD Xanathar's Guide to Everything">
+									<results>
+										<id-00002 type="deleted" />
+									</results>
+								</category>
+							</id-00002>
+						</category>
+					</tablerows>
+				</category>
+			</tab_specialterms>
+		</category>
+	</tables>
+</root>
