@@ -5,6 +5,9 @@
 			<medicine>
 				<public />
 			</medicine>
+			<stealth>
+				<public />
+			</stealth>
 		</skilldata>
 	</reference>
 </root>

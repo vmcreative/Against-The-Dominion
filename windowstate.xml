@@ -9,10 +9,11 @@
 	<window data="" class="moduleselection" pos="138,80,1741,1017" />
 	<window data="" class="pointerselection" pos="846,366,1096,621" />
 	<window data="" class="bettermoduleselection" pos="305,51,1903,882" />
+	<window data="" class="chat" pos="15,538,659,888" />
 	<window data="tables.tab_patronattitudes@DD Xanathar's Guide to Everything" class="table" pos="459,531,859,931" />
 	<window data="charsheet.id-00001" class="charsheet_classes" pos="1447,206,1917,506" />
 	<window data="charsheet.id-00001" class="charsheet_healthcalc" pos="963,723,1363,843" />
-	<window data="charsheet.id-00001" class="charsheet" pos="934,-2,1384,935" />
+	<window data="charsheet.id-00001" class="charsheet" pos="658,2,1108,939" />
 	<window data="charsheet.id-00001" class="charsheet_combatcalc" pos="2801,401,3301,621" />
 	<window data="charsheet.id-00001" class="coin_manager_add_window" pos="1718,358,2118,658" />
 	<window data="charsheet.id-00001" class="coin_manager_remove_window" pos="1718,358,2118,658" />
@@ -51,7 +52,7 @@
 	<window data="reference.classdata.warlock.features.healinglight1@DD Xanathar's Guide to Everything" class="reference_classfeature" pos="1453,411,1803,711" />
 	<window data="reference.classdata.warlock@DD Xanathar's Guide to Everything" class="reference_class" pos="2770,31,3352,991" />
 	<window data="charsheet.id-00001.featurelist.id-00004" class="ref_ability" pos="2011,254,2361,604" />
-	<window data="charsheet.id-00002" class="charsheet" pos="450,-10,900,928" />
+	<window data="charsheet.id-00002" class="charsheet" pos="853,11,1303,949" />
 	<window data="charsheet.id-00002" class="charsheet_classes" pos="1413,244,1883,544" />
 	<window data="charsheet.id-00002" class="charsheet_healthcalc" pos="884,545,1284,665" />
 	<window data="charsheet.id-00002" class="charsheet_combatcalc" pos="1366,690,1866,910" />
@@ -122,7 +123,7 @@
 	<window data="reference.classdata.wizard.features.improvedminorillusion2@DD PHB Deluxe" class="reference_classfeature" pos="2283,11,2633,313" />
 	<window data="reference.classdata.wizard.features.illusionsavant2@DD PHB Deluxe" class="reference_classfeature" pos="2285,13,2635,313" />
 	<window data="charsheet.id-00003" class="charsheet_classes" pos="853,42,1323,342" />
-	<window data="charsheet.id-00003" class="charsheet" pos="756,251,1206,1187" />
+	<window data="charsheet.id-00003" class="charsheet" pos="666,6,1116,942" />
 	<window data="charsheet.id-00003" class="charsheet_combatcalc" pos="2230,533,2730,753" />
 	<window data="charsheet.id-00003" class="charsheet_healthcalc" pos="1452,243,1852,363" />
 	<window data="charsheet.id-00003" class="coin_manager_add_window" pos="1516,349,1916,649" />
@@ -206,8 +207,8 @@
 	<window data="reference.classdata.wizard@DD PHB Deluxe" class="reference_class" pos="2000,11,2549,975" />
 	<window data="reference.classdata.wizard.features.spellcasting1@DD PHB Deluxe" class="reference_classfeature" pos="2473,16,2919,975" />
 	<window data="encounter" class="masterindex" pos="1398,250,1462,316" />
-	<window data="image" class="masterindex" pos="395,21,845,471" />
-	<window data="battle" class="masterindex" pos="2739,89,3189,539" />
+	<window data="image" class="masterindex" pos="986,33,1722,905" />
+	<window data="battle" class="masterindex" pos="1335,93,1785,543" />
 	<window data="skill" class="masterindex" pos="227,522,291,588" />
 	<window data="race" class="masterindex" pos="1654,387,1718,453" />
 	<window data="class" class="masterindex" pos="1051,156,1501,606" />
@@ -508,7 +509,7 @@
 	<window data="reference.imagedata.img_hag_lair_dm_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="390,92,1529,934" />
 	<window data="charsheet.id-00004.weaponlist.id-00003" class="char_weapon_editor" pos="1423,391,1803,741" />
 	<window data="reference.imagedata.img_goblin_war_camp_players_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="1920,6,2910,990" />
-	<window data="combattracker" class="combattracker_host" pos="648,106,1298,962" />
+	<window data="combattracker" class="combattracker_host" pos="12,90,662,546" />
 	<window data="npc.id-00001@5E Effects Coding - Spells" class="npc" pos="1990,268,2450,818" />
 	<window data="image.id-00020" class="imagewindow" pos="1931,30,3003,1047" />
 	<window data="itemtemplate" class="masterindex" pos="2569,202,2633,268" />
@@ -580,7 +581,7 @@
 	<window data="tables.tab_koboldinventorweaponinvention@DD Volos Guide to Monsters" class="table" pos="2707,281,3107,681" />
 	<window data="npc.id-00001" class="npc" pos="3044,43,3504,892" />
 	<window data="reference.npcdata.giantspider@DD MM Monster Manual" class="npc" pos="2049,230,2509,780" />
-	<window data="charsheet.id-00006.powers.id-00046" class="power" pos="1742,323,2092,673" />
+	<window data="charsheet.id-00006.powers.id-00046" class="power" pos="1477,258,1827,608" />
 	<window data="battle.id-00006" class="battle" pos="2350,256,2650,556" />
 	<window data="reference.equipmentdata.acid_vial_@DD PHB Deluxe" class="reference_equipment" pos="1954,351,2304,701" />
 	<window data="reference.imagedata.img_kobold_inventor_jpg@DD Volos Guide to Monsters" class="imagewindow" pos="1349,67,1915,909" />
@@ -975,7 +976,7 @@
 	<window data="charsheet.id-00006" class="char_weaponmeta" pos="1477,395,1877,570" />
 	<window data="charsheet.id-00006" class="charsheet_combatcalc" pos="967,350,1467,570" />
 	<window data="charsheet.id-00006" class="coin_manager_remove_window" pos="901,346,1301,646" />
-	<window data="charsheet.id-00006" class="charsheet" pos="2129,3,2579,947" />
+	<window data="charsheet.id-00006" class="charsheet" pos="691,35,1141,979" />
 	<window data="reference.classdata.druid.abilities.circleoftheshepherd@DD Xanathar's Guide to Everything" class="reference_classability" pos="1742,140,2092,440" />
 	<window data="reference.classdata.druid.features.combatwildshape2@DD PHB Deluxe" class="reference_classfeature" pos="1742,595,2092,895" />
 	<window data="reference.racedata.half_elf_variant.traits.subrace@D&amp;D Sword Coast Adventurer's Guide - Player's Guide" class="reference_racialtrait" pos="1739,526,2089,876" />
@@ -1370,13 +1371,11 @@
 	<window data="combattracker.list.id-00010.traits.id-00001" class="ct_power_detail" pos="1547,324,1847,624" />
 	<window data="image.id-00001" class="imagewindow" pos="356,-9,1448,976" />
 	<window data="charsheet.id-00006.powers.id-00038" class="power" pos="1933,301,2283,651" />
-	<window data="combattracker.list.id-00010" class="npc" pos="544,256,1004,806" />
+	<window data="combattracker.list.id-00010" class="npc" pos="3000,150,3460,700" />
 	<window data="charsheet.id-00006.powers.id-00039.actions.id-00002" class="power_effect_editor" pos="1107,320,1457,670" />
-	<window data="combattracker.list.id-00008" class="npc" pos="1923,251,2383,801" />
-	<window data="combattracker.list.id-00019" class="npc" pos="1936,225,2396,775" />
 	<window data="image.id-00019" class="imagewindow" pos="401,44,1870,953" />
 	<window data="battle.id-00012" class="battle" pos="1333,579,1683,979" />
-	<window data="image.id-00032" class="imagewindow" pos="768,10,1837,980" />
+	<window data="image.id-00032" class="imagewindow" pos="642,14,1926,999" />
 	<window data="reference.npcdata.lifeleechotyugh@Monster Manual Expanded" class="npc" pos="728,233,1188,783" />
 	<window data="reference.npcdata.purplewormling@Monster Manual Expanded" class="npc" pos="728,233,1188,783" />
 	<window data="reference.npcdata.frog@DD MM Monster Manual" class="npc" pos="728,233,1188,783" />
@@ -1392,7 +1391,6 @@
 	<window data="battle.id-00013" class="battle" pos="1557,22,1907,422" />
 	<window data="reference.npcdata.giantleech@Monster Manual Expanded" class="npc" pos="514,254,974,804" />
 	<window data="charsheet.id-00006.powers.id-00011" class="power" pos="1988,362,2338,712" />
-	<window data="combattracker.list.id-00009" class="npc" pos="1449,440,1909,840" />
 	<window data="reference.npcdata.swarmofinsects_wasps_@DD MM Monster Manual" class="npc" pos="1047,344,1507,894" />
 	<window data="reference.npcdata.swarmofinsects_spiders_@DD MM Monster Manual" class="npc" pos="1418,162,1878,712" />
 	<window data="reference.npcdata.giantgoat@DD MM Monster Manual" class="npc" pos="1458,144,1918,694" />
@@ -1405,27 +1403,43 @@
 	<window data="image.img_darklingcreeper_jpg@MME II NPCs" class="imagewindow" pos="1700,112,2137,904" />
 	<window data="charsheet.id-00004.powers.id-00017" class="power" pos="1548,344,1898,694" />
 	<window data="combattracker.list.id-00010.actions.id-00001" class="ct_power_detail" pos="1550,371,1850,671" />
-	<window data="combattracker.list.id-00011" class="npc" pos="860,164,1320,714" />
-	<window data="reference.npcdata.orcbrigand@Monster Manual Expanded" class="npc" pos="2331,472,2791,1022" />
+	<window data="reference.npcdata.orcbrigand@Monster Manual Expanded" class="npc" pos="2816,305,3276,855" />
 	<window data="reference.npcdata.orcberserker@Monster Manual Expanded" class="npc" pos="1688,233,2148,783" />
 	<window data="reference.npcdata.kenkuduelist@MME II NPCs" class="npc" pos="1688,233,2148,783" />
-	<window data="reference.npcdata.kenkusneak@Monster Manual Expanded" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.npcdata.kenkusneak@Monster Manual Expanded" class="npc" pos="3092,118,3552,668" />
 	<window data="reference.npcdata.kenku@DD MM Monster Manual" class="npc" pos="1688,233,2148,783" />
-	<window data="reference.npcdata.commoner@DD MM Monster Manual" class="npc" pos="1688,233,2148,783" />
+	<window data="reference.npcdata.commoner@DD MM Monster Manual" class="npc" pos="1360,203,1820,753" />
 	<window data="reference.npcdata.bard@DD Volos Guide to Monsters" class="npc" pos="1688,233,2148,783" />
 	<window data="reference.npcdata.masterofcruelties@DD Guild Guide to Ravnica" class="npc" pos="1598,233,2058,783" />
 	<window data="reference.npcdata.loremaster@MME II NPCs" class="npc" pos="1439,193,1899,743" />
 	<window data="reference.npcdata.mastermind@MME II NPCs" class="npc" pos="2114,455,2574,1005" />
 	<window data="reference.npcdata.drowmage@DD MM Monster Manual" class="npc" pos="2029,336,2489,886" />
-	<window data="reference.npcdata.warlockofthefiend@DD Volos Guide to Monsters" class="npc" pos="2188,277,2648,827" />
+	<window data="reference.npcdata.warlockofthefiend@DD Volos Guide to Monsters" class="npc" pos="3040,56,3500,606" />
 	<window data="reference.imagedata.img_shadowdemon_jpg@DD MM Monster Manual" class="imagewindow" pos="1742,475,2322,1367" />
 	<window data="reference.npcdata.doppelgangerassassin@Monster Manual Expanded" class="npc" pos="2095,325,2555,875" />
-	<window data="reference.npcdata.doppelganger@DD MM Monster Manual" class="npc" pos="2136,428,2596,978" />
-	<window data="reference.npcdata.masterthief@DD Volos Guide to Monsters" class="npc" pos="1688,233,2148,783" />
-	<window data="reference.npcdata.thoughtspy@DD Guild Guide to Ravnica" class="npc" pos="2034,232,2494,782" />
+	<window data="reference.npcdata.doppelganger@DD MM Monster Manual" class="npc" pos="2187,260,2647,810" />
+	<window data="reference.npcdata.masterthief@DD Volos Guide to Monsters" class="npc" pos="2030,101,2490,651" />
+	<window data="reference.npcdata.thoughtspy@DD Guild Guide to Ravnica" class="npc" pos="3140,182,3600,732" />
 	<window data="reference.npcdata.shadowdemon@DD MM Monster Manual" class="npc" pos="2071,268,2531,818" />
-	<window data="battle.id-00014" class="battle" pos="2662,250,3017,879" />
+	<window data="battle.id-00014" class="battle" pos="2179,18,2738,972" />
 	<window data="image.id-00031" class="imagewindow" pos="494,0,3342,1017" />
+	<window data="charsheet.id-00001.powers.id-00022" class="power" pos="1201,347,1551,697" />
+	<window data="combattracker.list.id-00030" class="npc" pos="1975,173,2435,723" />
+	<window data="combattracker.list.id-00029" class="npc" pos="1000,271,1460,821" />
+	<window data="image.id-00029" class="imagewindow" pos="1863,-2,3580,976" />
+	<window data="charsheet.id-00003.powers.id-00017" class="power" pos="1999,333,2349,683" />
+	<window data="image.img_nightclub_two_players_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" pos="819,0,3017,1017" />
+	<window data="image.img_nightclub_one_players_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" pos="844,0,2992,1017" />
+	<window data="image.img_seal_dm_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" pos="1394,0,2442,1017" />
+	<window data="image.img_terminus_one_players_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" pos="1319,112,2517,904" />
+	<window data="image.img_workshop_two_players_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" pos="1269,0,2567,1017" />
+	<window data="reference.imagedata.img_map_notoriousnightclub_jpg@DD Guild Guide to Ravnica" class="imagewindow" pos="852,15,1900,1032" />
+	<window data="reference.imagedata.img_map_undercitymansion_jpg@DD Guild Guide to Ravnica" class="imagewindow" pos="834,17,1882,1034" />
+	<window data="reference.imagedata.img_map_growthchamber_jpg@DD Guild Guide to Ravnica" class="imagewindow" pos="1394,0,2442,1017" />
+	<window data="reference.imagedata.img_map_dimirsafehouse_jpg@DD Guild Guide to Ravnica" class="imagewindow" pos="415,29,1454,1046" />
+	<window data="image.img_large_temple_jpg@Strongholds and Followers" class="imagewindow" pos="1144,0,2692,1017" />
+	<window data="image.img_small_keep_jpg@Strongholds and Followers" class="imagewindow" pos="869,0,2967,1017" />
+	<window data="image.img_interior_tower_jpg@Strongholds and Followers" class="imagewindow" pos="374,95,1772,1112" />
 	<image data="image.img_acolyte_jpg@DD PHB Deluxe" class="imagewindow" control="image" view="253,-400" zoom="1" />
 	<image data="image.img_guild_artisan_jpg@DD PHB Deluxe" class="imagewindow" control="image" view="300,-400" zoom="1" />
 	<image data="reference.imagedata.img_kenku_jpg@DD Volos Guide to Monsters" class="imagewindow" control="image" view="270,-325" zoom="1" />
@@ -1460,9 +1474,22 @@
 	<image data="image.id-00009" class="imagewindow" control="image" view="0,0" zoom="0.330357134342194" />
 	<image data="image.img_cavalier_jpg@MME II NPCs" class="imagewindow" control="image" view="241,-350" zoom="1" />
 	<image data="image.id-00019" class="imagewindow" control="image" view="0,0" zoom="0.0864335045040137" />
-	<image data="image.id-00032" class="imagewindow" control="image" view="-187.785,-179.8533" zoom="0.631873968095792" />
+	<image data="image.id-00032" class="imagewindow" control="image" view="-675.3669,45.97239" zoom="0.607004035257248" />
 	<image data="reference.imagedata.img_darkling_jpg@DD Volos Guide to Monsters" class="imagewindow" control="image" view="171,-350" zoom="1" />
-	<image data="image.id-00001" class="imagewindow" control="image" view="-512.9355,966.0429" zoom="0.660774771691822" />
+	<image data="image.id-00001" class="imagewindow" control="image" view="0,0" zoom="0.660774771691822" />
 	<image data="reference.imagedata.img_shadowdemon_jpg@DD MM Monster Manual" class="imagewindow" control="image" view="266,-400" zoom="1" />
 	<image data="image.id-00031" class="imagewindow" control="image" view="0,0" zoom="0.330357134342194" />
+	<image data="image.img_nightclub_two_players_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" control="image" view="1075,-725" zoom="0.637931048870087" />
+	<image data="image.img_nightclub_one_players_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" control="image" view="1050,-700" zoom="0.660714268684387" />
+	<image data="image.img_seal_dm_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" control="image" view="500,-678.5" zoom="0.681650698184967" />
+	<image data="image.img_terminus_one_players_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" control="image" view="575,-350" zoom="1" />
+	<image data="image.img_workshop_two_players_jpg@DD Eberron Rising From the Last War - DM" class="imagewindow" control="image" view="625,-500" zoom="0.925000011920929" />
+	<image data="reference.imagedata.img_map_notoriousnightclub_jpg@DD Guild Guide to Ravnica" class="imagewindow" control="image" view="500,-600" zoom="0.770833313465118" />
+	<image data="reference.imagedata.img_map_undercitymansion_jpg@DD Guild Guide to Ravnica" class="imagewindow" control="image" view="500,-600" zoom="0.770833313465118" />
+	<image data="reference.imagedata.img_map_growthchamber_jpg@DD Guild Guide to Ravnica" class="imagewindow" control="image" view="500,-600" zoom="0.770833313465118" />
+	<image data="reference.imagedata.img_map_dimirsafehouse_jpg@DD Guild Guide to Ravnica" class="imagewindow" control="image" view="495.5,-600" zoom="0.770833313465118" />
+	<image data="image.img_large_temple_jpg@Strongholds and Followers" class="imagewindow" control="image" view="750,-950" zoom="0.486842095851898" />
+	<image data="image.img_small_keep_jpg@Strongholds and Followers" class="imagewindow" control="image" view="1025,-700" zoom="0.660714268684387" />
+	<image data="image.img_interior_tower_jpg@Strongholds and Followers" class="imagewindow" control="image" view="675,-925" zoom="0.5" />
+	<image data="image.id-00029" class="imagewindow" control="image" view="2697,-2698" zoom="0.257100503721164" />
 </windowstate>

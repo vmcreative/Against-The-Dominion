@@ -36,6 +36,7 @@
 						<bonus type="number">1</bonus>
 					</wisdom>
 				</abilities>
+				<locked type="number">0</locked>
 			</bodyguard>
 			<bodyguardelite>
 				<abilities>
@@ -205,6 +206,9 @@
 						<bonus type="number">3</bonus>
 					</strength>
 				</abilities>
+				<locked type="number">1</locked>
+				<name type="string">Veera [Orc Mercenary]</name>
+				<nonid_name type="string">Female Orc Mercenary</nonid_name>
 			</orcbrigand>
 			<purplewormling>
 				<abilities>
